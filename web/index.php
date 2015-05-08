@@ -25,9 +25,11 @@ $media_scheme_prefix = get('media_scheme', ['default' => 'http']);
 if ($media_scheme_prefix!=null) {
   $media_scheme_prefix = $media_scheme_prefix . ':';
 }
+
 $description_prefix = get('description_prefix', ['right_padding_if_present' => ' ']);
 $explicit = filter_var(get('explicit', ['default' => 'false']), FILTER_VALIDATE_BOOLEAN);
 $itunes = filter_var(get('itunes', ['default' => 'true']), FILTER_VALIDATE_BOOLEAN);
+$include_episode_time = filter_var(get('include_episode_time', ['default' => 'true']), FILTER_VALIDATE_BOOLEAN);
 
 $explicit_string = $explicit ? 'yes' : 'no';
 $latest_time = floor($latest_time/$interval) * $interval;

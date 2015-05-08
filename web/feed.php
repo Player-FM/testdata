@@ -67,7 +67,9 @@ END;
         <title><?= $title_prefix ?><?= ucfirst($title = phrase($index, true)) ?></title>
         <link><?= $server_prefix ?>/dynamic/<?= guid($index) ?></link>
         <description><?= $description_prefix ?>Comparing <?= phrase($index) ?> to <?= phrase($index+1) ?></description>
+<? if ($include_episode_time) { ?>
         <pubDate><?= pubDate($index) ?></pubDate>
+<? } ?>
         <language>en-us</language>
         <guid isPermaLink="false"><?= $server_prefix ?>/<?= guid($index) ?></guid>
         <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Humphrey B. Bear</dc:creator>
