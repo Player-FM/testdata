@@ -34,9 +34,10 @@ function phrase($index) {
   return sprintf("%s %s in %s", sample($adjectives), sample($animals), sample($countries));
 }
 
-function mp3($media_scheme_prefix, $title) {
+function mp3($media_scheme_prefix, $episode_url_path_left_padding, $title) {
   $query = preg_replace('/\s+/', '+', $title);
-  return $media_scheme_prefix . "//tts-api.com/tts.mp3?q=" . $query;
+  $episode_url_path_prefix = str_repeat('x', $episode_url_path_left_padding);
+  return $media_scheme_prefix . "//" . $episode_url_path_prefix . "tts-api.com/tts.mp3?q=" . $query;
 }
 
 function image($index) {
