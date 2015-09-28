@@ -27,4 +27,9 @@ function get($param_key, $options=array()) {
   return $val;
 }
 
+function get_boolean($param_key, $default=true) {
+  $str = get($param_key, [ 'default' => ($default ? 'true' : 'false') ]);
+  return filter_var($str, FILTER_VALIDATE_BOOLEAN);
+}
+
 ?>
