@@ -65,14 +65,14 @@ END;
 
       <item>
         <title><?= $title_prefix ?><?= ucfirst($title = phrase($index, true)) ?></title>
-        <link><?= $server_prefix ?>/dynamic/<?= guid($index) ?></link>
+        <link><?= $server_prefix ?>/dynamic/<?= guid($index, $episode_guid_path_left_padding) ?></link>
         <description><?= $description_prefix ?>Comparing <?= phrase($index) ?> to <?= phrase($index+1) ?></description>
 <? if ($include_episode_time) { ?>
         <pubDate><?= pubDate($index) ?></pubDate>
 <? } ?>
         <language>en-us</language>
 <? if ($include_guid ) { ?>
-        <guid isPermaLink="false"><?= $server_prefix ?>/<?= guid($index) ?></guid>
+        <guid isPermaLink="false"><?= $server_prefix ?>/<?= guid($index, $episode_guid_path_left_padding) ?></guid>
 <? } ?>
         <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Humphrey B. Bear</dc:creator>
         <media:content url="<?= mp3($media_scheme_prefix, $episode_url_path_left_padding, $title) ?>" type="audio/mpeg" />

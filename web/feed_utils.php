@@ -15,9 +15,10 @@ function time_string($index) {
   return date("H:i:s",$rounded) . " on " . date("jS", $rounded) . " of " . date("M", $rounded) . ", " . date("Y", $rounded);
 }
 
-function guid($index) {
+function guid($index, $episode_guid_path_left_padding) {
   //return base64_encode(post_time($index));
-  return toBase(post_time($index));
+  $episode_guid_path_prefix = str_repeat('x', $episode_guid_path_left_padding);
+  return $episode_guid_path_prefix . toBase(post_time($index));
 }
 
 function sample($array) {

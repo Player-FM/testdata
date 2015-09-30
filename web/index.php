@@ -19,7 +19,8 @@ $feed_title = get('feed_title', ['default' => 'My Delightful Feed']);
 $title_prefix = get('title_prefix', ['right_padding_if_present' => ' ']);
 $feed_image = get('feed_image'); // e.g. http://www.unity.fm/rssfeeds/ACourseInMiracles
 $feed_img = get('feed_img'); // e.g. http://feeds.feedburner.com/takeawaymoviedate
-$episode_url_path_left_padding = get('episode_url_path_left_padding', ['default' => 0]);
+$episode_guid_path_left_padding = get('episode_guid_path_left_padding', ['default' => 0]);
+$episode_url_path_left_padding  = get('episode_url_path_left_padding', ['default' => 0]);
 $feed_media_image = get('feed_media_image');
 $itunes_image = get('itunes_image', ['default' => $server_prefix . '/media/dog.jpg']);
 $media_scheme_prefix = get('media_scheme', ['default' => 'http']);
