@@ -24,6 +24,7 @@ $episode_url_path_left_padding  = get('episode_url_path_left_padding', ['default
 $feed_media_image = get('feed_media_image');
 $itunes_image = get('itunes_image', ['default' => $server_prefix . '/media/dog.jpg']);
 $media_scheme_prefix = get('media_scheme', ['default' => 'http']);
+$include_feed_title = get_boolean('include_feed_title', true);
 $include_guid = get_boolean('include_guid', true);
 if ($media_scheme_prefix!=null) {
   $media_scheme_prefix = $media_scheme_prefix . ':';
