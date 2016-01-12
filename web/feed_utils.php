@@ -18,7 +18,8 @@ function time_string($index) {
 function guid($index, $episode_guid_path_left_padding) {
   //return base64_encode(post_time($index));
   $episode_guid_path_prefix = str_repeat('x', $episode_guid_path_left_padding);
-  return $episode_guid_path_prefix . toBase(post_time($index));
+  $era = (post_time($index) < 0) ? "pre" : ""; # otherwise, time -10 will equate to +10
+  return $episode_guid_path_prefix . $era . toBase(post_time($index));
 }
 
 function sample($array) {
