@@ -25,9 +25,9 @@ END;
 
   <channel>
 
-    <? if ($include_feed_title ) { ?>
-      <title><?= $feed_title ?></title>
-    <? } ?>
+<? if ($include_feed_title ) { ?>
+    <title><?= $feed_title ?></title>
+<? } ?>
     <link>http://player.fm/home</link>
     <description>It's been said this is the most sublime feed any human has ever beared witness to. Who am I to argue?</description>
     <language>en-us</language>
@@ -63,10 +63,11 @@ END;
 # Item
 ##############################################################################
 ?>
-  <!-- Item <?= $index ?> -->
+
+      <!-- Item <?= $index ?> -->
 
       <item>
-        <title><?= $title_prefix ?><?= ucfirst($title = phrase($index, true)) ?></title>
+        <title><?= $title_prefix ?><?= $title = title($index, $titles) ?></title>
         <link><?= $server_prefix ?>/dynamic/<?= guid($index, $episode_guid_path_left_padding) ?></link>
         <description><?= $description_prefix ?>Comparing <?= phrase($index) ?> to <?= phrase($index+1) ?></description>
 <? if ($include_episode_time) { ?>

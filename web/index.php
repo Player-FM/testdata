@@ -17,6 +17,7 @@ $interval = get('interval', ['default'=>10]);
 $latest_time = get('time', ['default'=>time()]); # time of latest post
 $feed_title = get('feed_title', ['default' => 'My Delightful Feed']);
 $title_prefix = get('title_prefix', ['right_padding_if_present' => ' ']);
+$titles = array_filter(explode(",", get('titles')));
 $feed_image = get('feed_image'); // e.g. http://www.unity.fm/rssfeeds/ACourseInMiracles
 $feed_img = get('feed_img'); // e.g. http://feeds.feedburner.com/takeawaymoviedate
 $episode_guid_path_left_padding = get('episode_guid_path_left_padding', ['default' => 0]);

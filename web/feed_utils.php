@@ -5,7 +5,7 @@
 
 function post_time($index) {
   global $interval, $latest_time;
-  $time = $latest_time - $index * $interval;
+  $time = $latest_time - ($index-1) * $interval;
   return $time - $time % $interval;
 }
 
@@ -26,6 +26,14 @@ function sample($array) {
   $index = Random::num(0, count($array)-1);
   return $array[$index];
   #return $index;
+}
+
+function title($index, $titles) {
+  if (count($titles) > 0) {
+    return $titles[($index-1) % count($titles)];
+  } else {
+    return ucfirst(phrase($index, true));
+  }
 }
 
 function phrase($index) {
