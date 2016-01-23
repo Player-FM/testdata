@@ -29,7 +29,9 @@ function sample($array) {
 }
 
 function title($index, $titles) {
-  if (count($titles) > 0) {
+  if (count($titles) == 1 && $titles[0]=='empty') {
+    return '';
+  } if (count($titles) > 0) {
     return $titles[($index-1) % count($titles)];
   } else {
     return ucfirst(phrase($index, true));
