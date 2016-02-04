@@ -57,7 +57,7 @@ END;
     <itunes:subtitle>Really quite an astonishing contribution to humanity and the finer arts</itunes:subtitle>
     <itunes:category text="Society &amp; Culture" /><? } ?>
 
-    <? for ($index = 1; $index <= 5; $index++) { ?>
+    <? for ($index = 1; $index <= $post_amount; $index++) { ?>
 <?
 ##############################################################################
 # Item
