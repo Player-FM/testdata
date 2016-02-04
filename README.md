@@ -48,10 +48,10 @@ Find more filenames and file types (ogg etc) in the git repo (see bin/media.sh s
 
 Arguments
 
-* ID (default: freakowild) - mp3 filename (see git repo for options)
+* name (default: freakowild) - mp3 filename (see git repo for options)
 * length (default: true) - the response length header you want. "true" means guess actual length, "false" means no length or server's default.
-* prepause (default: 0) - a delay before sending
-* postpause (default: 0) - a delay after sending
+* predelay (default: 0) - a delay before sending
+* postdelay (default: 0) - a delay after sending
 * type (default: true - note this is broken in production now due to a pending Dreamhost issue) - the response content header you want. "true" means guess actual type, "false" means no type or server's default.
 
 License
