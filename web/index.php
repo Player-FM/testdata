@@ -19,6 +19,7 @@ $feed_title = get('feed_title', ['default' => 'My Delightful Feed']);
 $title_prefix = get('title_prefix', ['right_padding_if_present' => ' ']);
 $post_amount = get('post_amount', ['default' => 5]);
 $titles = array_filter(explode(",", get('titles')));
+$itunes_new_feed_url = get('itunes_new_feed_url');
 $feed_image = get('feed_image'); // e.g. http://www.unity.fm/rssfeeds/ACourseInMiracles
 $feed_img = get('feed_img'); // e.g. http://feeds.feedburner.com/takeawaymoviedate
 $episode_guid_path_left_padding = get('episode_guid_path_left_padding', ['default' => 0]);

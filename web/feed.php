@@ -28,6 +28,9 @@ END;
 <? if ($include_feed_title ) { ?>
     <title><?= $feed_title ?></title>
 <? } ?>
+<? if ($itunes_new_feed_url ) { ?>
+    <itunes:new-feed-url><?= $itunes_new_feed_url ?></itunes:new-feed-url>
+<? } ?>
     <link>http://player.fm/home</link>
     <description>It's been said this is the most sublime feed any human has ever beared witness to. Who am I to argue?</description>
     <language>en-us</language>
