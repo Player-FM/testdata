@@ -99,6 +99,11 @@ function write_redirect() {
 
   global $self_url;
 
+  # redirect param
+  # - key may be either "redirect" or "permanent_redirect" depending
+  #   on the type of redirect we want.
+  # - value is either the location URL or a number. If it's a number,
+  #   it will "count down" via redirects until the number equals zero
   $redirect = get(
     'redirect',[
       'default' => get(
@@ -108,21 +113,29 @@ function write_redirect() {
       )
     ]
   );
+  $redirect = urldecode($redirect);
 
-  if (strlen($redirect) > 0 && $redirect!='0') {
-    $status = 302;
-    if (intval($redirect) > 0)
-      $redirect_to = preg_replace('/redirect=(\d+)/', 'redirect=' . (intval($redirect)-1), $_SERVER['REQUEST_URI']);
-    if (! get('relative_redirect', ['default'=>null]))
-      $redirect_to = $self_url . $redirect_to;
-    if (get('permanent_redirect')) {
-      header("HTTP/1.1 301 Moved Permanently");
-      $status = 301;
-    }
-    bodyless_header('Location: ' . urldecode($redirect_to), $status);
-    die();
+  # stop counting down if we hit zero
+  if ($redirect == '0' || strlen($redirect)==0) {
+    return;
   }
 
+  # "count down" the rediret value. this will work for both permanent and regular redirect
+  if (intval($redirect) > 0) {
+    $redirect = $self_url . preg_replace('/redirect=(\d+)/', 'redirect=' . (intval($redirect)-1), $_SERVER['REQUEST_URI']);
+
+  }
+
+  # Set status code based on the kind of redirect we want
+  if (get('permanent_redirect')) {
+    header("HTTP/1.1 301 Moved Permanently");
+    $status = 301;
+  } else {
+    $status = 302;
+  }
+
+  bodyless_header('Location: ' . urldecode($redirect), $status);
+  die();
   return;
 
 }
