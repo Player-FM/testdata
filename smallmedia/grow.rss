@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Grow The Dream Show</title>
+	<atom:link href="https://growthedream.com/shows/feed/shows/" rel="self" type="application/rss+xml" />
+	<link>https://growthedream.com/show/</link>
+	<description>The podcast for exponentially growing your business</description>
+	<lastBuildDate>Tue, 29 Mar 2016 13:57:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+<!-- podcast_generator="Blubrry PowerPress/6.3.1" mode="advanced" -->
+	<itunes:summary>Want to grow your business? Wearing a lot of hats? That’s why we produce the Grow The Dream Show — for you, the business owner, entrepreneur, or marketing team member who is doing the hard work of growing your business. We&#039;ll help weed out the hype, de-mystify the technology, and explain the techniques so that you have actionable information on how to grow your business! We&#039;ll also interview entrepreneurs &amp; thought leaders you need to hear from, and cover important news that affects your marketing efforts in Google and other search engines, Facebook, Twitter, e-mail, content marketing &amp; inbound marketing!</itunes:summary>
+	<itunes:author>David G. Johnson, Rod Thomson, &amp; Josh Muccio. Get Marketing &amp; Business Growth Insights from Thought Leaders Like Jay Baer, Tom Ziglar, Sujan Patel, Jonah Berger, Marcus Sheridan, Dan Pink, Danny Sullivan &amp; more!</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="http://podcast.growthedream.com/GTDShow-20150519.jpg" />
+	<itunes:owner>
+		<itunes:name>David G. Johnson, Rod Thomson, &amp; Josh Muccio. Get Marketing &amp; Business Growth Insights from Thought Leaders Like Jay Baer, Tom Ziglar, Sujan Patel, Jonah Berger, Marcus Sheridan, Dan Pink, Danny Sullivan &amp; more!</itunes:name>
+		<itunes:email>show@growthedream.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>show@growthedream.com (David G. Johnson, Rod Thomson, &amp; Josh Muccio. Get Marketing &amp; Business Growth Insights from Thought Leaders Like Jay Baer, Tom Ziglar, Sujan Patel, Jonah Berger, Marcus Sheridan, Dan Pink, Danny Sullivan &amp; more!)</managingEditor>
+	<copyright>(P) &amp; &#xA9; 2016 GTD Show Media</copyright>
+	<itunes:subtitle>The podcast for exponentially growing your business</itunes:subtitle>
+	<image>
+		<title>Grow The Dream Show</title>
+		<url>http://podcast.growthedream.com/GTDShow-20150519.jpg</url>
+		<link>https://growthedream.com/show/</link>
+	</image>
+	<itunes:category text="Business">
+		<itunes:category text="Management &amp; Marketing" />
+	</itunes:category>
+	<googleplay:email>david.johnson@epiphanymarketing.com</googleplay:email>
+	<googleplay:category text="Business" />
+	<rawvoice:rating>TV-G</rawvoice:rating>
+	<rawvoice:frequency>Weekly</rawvoice:frequency>
+	<item>
+		<title>#60 Howard Partridge &#8211; Out With the PowerPoint, In With the Food</title>
+		<link>https://growthedream.com/shows/060-howard-partridge-powerpoint-food/</link>
+		<pubDate>Mon, 28 Mar 2016 20:22:15 +0000</pubDate>
+		<guid isPermaLink="false">https://growthedream.com/?post_type=x-portfolio&#038;p=2404</guid>
+		<comments>https://growthedream.com/shows/060-howard-partridge-powerpoint-food/#respond</comments>
+		<dc:creator>Rod Thomson</dc:creator>
+		<description>One of the most successful small business coaches in the country, Howard Partridge, explains how to grow your business without being a slave to the 24/7 burnout that so many business owners endure.
+
+It&#039;s all about relationships. He&#039;s used the non-digital affiliate marketing concept to create personal relationships with referrals. An eloquent hack he employed was to find out what the person likes — donuts, espresso beans, etc. — and then send them a food package and ask for five minutes of their time to see how they might help each other. But wait till you hear the one question he asks himself every day that recently led to a 1000% increase in profits in the first 2 months of 2016!</description>
+		<content:encoded><![CDATA[
+<p>One of the most successful small business coaches in the country, Howard Partridge, explains how to grow your business without being a slave to the 24/7 burnout that so many business owners endure.</p>
+<p>It&#8217;s all about relationships. He&#8217;s used the non-digital affiliate marketing concept to create personal relationships with referrals. An eloquent hack he employed was to find out what the person likes — donuts, espresso beans, etc. — and then send them a food package and ask for five minutes of their time to see how they might help each other. But wait till you hear the one question he asks himself every day that recently led to a 1000% increase in profits in the first 2 months of 2016!</p>
+<h2>About Howard Partridge</h2>
+<div id="attachment_2416" style="width: 752px" class="wp-caption alignnone"><img class="wp-image-2416 size-large" src="https://growthedream.com/wp-content/uploads/2016/03/howard-partridge-with-david-g-johnson-1024x683.jpg" alt="Howard Partridge with co-host, David G. Johnson" width="742" height="495" srcset="https://growthedream.com/wp-content/uploads/2016/03/howard-partridge-with-david-g-johnson-300x200.jpg 300w, https://growthedream.com/wp-content/uploads/2016/03/howard-partridge-with-david-g-johnson-768x512.jpg 768w, https://growthedream.com/wp-content/uploads/2016/03/howard-partridge-with-david-g-johnson-1024x683.jpg 1024w, https://growthedream.com/wp-content/uploads/2016/03/howard-partridge-with-david-g-johnson-862x575.jpg 862w, https://growthedream.com/wp-content/uploads/2016/03/howard-partridge-with-david-g-johnson-1000x667.jpg 1000w, https://growthedream.com/wp-content/uploads/2016/03/howard-partridge-with-david-g-johnson.jpg 1200w" sizes="(max-width: 742px) 100vw, 742px" /><p class="wp-caption-text">Howard Partridge with co-host, David G. Johnson. Photo: <a href="http://www.Mavella.com" target="_blank">Jake Mavella</a></p></div>
+
+		<div class="sw-tweet-clear"></div>
+		<a class="sw_CTT style1" href="https://twitter.com/share?text=Your+business+exists+for+one+reason+only%3A+to+be+a+vehicle+to+help+you+achieve+your+life+goals.&url=https://growthedream.com/shows/060-howard-partridge-powerpoint-food/%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare&via=GrowTheDream" data-link="https://twitter.com/share?text=Your+business+exists+for+one+reason+only%3A+to+be+a+vehicle+to+help+you+achieve+your+life+goals.&url=https://growthedream.com/shows/060-howard-partridge-powerpoint-food/%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare&via=Rod_Thomson" target="_blank"><span class="sw-click-to-tweet"><span class="sw-ctt-text">Your business exists for one reason and one reason only: to be a vehicle to help you achieve your life goals. - Howard Partridge</span><span class="sw-ctt-btn">Click To Tweet<i class="sw sw-twitter"></i></span></span></a>
+<p>Howard Partridge grew up on welfare in &#8220;lower&#8221; Alabama (&#8220;LA&#8221;).  After spending some time waiting tables, he started his first business out of the trunk of his car with all the money he and his wife, Denise, received as wedding presents. After 13 years in business, it had grown $30,000 month in revenues, but he was a slave to it 24/7.</p>
+<p>That&#8217;s when he learned two powerful truths after reading a book that changed his life.</p>
+<p>Shortly thereafter, he began to experience freedom in his life and business, and began coaching other business owners about how to implement systems in their businesses to accomplish the same thing in their lives. Today, that business he began out of the trunk of his car is a multi-million-dollar-a-year business, and Howard has written 4 top-selling books, is the exclusive small business coach for Ziglar, Inc., and runs 4 conferences every year that help business owners achieve profitability and effectiveness in their businesses.</p>
+<h2>Show Notes</h2>
+<ul>
+<li>Howard&#8217;s business life began to change when he read <em><a href="http://amzn.to/1RBEr3b" target="_blank">The E-Myth Revisited</a></em><a href="http://amzn.to/1RBEr3b"> by Michael Gerber</a></li>
+<li>Zig Ziglar&#8217;s last book, <em><a href="http://amzn.to/1pFWThI" target="_blank">Born To Win: Find Your Success Code</a></em>, includes a chapter written by Tom Ziglar which features business systems built around this quote from Howard: &#8220;Your business exists for one reason and one reason only: to be a vehicle to help you achieve your life goals.&#8221;</li>
+<li>Howard talks about the one question that recently brought about a massive increase in profits for his business. Read about it in <em><a href="http://amzn.to/1pFZzMa" target="_blank">The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary </a></em> by Gary Keller</li>
+<li>Pick up a <strong>free copy</strong> of the audio of Howard&#8217;s book: <em>7 Secrets of a Phenomenal L.I.F.E.</em> at <a href="http://secretsofaphenomenallife.com/" target="_blank">SecretsOfAPhenomenalLife.com</a></li>
+<li>We also shared stories out of <em><a href="http://amzn.to/1RBLxVi" target="_blank">Profit First: A Simple System to Transform Any Business from a Cash-Eating Monster to a Money-Making Machine</a></em> by Mike Michalowicz</li>
+<li>Get the free audiobook of your choice by visiting <a href="http://AudibleTrial.com/dream" target="_blank">AudibleTrial.com/dream</a> &#8212; support Grow The Dream Show and improve your business! (We recommend The E-Myth Revisited or Profit First, since you can get a free copy of Howard&#8217;s book at the link above!)</li>
+<li>A &#8220;system&#8221; for your business is, &#8220;a group of working parts that duplicates results consistently.&#8221;</li>
+<li>Five major systems in every business:<br />
+<strong>Marketing</strong> → Everything you do to attract prospects into your business<br />
+<strong>Sales</strong> → Everything you do to convert prospects into paying customers<br />
+<strong>Operations</strong> → Everything you do to service your customers, clients, patients or members<br />
+<strong>Administration</strong> → Everything you do to track the numbers and protect yourself legally<br />
+<strong>Leadership</strong> → Everything you do to plan your business, lead your company forward, build your team</li>
+<li>There are 5 vital components of a system:<br />
+<strong>Vision</strong> → Mission, Values, Purpose<strong><br />
+</strong><strong>Organizational Chart</strong> → Outlines roles &amp; responsibilities<strong><br />
+PRD (&#8220;Performance Results Description&#8221;)</strong> → Clearly articulates outcomes<strong><br />
+Procedures </strong>→ The step-by-step components of the system<strong><br />
+Policies</strong> → Guidelines to help you fulfill your vision &amp; your values<strong><br />
+</strong></li>
+<li>Howard&#8217;s system for targeting influencers to help bring you new referral business. First: identify your prime &#8220;referral source&#8221; prospects (look at people who have supported you in the past, people who have complementary businesses, <em>etc.</em>) and target that industry/niche.  Second: (if they&#8217;re local), you show up with <strong>goodies</strong> (doughnuts, cookies, popcorn, chocolate, <em>etc.</em>), introduce yourself, hand over the goods, and turn to leave. Third: send them a nice greeting card with a box of brownies (hint: use <a href="https://www.sendoutcards.com/7162" target="_blank">Send Out Cards</a>)</li>
+<li>In an industry dominated by low-price advertisers, Howard&#8217;s service company took the opposite route and focused on the high end. By building relationships with top referral sources, they ended up receiving the highest quality referrals possible.</li>
+<li>Get free resources from Howard and learn about the upcoming conference in May by visiting <a href="http://HowardPartridge.com" target="_blank">HowardPartridge.com</a></li>
+</ul>
+<h2>Video</h2>
+<p><a href="https://www.youtube.com/watch?v=fCgFWLgiXZs" target="_blank">Click here to watch this episode on YouTube</a>.</p>
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='742' height='448' src='https://www.youtube.com/embed/fCgFWLgiXZs?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0' allowfullscreen='true'></iframe></span></p>
+]]></content:encoded>
+		<wfw:commentRss>https://growthedream.com/shows/060-howard-partridge-powerpoint-food/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/grow_the_dream_show/podcast.growthedream.com.s3.amazonaws.com/GrowTheDreamShow-060-HowardPartridge-Out-with-the-PowerPoint-In-with-the-Food.mp3" length="50381442" type="audio/mpeg" />
+	<itunes:subtitle>One of the most successful small business coaches in the country, Howard Partridge, explains how to grow your business without being a slave to the 24/7 burnout that so many business owners endure. - It&#039;s all about relationships.</itunes:subtitle>
+		<itunes:summary><![CDATA[]]></itunes:summary>
+		<itunes:author>David G. Johnson, Rod Thomson, &amp; Josh Muccio. Get Marketing &amp; Business Growth Insights from Thought Leaders Like Jay Baer, Tom Ziglar, Sujan Patel, Jonah Berger, Marcus Sheridan, Dan Pink, Danny Sullivan &amp; more!</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:09:15</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://growthedream.com/?powerpress_embed=2404-shows&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+		</item>
+	<item>
+		<title>#59 Publicity: Masters, Disasters &#038; More!</title>
+		<link>https://growthedream.com/shows/059-publicity-masters-disasters-more/</link>
+		<pubDate>Fri, 18 Mar 2016 19:23:09 +0000</pubDate>
+		<guid isPermaLink="false">https://growthedream.com/?post_type=x-portfolio&#038;p=2390</guid>
+		<comments>https://growthedream.com/shows/059-publicity-masters-disasters-more/#respond</comments>
+		<dc:creator>Rod Thomson</dc:creator>
+		<description>Does your social media policy violate Federal labor laws? A court ruled last week that Chipotle&#039;s did. Plus: the FBI &amp; Apple play a PR game, Yelp has PR disaster with a low-wage employee, &amp; PR tips you can use for your business!</description>
+		<content:encoded><![CDATA[
+<p>Chipotle, Apple, the FBI, and Yelp are all working public relations from different angles — some proactively and some reactively. Reactive is the worst because when possible, companies want to drive their own narratives with proactive public relations. This can be accomplished in the slow-but-steady growth of your brand through solid earned media, beyond just the traditional mediums. But when bad PR is coming at you like a train — like, say, Chipotle&#8217;s — there are some things you can do minimize the damage.</p>
+<h2>Show Notes</h2>
+<ul>
+<li><a href="http://qz.com/642256/the-fbi-has-a-big-ulterior-motive-in-its-fight-against-apple/" target="_blank">The FBI has a big ulterior motive in its fight against Apple (Quartz)</a></li>
+<li>Apple CEO Tim Cook&#8217;s <a href="http://www.huffingtonpost.com/entry/tim-cook-time-interview_us_56eab5f3e4b065e2e3d88e45" target="_blank">remarks from upcoming TIME interview in HuffPost Tech<br />
+</a></li>
+<li>The Apple/FBI trial will be held at 1pm &#8220;Tomorrow&#8221; (3/22), no livestream nor any media updates from the courtroom, plus <a href="http://fortune.com/2016/03/18/apple-fbi-hearing-riverside/" target="_blank">video of Snowden blasting the FBI, all the rules (plus how to get tickets) for the trial</a> (Fortune)</li>
+<li><a href="http://analytics.blogspot.com/2016/01/announcing-ga-support-for-accelerated.html" target="_blank">Google Analytics supports AMP</a> content for conversion rate tracking and more. (Google Analytics blog)</li>
+<li>Last week, a <a href="http://www.adweek.com/prnewser/judge-declares-chipotles-social-media-violates-labor-laws/122263" target="_blank">judge ruled that Chipotle’s <strong>social media policy violated federal labor laws </strong></a>(Adweek) after it cited the policy when firing an employee who bashed them on Twitter. He decided to <a href="http://www.digitaltrends.com/social-media/chipotle-social-media-labor-violation/" target="_blank">take his back wages in food vouchers</a>.</li>
+<li>Speaking of disgruntled employees, Yelp had its own PR nightmare when <a href="https://medium.com/@taliajane/an-open-letter-to-my-ceo-fb73df021e7a" target="_blank">28-year-old Talia Jane wrote an open letter to the Yelp CEO on Medium</a>. Business Insider carried the <a href="http://www.businessinsider.com/stefanie-williams-response-to-yelp-employee-talia-jane-2016-2" target="_blank">response of another Millenial who took Ms. Jane to task for her life decisions</a>. Yelp CEO Jeremy Stoppleman <a href="http://www.nbcbayarea.com/news/local/Yelp-CEO-Responds-to-Millennial-Employee-Who-Says-She-Was-Fired-For-Penning-Open-Letter-About-Being-Underpaid-369715211.html" target="_blank">responded on Twitter</a> after the company fired Ms. Jane.</li>
+</ul>
+<p>Be sure to <a href="https://twitter.com/JoshMuccio" target="_blank">tweet Josh Muccio</a> and let him know you missed him this week!</p>
+<h2>Video</h2>
+<p><a href="https://www.youtube.com/watch?v=rlBkhdWNHPM" target="_blank">Click here to watch this episode on YouTube!</a></p>
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='742' height='448' src='https://www.youtube.com/embed/rlBkhdWNHPM?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0' allowfullscreen='true'></iframe></span></p>
+]]></content:encoded>
+		<wfw:commentRss>https://growthedream.com/shows/059-publicity-masters-disasters-more/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/grow_the_dream_show/podcast.growthedream.com.s3.amazonaws.com/GrowTheDreamShow-059-Publicity-Masters-Disasters-and-More.mp3" length="46551995" type="audio/mpeg" />
+	<itunes:subtitle>Does your social media policy violate Federal labor laws? A court ruled last week that Chipotle&#039;s did. Plus: the FBI &amp; Apple play a PR game, Yelp has PR disaster with a low-wage employee, &amp; PR tips you can use for your business!</itunes:subtitle>
+		<itunes:summary><![CDATA[]]></itunes:summary>
+		<itunes:author>David G. Johnson, Rod Thomson, &amp; Josh Muccio. Get Marketing &amp; Business Growth Insights from Thought Leaders Like Jay Baer, Tom Ziglar, Sujan Patel, Jonah Berger, Marcus Sheridan, Dan Pink, Danny Sullivan &amp; more!</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:03:57</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://growthedream.com/?powerpress_embed=2390-shows&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+		</item>
+</channel>
+</rss>
