@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="../stylesheet.xsl"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Investor&amp;#39;s Edge</title>
+    <link>http://www.biztalkradio.com</link>
+    <description><![CDATA[Let&#39;s face it. There are a million financial talk show hosts out there all of them can recite chapter and verse of the daily market trends. But, how many can give your listeners an inside look at what&#39;s happening in the market?]]></description>
+    <copyright>Investor&amp;#39;s Edge</copyright>
+    <generator>WarpRadio Generator v4.3</generator>
+    <language>en-us</language>
+    <itunes:summary><![CDATA[Let&#39;s face it. There are a million financial talk show hosts out there all of them can recite chapter and verse of the daily market trends. But, how many can give your listeners an inside look at what&#39;s happening in the market?]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:keywords></itunes:keywords>
+    <itunes:author>Investor&amp;#39;s Edge</itunes:author>
+    <itunes:owner>
+	  <itunes:name>Investor&amp;#39;s Edge</itunes:name>
+   	  <itunes:email>podcasts@biztalkradio.com</itunes:email>
+    </itunes:owner>
+	
+    <itunes:category text="Business"/>
+	
+    <itunes:category text="Talk Radio"/>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://podcasts.warpradio.com/investorsedge/investors_edge.jpg" />	
+    <image>
+      <url>http://podcasts.warpradio.com/investorsedge/investors_edge.jpg</url>
+      <title>Investor&amp;#39;s Edge</title>
+      <link>http://www.biztalkradio.com</link>
+    </image>    
+    <lastBuildDate>Sat, 21 May 2016 01:59:56 CDT</lastBuildDate>
+
+    <item>
+      <title>Investor&#39;s Edge: 05/20/2016</title>
+      <description><![CDATA[Investor&#39;s Edge: 05/20/2016]]></description>
+      <pubDate>Fri, 20 May 2016 18:15:00 CDT</pubDate>
+      <link>http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/052018.mp3</link>
+      <guid>http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/052018.mp3</guid>
+      <itunes:summary>Investor&#39;s Edge: 05/20/2016</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>54:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/052018.mp3" length="21595680" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Investor&#39;s Edge: 05/19/2016</title>
+      <description><![CDATA[Investor&#39;s Edge: 05/19/2016]]></description>
+      <pubDate>Thu, 19 May 2016 18:15:00 CDT</pubDate>
+      <link>http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/051918.mp3</link>
+      <guid>http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/051918.mp3</guid>
+      <itunes:summary>Investor&#39;s Edge: 05/19/2016</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>54:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/051918.mp3" length="21595680" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Investor&#39;s Edge: 05/20/2015</title>
+      <description><![CDATA[Investor&#39;s Edge: 05/20/2015]]></description>
+      <pubDate>Wed, 20 May 2015 18:15:00 CDT</pubDate>
+      <link>http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/052018.mp3</link>
+      <guid>http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/052018.mp3</guid>
+      <itunes:summary>Investor&#39;s Edge: 05/20/2015</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>54:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/052018.mp3" length="21595680" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Investor&amp;apos;s Edge: 04/06/2016</title>
+      <description><![CDATA[Investor&amp;apos;s Edge: 04/06/2016]]></description>
+      <pubDate>Wed, 06 Apr 2016 18:15:00 CDT</pubDate>
+      <link>http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/040618.mp3</link>
+      <guid>http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/040618.mp3</guid>
+      <itunes:summary>Investor&amp;apos;s Edge: 04/06/2016</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>54:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/040618.mp3" length="21595680" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Investor&#39;s Edge: 05/06/2015</title>
+      <description><![CDATA[Investor&#39;s Edge: 05/06/2015]]></description>
+      <pubDate>Wed, 06 May 2015 18:15:00 CDT</pubDate>
+      <link>http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/050618.mp3</link>
+      <guid>http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/050618.mp3</guid>
+      <itunes:summary>Investor&#39;s Edge: 05/06/2015</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>54:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archives.warpradio.com/btr/investorsedge/050618.mp3" length="21595680" type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
