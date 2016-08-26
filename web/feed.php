@@ -89,6 +89,7 @@ END;
         <itunes:author>Humphrey B. Bear</itunes:author>
         <itunes:summary>About <?= $title ?></itunes:summary>
         <itunes:keywords><?= keywords($index) ?></itunes:keywords>
+        <itunes:image href="<?= $episode_image ?>" />
 <? } ?>
       </item>
     <? } ?>

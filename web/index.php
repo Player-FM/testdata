@@ -32,6 +32,7 @@ $include_guid = get_boolean('include_guid', true);
 if ($media_scheme_prefix!=null) {
   $media_scheme_prefix = $media_scheme_prefix . ':';
 }
+$episode_image  = get('episode_image');
 
 $description_prefix = get('description_prefix', ['right_padding_if_present' => ' ']);
 $explicit = get_boolean('explicit', false);
