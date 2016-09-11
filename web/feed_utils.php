@@ -56,6 +56,16 @@ function image($index) {
   return 'http://player.fm/assets/logos/playerwide-lightx40.png'; // hard-coded for now
 }
 
+# we can give an episode_image param like "episode_image=fire$index.png" to replace with the index
+function episode_image_tag($episode_image, $index) {
+  if ($episode_image) {
+    $url = preg_replace('/\$index/', $index, $episode_image);
+    return "<itunes:image href='$url' />\n";
+  } else {
+    return '';
+  }
+}
+
 function keywords($index) {
   return "wow,much,cake,many,crum,yum"; #hardcoded
 }
