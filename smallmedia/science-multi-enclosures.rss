@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="http://www.npr.org/rss/" xmlns:nprml="http://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Science : NPR</title>
+    <link>http://www.npr.org/templates/story/story.php?storyId=1007</link>
+    <description>The latest health and science news. Updates on medicine, healthy living, nutrition, drugs, diet, and advances in science and technology. Subscribe to the Health &amp; Science podcast.</description>
+    <language>en</language>
+    <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
+    <generator>NPR API RSS Generator 0.94</generator>
+    <lastBuildDate>Fri, 09 Dec 2016 16:40:14 -0500</lastBuildDate>
+    <image>
+      <url>https://media.npr.org/images/podcasts/primary/npr_healthscience_image_300-c59f3d82bb665b14f6e979db214a8a63c32f9ccc.jpg?s=200</url>
+      <title>Science</title>
+      <link>http://www.npr.org/templates/story/story.php?storyId=1007</link>
+    </image>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="https://media.npr.org/images/podcasts/primary/npr_healthscience_image_300-c59f3d82bb665b14f6e979db214a8a63c32f9ccc.jpg?s=1400"/>
+    <itunes:summary><![CDATA[The latest health and science news. Updates on medicine, healthy living, nutrition, drugs, diet, and advances in science and technology. Subscribe to the Health & Science podcast.]]></itunes:summary>
+    <itunes:subtitle/>
+    <itunes:author>NPR</itunes:author>
+    <item>
+      <title>Encore: Astronaut John Glenn Recalls Historic Orbit Of Earth</title>
+      <description><![CDATA[Astronaut John Glenn — who was one of NASA's original Mercury Seven — was the first American to orbit Earth. He flew the mission in just under five hours, circling the globe three times in a capsule named Friendship 7. Glenn, who says he recalls the mission as if it were just last week, told NPR's Audie Cornish he doesn't want the U.S. to lose sight of the future and America's role in outer space. <em>This story originally aired on Feb. 20, 2012 on </em> All Things Considered.]]></description>
+      <pubDate>Fri, 09 Dec 2016 16:40:14 -0500</pubDate>
+      <link>http://www.npr.org/2016/12/09/505012157/encore-astronaut-john-glenn-recalls-historic-orbit-of-earth?utm_medium=RSS&amp;utm_campaign=science</link>
+      <guid>http://www.npr.org/2016/12/09/505012157/encore-astronaut-john-glenn-recalls-historic-orbit-of-earth?utm_medium=RSS&amp;utm_campaign=science</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Astronaut John Glenn — who was one of NASA's original Mercury Seven — was the first American to orbit Earth. He flew the mission in just under five hours, circling the globe three times in a capsule named Friendship 7. Glenn, who says he recalls the mission as if it were just last week, told NPR's Audie Cornish he doesn't want the U.S. to lose sight of the future and America's role in outer space. <em>This story originally aired on Feb. 20, 2012 on </em> All Things Considered.]]></itunes:summary>
+      <itunes:subtitle/>
+      <itunes:duration>322</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2016/12/20161209_atc_encore_astronaut_john_glenn_recalls_historic_orbit_of_earth.mp3?sc=16&amp;orgId=1&amp;forsearch=0&amp;topicId=1026&amp;d=322&amp;p=2&amp;story=505012157&amp;t=progseg&amp;e=504929290&amp;seg=14&amp;ft=ryop&amp;f=1007" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dakota Access Pipeline Protesters Vow To Fight Through Fierce Winter</title>
+      <description><![CDATA[The teeth of winter are closing on the makeshift camp in North Dakota where demonstrators are trying to stop the Dakota Access Pipeline. Some are heeding tribal calls to leave, while others are digging in. But the company building the controversial Dakota Access Pipeline was in federal court Friday, trying to overturn a decision by the Army Corps of Engineers blocking the project.]]></description>
+      <pubDate>Fri, 09 Dec 2016 16:40:00 -0500</pubDate>
+      <link>http://www.npr.org/2016/12/09/505012071/dakota-access-pipeline-protesters-vow-to-fight-through-fierce-winter?utm_medium=RSS&amp;utm_campaign=science</link>
+      <guid>http://www.npr.org/2016/12/09/505012071/dakota-access-pipeline-protesters-vow-to-fight-through-fierce-winter?utm_medium=RSS&amp;utm_campaign=science</guid>
+      <itunes:author>Tim Nelson</itunes:author>
+      <itunes:summary><![CDATA[The teeth of winter are closing on the makeshift camp in North Dakota where demonstrators are trying to stop the Dakota Access Pipeline. Some are heeding tribal calls to leave, while others are digging in. But the company building the controversial Dakota Access Pipeline was in federal court Friday, trying to overturn a decision by the Army Corps of Engineers blocking the project.]]></itunes:summary>
+      <itunes:subtitle/>
+      <itunes:duration>234</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2016/12/20161209_atc_dakota_access_pipeline_protesters_vow_to_fight_through_fierce_winter.mp3?sc=16&amp;orgId=1&amp;forsearch=0&amp;topicId=1091&amp;d=234&amp;p=2&amp;story=505012071&amp;t=progseg&amp;e=504929290&amp;seg=7&amp;ft=ryop&amp;f=1007" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Say, What? Monkey Mouths And Throats Are Equipped For Speech</title>
+      <description><![CDATA[Monkeys weren't thought to have the right sort of vocal tracts to speak. But a study finds they can make many sounds common in human speech; it's just that their brains aren't "language ready."]]></description>
+      <pubDate>Fri, 09 Dec 2016 14:01:00 -0500</pubDate>
+      <link>http://www.npr.org/sections/health-shots/2016/12/09/504890630/say-what-monkey-mouths-and-throats-are-equipped-for-speech?utm_medium=RSS&amp;utm_campaign=science</link>
+      <guid>http://www.npr.org/sections/health-shots/2016/12/09/504890630/say-what-monkey-mouths-and-throats-are-equipped-for-speech?utm_medium=RSS&amp;utm_campaign=science</guid>
+      <itunes:author>Nell Greenfieldboyce</itunes:author>
+      <itunes:summary><![CDATA[Monkeys weren't thought to have the right sort of vocal tracts to speak. But a study finds they can make many sounds common in human speech; it's just that their brains aren't "language ready."]]></itunes:summary>
+      <itunes:subtitle/>
+      <itunes:duration>192</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media.npr.org/assets/img/2016/12/09/macaque_wide-29c9e4ee7a395e4dba3b049c56370686a031a32d.jpg?s=1400"/>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2016/12/20161210_wesat_say_what_monkey_mouths_and_throats_are_equipped_for_speech.mp3?sc=16&amp;orgId=1&amp;forsearch=0&amp;topicId=1128&amp;d=192&amp;p=7&amp;story=504890630&amp;t=progseg&amp;e=505079083&amp;seg=7&amp;ft=ryop&amp;f=1007" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/specials/2016/12/20161209_specials_monkey_happyholidays.mp3?sc=16&amp;orgId=1&amp;forsearch=0&amp;topicId=1128&amp;d=1&amp;p=7&amp;story=504890630&amp;t=progseg&amp;e=505079083&amp;seg=7&amp;ft=ryop&amp;f=1007" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/specials/2016/12/20161209_specials_chimp-1.mp3?sc=16&amp;orgId=1&amp;forsearch=0&amp;topicId=1128&amp;d=1&amp;p=7&amp;story=504890630&amp;t=progseg&amp;e=505079083&amp;seg=7&amp;ft=ryop&amp;f=1007" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>A Mummy's DNA May Help Solve The Mystery Of The Origins Of Smallpox</title>
+      <description><![CDATA[Scientists have found the oldest complete set of smallpox genes in a sample of skin from a mummified child in a crypt underneath a Lithuanian church.]]></description>
+      <pubDate>Thu, 08 Dec 2016 12:24:00 -0500</pubDate>
+      <link>http://www.npr.org/sections/goatsandsoda/2016/12/08/504618235/a-mummys-dna-may-help-solve-the-mystery-of-the-origins-of-smallpox?utm_medium=RSS&amp;utm_campaign=science</link>
+      <guid>http://www.npr.org/sections/goatsandsoda/2016/12/08/504618235/a-mummys-dna-may-help-solve-the-mystery-of-the-origins-of-smallpox?utm_medium=RSS&amp;utm_campaign=science</guid>
+      <itunes:author>Nell Greenfieldboyce</itunes:author>
+      <itunes:summary><![CDATA[Scientists have found the oldest complete set of smallpox genes in a sample of skin from a mummified child in a crypt underneath a Lithuanian church.]]></itunes:summary>
+      <itunes:subtitle/>
+      <itunes:duration>219</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media.npr.org/assets/img/2016/12/07/mummyhoriz_wide-2648e38fc5f704cd566d215a54fdbbc863a7e0db.png?s=1400"/>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2016/12/20161208_atc_a_mummys_dna_may_help_solve_the_mystery_of_the_origins_of_smallpox.mp3?sc=16&amp;orgId=1&amp;forsearch=0&amp;topicId=1031&amp;d=219&amp;p=2&amp;story=504618235&amp;t=progseg&amp;e=504799673&amp;seg=17&amp;ft=ryop&amp;f=1007" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
