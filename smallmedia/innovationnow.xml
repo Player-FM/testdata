@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+<title>Innovation Now</title>
+<itunes:new-feed-url>https://podcasts.whro.org/innovationnow/podcast.xml</itunes:new-feed-url> 
+<link>https://www.innovationnow.us/</link>
+<language>en-us</language>
+<copyright>&#x2117; &amp; &#xA9; 2017 WHRO</copyright>
+<itunes:subtitle>Innovation Now is a daily 90-second radio series and podcast that gives listeners a front row seat to hear compelling stories of revolutionary ideas, emerging technologies and the people behind the concepts that are shaping our future.</itunes:subtitle>
+<itunes:author>WHRO</itunes:author>
+<itunes:summary>Innovation Now is a daily 90-second radio series and podcast that gives listeners a front row seat to hear compelling stories of revolutionary ideas, emerging technologies and the people behind the concepts that are shaping our future.</itunes:summary>
+<description>Innovation Now is a daily 90-second radio series and podcast that gives listeners a front row seat to hear compelling stories of revolutionary ideas, emerging technologies and the people behind the concepts that are shaping our future.</description>
+<itunes:owner>
+<itunes:name>89.5 WHRV-FM, Norfolk, VA</itunes:name>
+<itunes:email>appdev@whro.org</itunes:email>
+</itunes:owner>
+<itunes:image href="https://podcasts.whro.org/innovationnow/Innovation-Now-Icon.jpg" />
+<itunes:keywords>innovation, now, NASA, technology, NIA, Aerospace, WHRV, technology</itunes:keywords>
+<itunes:category text="Technology"/>
+
+
+
+
+
+
+
+<item>
+<title>Driving Hot</title>
+<itunes:author>WHRO</itunes:author>
+<description><![CDATA[Formula 1 race teams are looking at a new exhaust system that diverts more of the heat behind their seat, thanks to a NASA polymer.]]></description>
+<enclosure url="https://podcasts.whro.org/innovationnow/061917.mp3" length="8727310" type="audio/mp3" />
+<guid>https://podcasts.whro.org/innovationnow/061917.mp3</guid>
+<pubDate>Mon, 19 Jun 2017 12:01:00 GMT</pubDate>
+<itunes:duration>1:30</itunes:duration>
+<itunes:keywords>innovation, now, technology, NASA, jobs, NIA, radio, spinoff, NOAX, Formula 1 racing, shuttle</itunes:keywords>
+</item>
+
+<item>
+<title>Closing the Communications Gap</title>
+<itunes:author>WHRO</itunes:author>
+<description><![CDATA[NASA’s space-based communications system will efficiently close the generation gap, supporting space communications for another 15 years.]]></description>
+<enclosure url="https://podcasts.whro.org/innovationnow/061617.mp3" length="8727310" type="audio/mp3" />
+<guid>https://podcasts.whro.org/innovationnow/061617.mp3</guid>
+<pubDate>Fri, 16 Jun 2017 12:01:00 GMT</pubDate>
+<itunes:duration>1:30</itunes:duration>
+<itunes:keywords>innovation, now, technology, NASA, jobs, NIA, radio, communications, relay, TDRS, space</itunes:keywords>
+</item>
+
+<item>
+<title>Reset Your Clock</title>
+<itunes:author>WHRO</itunes:author>
+<description><![CDATA[The re-setting of your biological clock can take as long as two weeks but a new app for smartphones can help dramatically shorten that adjustment period.]]></description>
+<enclosure url="https://podcasts.whro.org/innovationnow/061517.mp3" length="8727310" type="audio/mp3" />
+<guid>https://podcasts.whro.org/innovationnow/061517.mp3</guid>
+<pubDate>Thu, 15 Jun 2017 12:01:00 GMT</pubDate>
+<itunes:duration>1:30</itunes:duration>
+<itunes:keywords>innovation, now, technology, NASA, jobs, NIA, radio, app, biorhythm, circadian rhythm, jet lag, Entrain</itunes:keywords>
+</item>
+
+<item>
+<title>Air Traffic Control</title>
+<itunes:author>WHRO</itunes:author>
+<description><![CDATA[A NASA app monitors an aircraft’s current position, altitude, flight route, air traffic, and real-time weather conditions all while searching for routes that can save flight time.]]></description>
+<enclosure url="https://podcasts.whro.org/innovationnow/061417.mp3" length="8727310" type="audio/mp3" />
+<guid>https://podcasts.whro.org/innovationnow/061417.mp3</guid>
+<pubDate>Wed, 14 Jun 2017 12:01:00 GMT</pubDate>
+<itunes:duration>1:30</itunes:duration>
+<itunes:keywords>innovation, now, technology, NASA, jobs, NIA, radio, aeronautic, apps, air traffic, Langley, Centennial</itunes:keywords>
+</item>
+
+<item>
+<title>Cure for a Broken Heart</title>
+<itunes:author>WHRO</itunes:author>
+<description><![CDATA[Doctors are using a special glue to patch holes and seal cuts in hearts and heart arteries, without using stitches, or staples of any kind.]]></description>
+<enclosure url="https://podcasts.whro.org/innovationnow/061317.mp3" length="8727310" type="audio/mp3" />
+<guid>https://podcasts.whro.org/innovationnow/061317.mp3</guid>
+<pubDate>Tue, 13 Jun 2017 12:01:00 GMT</pubDate>
+<itunes:duration>1:30</itunes:duration>
+<itunes:keywords>innovation, now, technology, NASA, jobs, NIA, radio, medicine, heart, biofabric, Harvard</itunes:keywords>
+</item>
+
+<item>
+<title>Comet Crunchers</title>
+<itunes:author>WHRO</itunes:author>
+<description><![CDATA[This radical design for sampling comets or small asteroids, and returning those samples splits the job for efficiency.]]></description>
+<enclosure url="https://podcasts.whro.org/innovationnow/061217.mp3" length="8727310" type="audio/mp3" />
+<guid>https://podcasts.whro.org/innovationnow/061217.mp3</guid>
+<pubDate>Mon, 12 Jun 2017 12:01:00 GMT</pubDate>
+<itunes:duration>1:30</itunes:duration>
+<itunes:keywords>innovation, now, technology, NASA, jobs, NIA, radio, NIAC, sampling, exploration, comets, Juan Arietta</itunes:keywords>
+</item>
+
+<item>
+<title>Generating Hydrogen</title>
+<itunes:author>WHRO</itunes:author>
+<description><![CDATA[A team from Columbia and Harvard Universities are perfecting a catalyst for generating cheap hydrogen, powered by sunlight.]]></description>
+<enclosure url="https://podcasts.whro.org/innovationnow/060917.mp3" length="8727310" type="audio/mp3" />
+<guid>https://podcasts.whro.org/innovationnow/060917.mp3</guid>
+<pubDate>Fri, 09 Jun 2017 12:01:00 GMT</pubDate>
+<itunes:duration>1:30</itunes:duration>
+<itunes:keywords>innovation, now, technology, NASA, jobs, NIA, radio, hydrogen, fuel, solar energy</itunes:keywords>
+</item>
+
+
+<item>
+<title>ArterioVision  </title>
+<itunes:author>WHRO</itunes:author>
+<description><![CDATA[Technology that helped us get a good look at Mars is now helping save lives here on Earth!  ]]></description>
+<enclosure url="https://podcasts.whro.org/innovationnow/090111.mp3" length="8727310" type="audio/mp3" />
+<guid>https://podcasts.whro.org/innovationnow/090111.mp3</guid>
+<pubDate>Thu, 1 Sep 2011 12:01:00 GMT</pubDate>
+<itunes:duration>1:30</itunes:duration>
+<itunes:keywords>innovation, now, NASA, technology, NIA, Aerospace, WHRV, technology, health, medical, ArterioVision, heart, heart disease, testing, preventative</itunes:keywords>
+</item>
+
+
+</channel>
+
+</rss>
