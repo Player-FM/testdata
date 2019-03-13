@@ -11,18 +11,21 @@ Installing
 2. bin/make.sh
 3. ensure public web folder is pointing at web/
 
-Dynamic Feeds
-=============
+Installing
+==========
 
-The root, e.g. http://testdata.player.fm will update every 10 seconds. Items are
-consistent, ie when the latest item is relegated to 2nd place in 10 seconds,
-it will retain its title, pubDate, and other properties.
+1. git clone
+2. bin/make.sh
+3. ensure public web folder is pointing at web/
 
-Examples:
+Docker
+======
 
-* http://testdata.player.fm/
-* http://testdata.player.fm?interval=60 # posts change every 60 seconds
-* http://testdata.player.fm?time=1391473816944 # time of latest post
+There's a Dockerfile here. If you have Docker installed, you can run the project with something like:
+
+docker build -t testdata . && docker run -p 8765:8765 -it testdata
+
+Then point to http://0.0.0.0:8765
 
 File Serving
 ============

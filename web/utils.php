@@ -1,4 +1,4 @@
-<?
+<?php
 function toBase($num) { return base_convert($num, 10, 36); }
 function to10( $num) { return base_convert($num, 36, 10); }
 
