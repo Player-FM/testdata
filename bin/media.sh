@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# deprecated thanks to docker
+
 # Utils
 
 function yoink() {
