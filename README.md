@@ -11,13 +11,6 @@ Installing
 2. bin/make.sh
 3. ensure public web folder is pointing at web/
 
-Installing
-==========
-
-1. git clone
-2. bin/make.sh
-3. ensure public web folder is pointing at web/
-
 Docker
 ======
 
