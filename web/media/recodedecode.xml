@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Recode Decode, hosted by Kara Swisher</title>
+    <description>
+      <![CDATA[<p>A show about tech and media's key players, big ideas, and how they're changing the world we live in. One of tech's most prominent journalists, Kara Swisher, is known for her insightful reporting and straight-shooting style. Listen in as she hosts hard-hitting interviews with influential business leaders and outspoken personalities from media, politics, and more.</p>]]>
+    </description>
+    <managingEditor>recode.radio@voxmedia.com (Recode)</managingEditor>
+    <copyright>© 2018 Vox Media, Inc. All Rights Reserved.</copyright>
+    
+    <link>https://www.recode.net/podcasts/</link>
+    <itunes:owner>
+      <itunes:name>Recode</itunes:name>
+      <itunes:email>recode.radio@voxmedia.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Recode</itunes:author>
+    <itunes:summary> A show about tech and media's key players, big ideas, and how they're changing the world we live in. One of tech's most prominent journalists, Kara Swisher, is known for her insightful reporting and straight-shooting style. Listen in as she hosts hard-hitting interviews with influential business leaders and outspoken personalities from media, politics, and more.</itunes:summary>
+    <language>en</language>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+      <itunes:category text="Gadgets" />
+    </itunes:category>
+    <itunes:keywords>vox media,the verge,investors,code conference,recode,recode events,vox,disruption,reviews,interviews,technology,innovation,entrepreneur,tech,code</itunes:keywords>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/c5/98/87/aa/c59887aa-4139-41b5-a38e-1fcc5d1d8831/c105265d445b085fedf86e1d7b6370c001f086565ba2b317940fc5194d9668ec15a9a677ae4c38f4ad35bfadcb702941eccb07ca4654ac63eb2a6f4a9caa84da.jpeg" />
+    <image>
+      <url>https://dfkfj8j276wwv.cloudfront.net/images/c5/98/87/aa/c59887aa-4139-41b5-a38e-1fcc5d1d8831/c105265d445b085fedf86e1d7b6370c001f086565ba2b317940fc5194d9668ec15a9a677ae4c38f4ad35bfadcb702941eccb07ca4654ac63eb2a6f4a9caa84da.jpeg</url>
+      <link>https://www.recode.net/podcasts/</link>
+      <title>Recode Decode, hosted by Kara Swisher</title>
+    </image>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Recode-Decode" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="recode-decode" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>© 2018 Vox Media, Inc. All Rights Reserved.</media:copyright><media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c5/98/87/aa/c59887aa-4139-41b5-a38e-1fcc5d1d8831/c105265d445b085fedf86e1d7b6370c001f086565ba2b317940fc5194d9668ec15a9a677ae4c38f4ad35bfadcb702941eccb07ca4654ac63eb2a6f4a9caa84da.jpeg" /><media:keywords>vox media,the verge,investors,code conference,recode,recode events,vox,disruption,reviews,interviews,technology,innovation,entrepreneur,tech,code</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><itunes:subtitle> A show about tech and media's key players, big ideas, and how they're changing the world we live in. One of tech's most prominent journalists, Kara Swisher, is known for her insightful reporting and straight-shooting style. Listen in as she hosts hard-hi</itunes:subtitle><item>
+      <title>The ‘invisible startups’ of LA Tech (Mark Suster, managing partner, Upfront Ventures)</title>
+      <description>
+        <![CDATA[<p>Upfront Ventures Managing Partner Mark Suster talks with Recode’s Kara Swisher about leading the oldest and largest venture capital firm in Los Angeles. He explains why he rejects the term “Silicon Beach,” preferring “LA Tech,” and what people miss when they think of Southern California as a less-techie place than Silicon Valley. Suster says the increasingly common overfunding of tech companies and overpaying of tech workers in the San Francisco area are discouraging innovation. He also discusses how the geography of entrepreneurship in SoCal is changing, why Upfront-backed smart doorbell maker Ring sold to Amazon, and what people get wrong about one of LA's sexiest tech companies, Snap.</p>]]>
+      </description>
+      <itunes:title>The ‘invisible startups’ of LA Tech (Mark Suster, managing partner, Upfront Ventures)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Upfront Ventures Managing Partner Mark Suster talks with Recode’s Kara Swisher about leading the oldest and largest venture capital firm in Los Angeles. He explains why he rejects the term “Silicon Beach,” preferring “LA Tech,” and what people miss when they think of Southern California as a less-techie place than Silicon Valley. Suster says the increasingly common overfunding of tech companies and overpaying of tech workers in the San Francisco area are discouraging innovation. He also discusses how the geography of entrepreneurship in SoCal is changing, why Upfront-backed smart doorbell maker Ring sold to Amazon, and what people get wrong about one of LA's sexiest tech companies, Snap.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Upfront Ventures Managing Partner Mark Suster talks with Recode’s Kara Swisher about leading the oldest and largest venture capital firm in Los Angeles. He explains why he rejects the term “Silicon Beach,” preferring “LA Tech,” and what people miss when they think of Southern California as a less-techie place than Silicon Valley. Suster says the increasingly common overfunding of tech companies and overpaying of tech workers in the San Francisco area are discouraging innovation. He also discusses how the geography of entrepreneurship in SoCal is changing, why Upfront-backed smart doorbell maker Ring sold to Amazon, and what people get wrong about one of LA's sexiest tech companies, Snap.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/l5qa4kLt9MVoupe182_h6pDuxB4LOTt3u0ZuN16Hf5w</guid>
+      <pubDate>Wed, 18 Apr 2018 04:01:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/c5/98/87/aa/c59887aa-4139-41b5-a38e-1fcc5d1d8831/c105265d445b085fedf86e1d7b6370c001f086565ba2b317940fc5194d9668ec15a9a677ae4c38f4ad35bfadcb702941eccb07ca4654ac63eb2a6f4a9caa84da.jpeg" />
+      <itunes:keywords>the verge,Reviews,tech,disruption,code conference,recode events,Vox Media,code,Innovation,Technology,investors,entrepreneur,recode,Vox,interviews</itunes:keywords>
+      <itunes:duration>01:09:32</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/e3fe481e-cb05-4f96-9184-c5dc089dbd04.mp3" type="audio/mpeg" length="66755604" />
+    <media:content url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/e3fe481e-cb05-4f96-9184-c5dc089dbd04.mp3" fileSize="66755604" type="audio/mpeg" /><itunes:subtitle> Upfront Ventures Managing Partner Mark Suster talks with Recode’s Kara Swisher about leading the oldest and largest venture capital firm in Los Angeles. He explains why he rejects the term “Silicon Beach,” preferring “LA Tech,” and what people miss when </itunes:subtitle></item>
+    <item>
+      <title>BlackBerry CEO John Chen wants somebody to make a new BlackBerry</title>
+      <description>
+        <![CDATA[<p>BlackBerry CEO John Chen talks with Recode’s Kara Swisher about how the once-pioneering mobile phone company has happily pivoted into a new business model, focusing on enterprise security and embedded technology for connected cars. Chen says “somebody should make” a new version of the BlackBerry Bold 9900, explaining that there’s still a sizable audience of professionals and government workers who want their phones to be ultra secure. He also discusses why he took the CEO job in 2013, why he just committed to another five years and how governments should direct their regulation of self-driving cars.</p>]]>
+      </description>
+      <itunes:title>BlackBerry CEO John Chen wants somebody to make a new BlackBerry</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>BlackBerry CEO John Chen talks with Recode’s Kara Swisher about how the once-pioneering mobile phone company has happily pivoted into a new business model, focusing on enterprise security and embedded technology for connected cars. Chen says “somebody should make” a new version of the BlackBerry Bold 9900, explaining that there’s still a sizable audience of professionals and government workers who want their phones to be ultra secure. He also discusses why he took the CEO job in 2013, why he just committed to another five years and how governments should direct their regulation of self-driving cars.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>BlackBerry CEO John Chen talks with Recode’s Kara Swisher about how the once-pioneering mobile phone company has happily pivoted into a new business model, focusing on enterprise security and embedded technology for connected cars. Chen says “somebody should make” a new version of the BlackBerry Bold 9900, explaining that there’s still a sizable audience of professionals and government workers who want their phones to be ultra secure. He also discusses why he took the CEO job in 2013, why he just committed to another five years and how governments should direct their regulation of self-driving cars.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/U9e8CheLI7b2ai7BgJnSeIkOIjZRPl2SHqnFzbInXxQ</guid>
+      <pubDate>Mon, 16 Apr 2018 04:01:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/c5/98/87/aa/c59887aa-4139-41b5-a38e-1fcc5d1d8831/c105265d445b085fedf86e1d7b6370c001f086565ba2b317940fc5194d9668ec15a9a677ae4c38f4ad35bfadcb702941eccb07ca4654ac63eb2a6f4a9caa84da.jpeg" />
+      <itunes:keywords>the verge,Reviews,tech,disruption,code conference,recode events,Vox Media,code,Innovation,Technology,investors,entrepreneur,recode,Vox,Interviews</itunes:keywords>
+      <itunes:duration>00:53:09</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/aa55665c-35b6-4eee-be27-7e5b2b1da8cd.mp3" type="audio/mpeg" length="51031144" />
+    <media:content url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/aa55665c-35b6-4eee-be27-7e5b2b1da8cd.mp3" fileSize="51031144" type="audio/mpeg" /><itunes:subtitle> BlackBerry CEO John Chen talks with Recode’s Kara Swisher about how the once-pioneering mobile phone company has happily pivoted into a new business model, focusing on enterprise security and embedded technology for connected cars. Chen says “somebody sh</itunes:subtitle></item>
+    <item>
+      <title>Yelp CEO Jeremy Stoppelman: Silicon Valley has 'lost its purpose'</title>
+      <description>
+        <![CDATA[<p>Yelp CEO Jeremy Stoppelman talks with Recode's Kara Swisher about the phenomenon of techlash and why people are just now "waking up" to Silicon Valley's dark side. Stoppelman's company has feuded for years with its much larger rival Google, which Yelp says has unfairly weighted local search results to its own product. He says the Google of 2004 would laugh at how the company does business today, and praises the new regulations being brought against tech giants by the EU. However, Stoppelman suggests he's not optimistic about U.S. lawmakers taking similar action, even though scrutiny of the big companies seems to have united Democrats and Republicans for once.</p>]]>
+      </description>
+      <itunes:title>Yelp CEO Jeremy Stoppelman: Silicon Valley has 'lost its purpose'</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Yelp CEO Jeremy Stoppelman talks with Recode's Kara Swisher about the phenomenon of techlash and why people are just now "waking up" to Silicon Valley's dark side. Stoppelman's company has feuded for years with its much larger rival Google, which Yelp says has unfairly weighted local search results to its own product. He says the Google of 2004 would laugh at how the company does business today, and praises the new regulations being brought against tech giants by the EU. However, Stoppelman suggests he's not optimistic about U.S. lawmakers taking similar action, even though scrutiny of the big companies seems to have united Democrats and Republicans for once.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Yelp CEO Jeremy Stoppelman talks with Recode's Kara Swisher about the phenomenon of techlash and why people are just now "waking up" to Silicon Valley's dark side. Stoppelman's company has feuded for years with its much larger rival Google, which Yelp says has unfairly weighted local search results to its own product. He says the Google of 2004 would laugh at how the company does business today, and praises the new regulations being brought against tech giants by the EU. However, Stoppelman suggests he's not optimistic about U.S. lawmakers taking similar action, even though scrutiny of the big companies seems to have united Democrats and Republicans for once.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/KqaL6IcVOCV20lq5RrokMD1nhEt0y1b02Yu0oAjA1l0</guid>
+      <pubDate>Wed, 11 Apr 2018 04:08:37 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/c5/98/87/aa/c59887aa-4139-41b5-a38e-1fcc5d1d8831/c105265d445b085fedf86e1d7b6370c001f086565ba2b317940fc5194d9668ec15a9a677ae4c38f4ad35bfadcb702941eccb07ca4654ac63eb2a6f4a9caa84da.jpeg" />
+      <itunes:keywords>the verge,Reviews,tech,disruption,code conference,recode events,Vox Media,code,Innovation,Technology,investors,entrepreneur,recode,Vox,Interviews</itunes:keywords>
+      <itunes:duration>00:54:52</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/c95fa413-30fd-4995-9241-4533796a7483.mp3" type="audio/mpeg" length="52685009" />
+    <media:content url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/c95fa413-30fd-4995-9241-4533796a7483.mp3" fileSize="52685009" type="audio/mpeg" /><itunes:subtitle> Yelp CEO Jeremy Stoppelman talks with Recode's Kara Swisher about the phenomenon of techlash and why people are just now "waking up" to Silicon Valley's dark side. Stoppelman's company has feuded for years with its much larger rival Google, which Yelp sa</itunes:subtitle></item>
+    <item>
+      <title>Hillary Clinton advisor and "Dear Madam President" author Jennifer Palmieri </title>
+      <description>
+        <![CDATA[<p>Jennifer Palmieri, the communications director for Hillary Clinton's 2016 Presidential campaign, talks with Recode's Kara Swisher about her new book, "Dear Madam President: An Open Letter to the Women Who Will Run the World." Palmieri reflects on the obstacles — fair and unfair — that Clinton faced while running against now-President Trump and says part of the problem was that she held herself back, discounting the value of telling her own story to the American people. She also shares some advice for the woman who will one day be President of the United States and talks about how much has changed in the media and technology strategies of political campaigns in just two years.</p>]]>
+      </description>
+      <itunes:title>Hillary Clinton advisor and "Dear Madam President" author Jennifer Palmieri </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Jennifer Palmieri, the communications director for Hillary Clinton's 2016 Presidential campaign, talks with Recode's Kara Swisher about her new book, "Dear Madam President: An Open Letter to the Women Who Will Run the World." Palmieri reflects on the obstacles — fair and unfair — that Clinton faced while running against now-President Trump and says part of the problem was that she held herself back, discounting the value of telling her own story to the American people. She also shares some advice for the woman who will one day be President of the United States and talks about how much has changed in the media and technology strategies of political campaigns in just two years.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Jennifer Palmieri, the communications director for Hillary Clinton's 2016 Presidential campaign, talks with Recode's Kara Swisher about her new book, "Dear Madam President: An Open Letter to the Women Who Will Run the World." Palmieri reflects on the obstacles — fair and unfair — that Clinton faced while running against now-President Trump and says part of the problem was that she held herself back, discounting the value of telling her own story to the American people. She also shares some advice for the woman who will one day be President of the United States and talks about how much has changed in the media and technology strategies of political campaigns in just two years.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/YM9sL3Lw-UOPnxL7K6keUta9rMa9J9jWK5vJ1jCLVe8</guid>
+      <pubDate>Mon, 09 Apr 2018 04:01:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/c5/98/87/aa/c59887aa-4139-41b5-a38e-1fcc5d1d8831/c105265d445b085fedf86e1d7b6370c001f086565ba2b317940fc5194d9668ec15a9a677ae4c38f4ad35bfadcb702941eccb07ca4654ac63eb2a6f4a9caa84da.jpeg" />
+      <itunes:keywords>the verge,Reviews,tech,disruption,code conference,recode events,Vox Media,code,Innovation,Technology,investors,entrepreneur,recode,Vox,Interviews</itunes:keywords>
+      <itunes:duration>01:10:49</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/85865aaa-807f-490f-8856-306b3fffb3df.mp3" type="audio/mpeg" length="67991092" />
+    <media:content url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/85865aaa-807f-490f-8856-306b3fffb3df.mp3" fileSize="67991092" type="audio/mpeg" /><itunes:subtitle> Jennifer Palmieri, the communications director for Hillary Clinton's 2016 Presidential campaign, talks with Recode's Kara Swisher about her new book, "Dear Madam President: An Open Letter to the Women Who Will Run the World." Palmieri reflects on the obs</itunes:subtitle></item>
+    <item>
+      <title>Apple CEO Tim Cook: The uncut 'Revolution' interview</title>
+      <description>
+        <![CDATA[<p>Recode's Kara Swisher and MSNBC's Chris Hayes talk with Apple CEO Tim Cook on the second episode of "Revolution." The interview was held in front of a live audience the day after Apple's education-focused event in Chicago, but Cook also talks about privacy, Facebook, Amazon, DACA and more.</p>]]>
+      </description>
+      <itunes:title>Apple CEO Tim Cook: The uncut 'Revolution' interview</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Recode's Kara Swisher and MSNBC's Chris Hayes talk with Apple CEO Tim Cook on the second episode of "Revolution." The interview was held in front of a live audience the day after Apple's education-focused event in Chicago, but Cook also talks about privacy, Facebook, Amazon, DACA and more.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Recode's Kara Swisher and MSNBC's Chris Hayes talk with Apple CEO Tim Cook on the second episode of "Revolution." The interview was held in front of a live audience the day after Apple's education-focused event in Chicago, but Cook also talks about privacy, Facebook, Amazon, DACA and more.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/GKFd7VB-lDmpq1c5JoZ5z97DjVy35pzrv0znwbNnLDY</guid>
+      <pubDate>Sat, 07 Apr 2018 16:28:18 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/c5/98/87/aa/c59887aa-4139-41b5-a38e-1fcc5d1d8831/c105265d445b085fedf86e1d7b6370c001f086565ba2b317940fc5194d9668ec15a9a677ae4c38f4ad35bfadcb702941eccb07ca4654ac63eb2a6f4a9caa84da.jpeg" />
+      <itunes:keywords>the verge,Reviews,tech,disruption,code conference,recode events,Vox Media,code,Innovation,Technology,investors,entrepreneur,recode,Vox,Interviews</itunes:keywords>
+      <itunes:duration>01:16:55</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/4cec97a6-a928-4ae8-a9d9-1698f12f5fb8.mp3" type="audio/mpeg" length="73850044" />
+    <media:content url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/4cec97a6-a928-4ae8-a9d9-1698f12f5fb8.mp3" fileSize="73850044" type="audio/mpeg" /><itunes:subtitle> Recode's Kara Swisher and MSNBC's Chris Hayes talk with Apple CEO Tim Cook on the second episode of "Revolution." The interview was held in front of a live audience the day after Apple's education-focused event in Chicago, but Cook also talks about priva</itunes:subtitle></item>
+  <media:credit role="author">Recode</media:credit><media:rating>nonadult</media:rating></channel>
+</rss>

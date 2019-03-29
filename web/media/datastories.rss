@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" bxmlns:psb="http://podlove.org/simple-bookmarks" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" >
+
+<channel>
+	<title>Data Stories</title>
+	<link>http://datastori.es</link>
+	<description>A podcast on data and how it affects our lives — with Enrico Bertini and Moritz Stefaner</description>
+	<lastBuildDate>Wed, 13 Feb 2019 18:38:48 +0000</lastBuildDate>
+	
+<image><url>http://datastori.es/wp-content/uploads/2017/12/ds-1400-facelift.png</url><title>Data Stories</title><link>http://datastori.es</link></image>
+<atom:link rel="self" type="application/rss+xml" title="Data Stories (MP4)" href="http://datastori.es/feed/podcast/" />
+	<atom:link rel="alternate" type="application/rss+xml" title="Data Stories (Data Stories)" href="http://datastori.es/feed/mp3/" />
+	<atom:link rel="alternate" type="application/rss+xml" title="Data Stories (m4a)" href="http://datastori.es/feed/m4a/" />
+	<atom:link rel="first" href="http://datastori.es/feed/podcast/" />
+	<language>en-US</language><site xmlns="com-wordpress:feed-additions:1">96340609</site><generator>Podlove Podcast Publisher v2.7.22</generator>
+	<itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author>
+	<itunes:type>episodic</itunes:type>
+	<itunes:summary>Enrico Bertini and Moritz Stefaner discuss the latest developments in data analytics, visualization and related topics.</itunes:summary>
+<itunes:category text="Arts"><itunes:category text="Visual Arts"></itunes:category></itunes:category><itunes:category text="Technology"></itunes:category><itunes:category text="Education"></itunes:category>
+	
+	<itunes:owner>
+		<itunes:name>Enrico Bertini and Moritz Stefaner</itunes:name>
+		<itunes:email>mail@datastori.es</itunes:email>
+	</itunes:owner>
+	<itunes:image href="http://datastori.es/wp-content/uploads/2017/12/ds-1400-facelift.png" />
+	<itunes:subtitle>A podcast on data and how it affects our lives — with Enrico Bertini and Moritz Stefaner</itunes:subtitle>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+
+<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=&amp;language=en_US&amp;url=http%3A%2F%2Fdatastori.es&amp;title=Data+Stories&amp;description=A+podcast+on+data+and+how+it+affects+our+lives+%E2%80%94+with+Enrico+Bertini+and+Moritz+Stefaner" type="text/html" />	
+		
+	<item>
+		<title>135  &#124;  The &quot;Dashboard Conspiracy&quot; with Lyn Bartram and Alper Sarikaya</title>
+		<link>http://datastori.es/135-the-dashboard-conspiracy-with-lyn-bartram-and-alper-sarikaya/</link>
+		<pubDate>Tue, 12 Feb 2019 18:28:17 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2019-02-13t18:38:28+00:00-f450409b9104509</guid>
+		<description><![CDATA[We have Lyn Bartram of Simon Fraser University and Alper Sarikaya of Microsoft Power BI on the show to talk about an exciting research project they developed to better understand dashboards.]]></description><post-id xmlns="com-wordpress:feed-additions:1">3614</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/135-the-dashboard-conspiracy-with-lyn-bartram-and-alper-sarikaya/#" />
+		
+<enclosure url="http://datastori.es/podlove/file/5609/s/feed/c/podcast/datastories-135.m4a" length="33892707" type="audio/mp4"/>
+
+		<itunes:duration>00:45:11</itunes:duration>
+		<itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>The "Dashboard Conspiracy" with Lyn Bartram and Alper Sarikaya</itunes:title>
+		<itunes:episode>135</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>We have Lyn Bartram of Simon Fraser University and Alper Sarikaya of Microsoft Power BI on the show to talk about an exciting research project they developed to better understand dashboards.</itunes:summary>
+		
+		<content:encoded><![CDATA[
+<ul class="episode_download_list">
+	<li>Download:</li>
+		    	    			<li>
+				<a href="http://datastori.es/podlove/file/5612/s/download/c/buttonlist/datastories-135.mp3">MP3 Audio<span class="size">41 MB</span></a>
+			</li>
+	    		    	    			<li>
+				<a href="http://datastori.es/podlove/file/5609/s/download/c/buttonlist/datastories-135.m4a">MPEG-4 AAC Audio<span class="size">32 MB</span></a>
+			</li>
+	    		    	    		    	    	</ul>
+<div style="clear: both"></div>
+<hr>
+<p><img class="size-thumbnail wp-image-3625 alignnone" src="http://datastori.es/wp-content/uploads/2019/01/Lyn-Bartram-LynHeadShot-150x150.jpg" alt="" width="150" height="150" srcset="http://datastori.es/wp-content/uploads/2019/01/Lyn-Bartram-LynHeadShot-150x150.jpg 150w, http://datastori.es/wp-content/uploads/2019/01/Lyn-Bartram-LynHeadShot-300x300.jpg 300w, http://datastori.es/wp-content/uploads/2019/01/Lyn-Bartram-LynHeadShot-768x768.jpg 768w, http://datastori.es/wp-content/uploads/2019/01/Lyn-Bartram-LynHeadShot-1024x1024.jpg 1024w, http://datastori.es/wp-content/uploads/2019/01/Lyn-Bartram-LynHeadShot.jpg 1096w" sizes="(max-width: 150px) 100vw, 150px" /><img class="wp-image-3627 size-thumbnail alignnone" src="http://datastori.es/wp-content/uploads/2019/01/Alper-Sarikaya-alper-headshot-square-150x150.jpg" alt="" width="150" height="150" srcset="http://datastori.es/wp-content/uploads/2019/01/Alper-Sarikaya-alper-headshot-square-150x150.jpg 150w, http://datastori.es/wp-content/uploads/2019/01/Alper-Sarikaya-alper-headshot-square-300x300.jpg 300w, http://datastori.es/wp-content/uploads/2019/01/Alper-Sarikaya-alper-headshot-square-768x768.jpg 768w, http://datastori.es/wp-content/uploads/2019/01/Alper-Sarikaya-alper-headshot-square-1024x1024.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p>[Our podcast is fully supported by our listeners. Please consider&nbsp;<a href="https://www.patreon.com/datastories">becoming a supporter on Patreon</a>&nbsp;or sending us a one-time donation through <a href="https://www.paypal.me/datastories">Paypal</a>. And thanks!]</p>
+<p>Oh dashboards&#8230; dashboards&#8230; what are they? For some, they are just ugly examples of bad visualization design (speed dials anyone?). For others, they are a first citizen of the data visualization world that deserve to be learned, studied, and understood.</p>
+<p>To dig into this debate, we have <a href="https://www.sfu.ca/~lyn/">Lyn Bartram</a>&nbsp;of Simon Fraser University and <a href="https://alper.datav.is/">Alper Sarikaya</a>&nbsp;of Microsoft Power BI on the show to talk about an exciting research project they developed. Their research seeks to build a better picture of what dashboard are and how they are used &#8220;in the wild.&#8221; The results are summarized in a paper they wrote with their colleagues from Tableau and Honeycomb.io:&nbsp;<a href="https://alper.datav.is/publications/dashboards/">What Do We Talk About When We Talk About Dashboards?</a></p>
+<p>On the show we talk about how the project got started, what they discovered by analyzing a large corpus of dashboards, and the many ramifications of their research.</p>
+<p>Enjoy the show!</p>
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://alper.datav.is/publications/dashboards/">Project page</a></li>
+<li>Supplemental material with images of all the dashboards the team analyzed (<a href="https://alper.datav.is/assets/publications/dashboards/dashboards-suppl.zip">zip</a>)</li>
+</ul>
+
+<div style="width: 720px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-3614-1" width="720" height="720" preload="metadata" controls="controls"><source type="video/mp4" src="http://datastori.es/wp-content/uploads/2019/02/DS-135-promo.mp4?_=1" /><a href="http://datastori.es/wp-content/uploads/2019/02/DS-135-promo.mp4">http://datastori.es/wp-content/uploads/2019/02/DS-135-promo.mp4</a></video></div>
+
+
+<p></p>
+
+
+			<hr/><h3>Related episodes</h3>
+		
+
+	<ul>
+			<li>
+			<a href="http://datastori.es/72-jeff-heer/">Jeff Heer on Merging Industry and Research with the Interactive Data Lab</a>
+		</li>
+			<li>
+			<a href="http://datastori.es/79-information-design-with-isabel-meirelles/">Information Design with Isabel Meirelles</a>
+		</li>
+		</ul>
+
+]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <psc:chapter start="00:00:29.705" title="Welcome to Data Stories!"/>
+  <psc:chapter start="00:01:05.349" title="Data Stories is ad-free thanks to the support of our listeners; please consider making a contribution" href="https://www.patreon.com/datastories"/>
+  <psc:chapter start="00:01:52.037" title="Today's topic: The Dashboard conspiracy!"/>
+  <psc:chapter start="00:03:33.366" title="Introducing Lyn Bartram" href="https://www.sfu.ca/siat/people/research-faculty/lyn-bartram.html"/>
+  <psc:chapter start="00:03:57.090" title="Introducing Alper Sarikaya" href="https://alper.datav.is/"/>
+  <psc:chapter start="00:04:57.972" title="How got this project started?"/>
+  <psc:chapter start="00:07:28.804" title="What were your initial intuitions about dashboards and how have they changed?"/>
+  <psc:chapter start="00:12:08.727" title="What's a dashboard used for besides monitoring?"/>
+  <psc:chapter start="00:13:39.272" title="Why does the word &quot;dashboard&quot; have such a negative connotation in dataviz?"/>
+  <psc:chapter start="00:19:20.394" title="What methodology did you follow?"/>
+  <psc:chapter start="00:26:21.234" title="The social role of dashboards"/>
+  <psc:chapter start="00:28:50.258" title="Dashboards and interaction"/>
+  <psc:chapter start="00:34:29.529" title="Cultural differences in using dashboards"/>
+  <psc:chapter start="00:36:42.200" title="How can practitioners improve their dashboards?"/>
+  <psc:chapter start="00:43:32.298" title="Get in touch with us and support us on Patreon" href="https://www.patreon.com/datastories"/>
+</psc:chapters>
+<psb:bookmarks>
+  <psb:bookmark start="00:01:20.123">https://en.wikipedia.org/wiki/Acra_(fortress)</psb:bookmark>
+  <psb:bookmark start="00:01:25.555">Here is <strong>some sample</strong> <i>formatted</i> text. <a href="https://reddit.com">And a link too!</a></psb:bookmark>
+  <psb:bookmark start="00:02:00.000">
+    <p>Sherlock Holmes was a man who seldom took exercise for exercise's sake. Few men were capable of greater muscular effort, and he was undoubtedly one of the finest boxers of his weight that I have ever seen; but he looked upon aimless bodily exertion as a waste of energy, and he seldom bestirred himself save when there was some professional object to be served. Then he was absolutely untiring and indefatigable. That he should have kept himself in training under such circumstances is remarkable, but his diet was usually of the sparest, and his habits were simple to the verge of austerity. Save for the occasional use of cocaine, he had no vices, and he only turned to the drug as a protest against the monotony of existence when cases were scanty and the papers uninteresting.</p>
+    <p>One day in early spring he had so far relaxed as to go for a walk with me in the Park, where the first faint shoots of green were breaking out upon the elms, and the sticky spear-heads of the chestnuts were just beginning to burst into their five-fold leaves. For two hours we rambled about together, in silence for the most part, as befits two men who know each other intimately. It was nearly five before we were back in Baker Street once more.</p>
+    <p>“Beg pardon, sir,” said our page-boy, as he opened the door. “There's been a gentleman here asking for you, sir.”</p>
+    <p>Holmes glanced reproachfully at me. “So much for afternoon walks!” said he. “Has this gentleman gone, then?”</p></psb:bookmark>
+  <psb:bookmark start="00:02:30.488">https://i.imgur.com/2EdkIzt.jpg</psb:bookmark>
+</psb:bookmarks>
+<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=&amp;language=en_US&amp;url=http%3A%2F%2Fdatastori.es%2F135-the-dashboard-conspiracy-with-lyn-bartram-and-alper-sarikaya%2F&amp;title=The+%22Dashboard+Conspiracy%22+with+Lyn+Bartram+and+Alper+Sarikaya&amp;description=We+have+Lyn+Bartram%C2%A0of+Simon+Fraser+University+and+Alper+Sarikaya%C2%A0of+Microsoft+Power+BI+on+the+show+to+talk+about+an+exciting+research+project+they+developed+to+better+understand+dashboards." type="text/html" />	
+	</item>
+		
+	<item>
+		<title>134  &#124;  Visualizing Uncertainty with Jessica Hullman and Matthew Kay</title>
+		<link>http://datastori.es/134-visualizing-uncertainty-with-jessica-hullman-and-matthew-kay/</link>
+		<pubDate>Sat, 19 Jan 2019 17:00:10 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2019-01-20t10:28:55+00:00-d9b203bf0fc1790</guid>
+		<description><![CDATA[Jessica Hullman and Matthew Kay join us to discuss the how and why of visualizing information uncertainty.]]></description><post-id xmlns="com-wordpress:feed-additions:1">3590</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/134-visualizing-uncertainty-with-jessica-hullman-and-matthew-kay/#" />
+		
+<enclosure url="http://datastori.es/podlove/file/5571/s/feed/c/podcast/134-visualizing-uncertainty.m4a" length="41607110" type="audio/mp4"/>
+
+		<itunes:duration>00:55:16</itunes:duration>
+		<itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Visualizing Uncertainty with Jessica Hullman and Matthew Kay</itunes:title>
+		<itunes:episode>134</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Jessica Hullman and Matthew Kay join us to discuss the how and why of visualizing information uncertainty.</itunes:summary>
+		
+		<content:encoded><![CDATA[<p>
+<ul class="episode_download_list">
+	<li>Download:</li>
+		    	    			<li>
+				<a href="http://datastori.es/podlove/file/5570/s/download/c/buttonlist/134-visualizing-uncertainty.mp3">MP3 Audio<span class="size">51 MB</span></a>
+			</li>
+	    		    	    			<li>
+				<a href="http://datastori.es/podlove/file/5571/s/download/c/buttonlist/134-visualizing-uncertainty.m4a">MPEG-4 AAC Audio<span class="size">40 MB</span></a>
+			</li>
+	    		    	    		    	    	</ul>
+<div style="clear: both"></div>
+[Our podcast is fully supported by our listeners. Please consider <a href="https://www.patreon.com/datastories">becoming a supporter on Patreon</a> or sending us a one-time donation through <a href="https://www.paypal.me/datastories">Paypal</a>. Thanks!]</p>
+<p>What is uncertainty? Why is it important to take it into account when designing data visualizations? And how do you actually do so? We explore these and other questions with <a href="https://users.eecs.northwestern.edu/~jhullman/">Jessica Hullman</a> of Northwestern University and <a href="http://www.mjskay.com/">Matthew Kay</a> of the University of Michigan. Jessica and Matt have written many publications on the topic that help orient us to the intricate world of uncertainty, probabilities, and their relevance to data visualization.</p>
+<p>We hope you enjoy the show!</p>
+<p></p>
+<p><b>Links</b></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">National Institute for Standards (NIST): “</span><a href="https://www.nist.gov/itl/sed/topic-areas/measurement-uncertainty"><span style="font-weight: 400;">Measurement Error</span></a><span style="font-weight: 400;">”</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Useful material to learn about uncertainty visualization:</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Leland Wilkinson’s </span><a href="https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1547414405&amp;sr=1-1&amp;keywords=grammar+of+graphics"><span style="font-weight: 400;">The Grammar of Graphics</span></a><span style="font-weight: 400;"> (chapter on uncertainty)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Howard Wainer’s </span><a href="https://www.amazon.com/Picturing-Uncertain-World-Communicate-Uncertainty/dp/0691152675"><span style="font-weight: 400;">Picturing the Uncertain World</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"> Richard McElreath’s </span><a href="https://xcelab.net/rm/statistical-rethinking/"><span style="font-weight: 400;">Statistical Rethinking</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Claus Wilke&#8217;s </span><a href="https://serialmentor.com/dataviz/visualizing-uncertainty.html"><span style="font-weight: 400;">uncertainty vis chapter</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Matt&#8217;s </span><a href="https://github.com/mjskay/uncertainty-examples"><span style="font-weight: 400;">github of uncertainty examples</span></a></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Hypothetical Outcome Plots</span>
+<ul>
+<li style="font-weight: 400;"><a href="https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740"><span style="font-weight: 400;">Hypothetical Outcome Plots: Experiencing the Uncertain</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Paper: </span><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142444"><span style="font-weight: 400;">Hypothetical Outcome Plots Outperform Error Bars and Violin Plots for Inferences about Reliability of Variable Ordering</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Paper: </span><a href="https://users.eecs.northwestern.edu/~jhullman/pn1957-fernandes.pdf"><span style="font-weight: 400;">Hypothetical Outcome Plots Help Untrained Observers Judge Trends in Ambiguous Data</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Gregor Aisch on: “</span><a href="https://www.vis4.net/blog/2016/11/jittery-gauges-election-forecast/"><span style="font-weight: 400;">Why we used jittery gauges in our live election forecast</span></a><span style="font-weight: 400;">”</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ensembles &#8211; Visualizing storms</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Paper: </span><a href="https://osf.io/hy3ba/"><span style="font-weight: 400;">Visualizing Uncertain Tropical Cyclone Predictions using Representative Samples from Ensembles of Forecast Tracks</span></a></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Visual variables used to show probability/confidence </span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Related: </span><a href="https://medium.com/@uwdata/value-suppressing-uncertainty-palettes-426130122ce9"><span style="font-weight: 400;">Value suppressing color palettes</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Related: </span><a href="http://openaccess.city.ac.uk/1274/"><span style="font-weight: 400;">Sketchy rendering</span></a></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Static depictions of outcomes (quantile dotplot)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Paper: </span><a href="https://mucollective.northwestern.edu/project/when-ish-is-my-bus"><span style="font-weight: 400;">When (ish) is My Bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems</span></a><span style="font-weight: 400;">. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Paper: </span><a href="https://mucollective.northwestern.edu/project/uncertainty-bus"><span style="font-weight: 400;">Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making</span></a><span style="font-weight: 400;">  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Paper: </span><a href="https://mucollective.northwestern.edu/files/2017-ImaginingReplications-InfoVis.pdf"><span style="font-weight: 400;">Imagining Replications: Graphical Prediction &amp; Discrete Visualizations Improve Recall &amp; Estimation of Effect Uncertainty</span></a></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Evaluation</span>
+<ul>
+<li style="font-weight: 400;">Paper: <a style="font-size: 2rem;" href="https://visualization.ischool.uw.edu/~xiaoliq/uncertainty_vis_eval/index.html">In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation.</a><br />
+<hr class="ttfmake-hr" style="border-style: solid; border-top-width: 1px;" />
+<p><div style="width: 720px;" class="wp-video"><video class="wp-video-shortcode" id="video-3590-2" width="720" height="720" preload="metadata" controls="controls"><source type="video/mp4" src="http://datastori.es/wp-content/uploads/2019/01/DS-134-promo.mp4?_=2" /><a href="http://datastori.es/wp-content/uploads/2019/01/DS-134-promo.mp4">http://datastori.es/wp-content/uploads/2019/01/DS-134-promo.mp4</a></video></div></li>
+</ul>
+</li>
+</ul>
+<p>
+
+			<hr/><h3>Related episodes</h3>
+		
+
+	<ul>
+			<li>
+			<a href="http://datastori.es/109-feminist-data-visualization-with-catherine-dignazio/">Feminist Data Visualization with Catherine D’Ignazio</a>
+		</li>
+			<li>
+			<a href="http://datastori.es/122-visualizing-climate-change-scenarios-with-boris-muller/">Visualizing Climate Change Scenarios with Boris Müller</a>
+		</li>
+		</ul>
+
+</p>
+]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <psc:chapter start="00:00:27.508" title="Welcome to Data Stories in 2019!"/>
+  <psc:chapter start="00:01:03.867" title="Data Stories is ad-free thanks to the support of our listeners; please consider making a contribution" href="https://www.patreon.com/"/>
+  <psc:chapter start="00:01:51.157" title="Update on the 2018 Information Is Beautiful Awards - Congratulations Moritz!" href="https://www.informationisbeautifulawards.com/news/333-the-winners-unusual"/>
+  <psc:chapter start="00:03:36.536" title="Today's topic: visualizing uncertainty with Jessica Hullman and Matthew Kay"/>
+  <psc:chapter start="00:04:26.298" title="Introducing Jessica Hullman" href="https://users.eecs.northwestern.edu/~jhullman/"/>
+  <psc:chapter start="00:05:40.475" title="Introducing Matthew Kay" href="http://www.mjskay.com/"/>
+  <psc:chapter start="00:07:25.550" title="What do we talk about when we talk about uncertainty visualization?"/>
+  <psc:chapter start="00:11:52.918" title="Why should we even try to visualize uncertainty?"/>
+  <psc:chapter start="00:18:04.558" title="How can we visualize uncertainty?"/>
+  <psc:chapter start="00:23:58.176" title="How Jessica and Matthew have been focusing on outcome-oriented techniques to visualize uncertainty"/>
+  <psc:chapter start="00:27:02.718" title="The infamous New York Times election needle"/>
+  <psc:chapter start="00:33:08.751" title="Additional methods for making uncertainty accessible"/>
+  <psc:chapter start="00:41:58.644" title="How to evaluate techniques to visualize uncertainty?"/>
+  <psc:chapter start="00:48:57.149" title="Practical advice for practitioners"/>
+  <psc:chapter start="00:53:37.098" title="Get in touch with us and support us on Patreon" href="https://www.patreon.com/datastories"/>
+</psc:chapters><atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=&amp;language=en_US&amp;url=http%3A%2F%2Fdatastori.es%2F134-visualizing-uncertainty-with-jessica-hullman-and-matthew-kay%2F&amp;title=Visualizing+Uncertainty+with+Jessica+Hullman+and+Matthew+Kay&amp;description=Jessica+Hullman+and+Matthew+Kay+join+us+to+discuss+the+how+and+why+of+visualizing+information+uncertainty." type="text/html" />	
+	</item>
+		
+	<item>
+		<title>133  &#124;  Year Review 2018</title>
+		<link>http://datastori.es/133-year-review-2018/</link>
+		<pubDate>Wed, 19 Dec 2018 02:00:26 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2018-12-11t12:44:09+00:00-99674fd210e6488</guid>
+		<description><![CDATA[Here we go! Another year has passed and lots has happened in the data visualization world.]]></description><post-id xmlns="com-wordpress:feed-additions:1">3535</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/133-year-review-2018/#" />
+		
+<enclosure url="http://datastori.es/podlove/file/5522/s/feed/c/podcast/datastories-133.m4a" length="74818999" type="audio/mp4"/>
+
+		<itunes:duration>01:40:15</itunes:duration>
+		<itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Year Review 2018</itunes:title>
+		<itunes:episode>133</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Here we go! Another year has passed and lots has happened in the data visualization world.</itunes:summary>
+		
+		<content:encoded><![CDATA[
+<ul class="episode_download_list">
+	<li>Download:</li>
+		    	    			<li>
+				<a href="http://datastori.es/podlove/file/5524/s/download/c/buttonlist/datastories-133.mp3">MP3 Audio<span class="size">92 MB</span></a>
+			</li>
+	    		    	    			<li>
+				<a href="http://datastori.es/podlove/file/5522/s/download/c/buttonlist/datastories-133.m4a">MPEG-4 AAC Audio<span class="size">71 MB</span></a>
+			</li>
+	    		    	    		    	    	</ul>
+<div style="clear: both"></div>
+<p>[Thinking of gift-giving this holiday season? Consider a gift to Data Stories! You can join our growing community of <a href="https://www.patreon.com/datastories">Patreons</a> or make a one-time donation to us on <a href="https://www.paypal.me/datastories">Paypal</a>.]</p>
+<p>Here we go! Another year has passed and lots has happened in the data visualization world. This time we decided to scramble things up again with a new annual review format: five podcasters (including ourselves!) reflecting back on year 2018. We&#8217;re lucky to be joined by Jon Schwabish from <a href="https://policyviz.com/podcast/the-policyviz-podcast/">PolicyViz</a>, Alli Torban from <a href="https://dataviztoday.com/">DataViz Today</a>, and Cole Nussbaumer Knaflic from <a href="http://www.storytellingwithdata.com/podcast/">Storytelling with Data</a>.</p>
+<p>This was a long chat! But we had a lot to cover: major trends, favorite projects, new tools, and standout people, companies, studios, conferences, books, and blogs. There is a lot to learn there. Don&#8217;t miss our long list of links below! <img src="https://s.w.org/images/core/emoji/11.2.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>As always, thanks for following along with us this year. And special thanks go to our supporters and to Destry and Florian for their amazing work behind the scenes.</p>
+<p>We wish you all Happy Holidays and a Happy New Year!</p>
+<p><img class="alignleft size-thumbnail wp-image-3539" src="http://datastori.es/wp-content/uploads/2018/12/Schwabish-Headshot-10-150x150.jpg" alt="" width="150" height="150" srcset="http://datastori.es/wp-content/uploads/2018/12/Schwabish-Headshot-10-150x150.jpg 150w, http://datastori.es/wp-content/uploads/2018/12/Schwabish-Headshot-10-300x300.jpg 300w, http://datastori.es/wp-content/uploads/2018/12/Schwabish-Headshot-10-768x768.jpg 768w, http://datastori.es/wp-content/uploads/2018/12/Schwabish-Headshot-10-1024x1024.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" /> <img class="alignleft size-thumbnail wp-image-3540" src="http://datastori.es/wp-content/uploads/2018/12/Alli-Torban-AlliTorban-150x150.jpg" alt="" width="150" height="150" srcset="http://datastori.es/wp-content/uploads/2018/12/Alli-Torban-AlliTorban-150x150.jpg 150w, http://datastori.es/wp-content/uploads/2018/12/Alli-Torban-AlliTorban-300x300.jpg 300w, http://datastori.es/wp-content/uploads/2018/12/Alli-Torban-AlliTorban-768x768.jpg 768w, http://datastori.es/wp-content/uploads/2018/12/Alli-Torban-AlliTorban.jpg 1010w" sizes="(max-width: 150px) 100vw, 150px" /> <img class="alignleft size-thumbnail wp-image-3541" src="http://datastori.es/wp-content/uploads/2018/12/Cole-Color-Factory-150x150.jpg" alt="" width="150" height="150" srcset="http://datastori.es/wp-content/uploads/2018/12/Cole-Color-Factory-150x150.jpg 150w, http://datastori.es/wp-content/uploads/2018/12/Cole-Color-Factory-300x300.jpg 300w, http://datastori.es/wp-content/uploads/2018/12/Cole-Color-Factory-768x768.jpg 768w, http://datastori.es/wp-content/uploads/2018/12/Cole-Color-Factory-1024x1024.jpg 1024w, http://datastori.es/wp-content/uploads/2018/12/Cole-Color-Factory.jpg 1072w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+
+<p><b>Links</b></p>
+<p><span style="font-weight: 400;">Major Trends</span></p>
+<ul>
+<li><a href="https://www.makeovermonday.co.uk/gallery/"><span style="font-weight: 400;">Makeover Monday</span></a></li>
+<li><a href="http://www.storytellingwithdata.com/swdchallenge/"><span style="font-weight: 400;">Storytelling With Data Challenge</span></a></li>
+<li><a href="https://policyviz.com/helpmeviz/"><span style="font-weight: 400;">Help Me Viz</span></a></li>
+<li><a href="http://ieeevis.org/year/2018/welcome"><span style="font-weight: 400;">IEEE VIS 2018</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Favorite Projects</span></p>
+<ul>
+<li><a href="https://flowingdata.com/2017/07/25/divorce-and-occupation/"><span style="font-weight: 400;">Flowing Data’s “Divorce and Occupation”</span></a></li>
+<li><a href="https://www.nytimes.com/interactive/2018/11/04/technology/jobs-not-mobs.html"><span style="font-weight: 400;">The New York Times’s “Tracing a Meme From the Internet’s Fringe to a Republican Slogan”</span></a></li>
+<li><a href="https://web.northeastern.edu/naturalizing-immigration-dataviz/"><span style="font-weight: 400;">Simulated Dendrochronology of U.S. Immigration</span></a></li>
+<li><a href="https://geoffboeing.com/2018/07/comparing-city-street-orientations/"><span style="font-weight: 400;">Geoff Boeing’s “Comparing US City Street Orientations”</span></a></li>
+<li><a href="https://www.nytimes.com/interactive/2018/11/06/us/elections/results-house-elections.html"><span style="font-weight: 400;">New York Times’s “U.S. House Election Results 2018”</span></a></li>
+<li><a href="https://pudding.cool/2018/08/pockets/"><span style="font-weight: 400;">Pudding’s “Women’s Pockets are Inferior”</span></a></li>
+<li><a href="https://www.unrealengine.com/en-US/spotlights/floods-and-fires-how-the-weather-channel-uses-unreal-engine-to-keep-you-safe?utm_source=launcher&amp;utm_medium=chromium&amp;utm_term=showcase&amp;utm_content=WeatherChannel&amp;utm_campaign=communitytab"><span style="font-weight: 400;">Augmented reality on The Weather Channel</span></a></li>
+<li><a href="https://medium.com/info-we-trust/picturing-the-great-migration-9e4b5a3eca8a"><span style="font-weight: 400;">RJ Andrews’s “Picturing the Great Migration” </span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Noteworthy Tools</span></p>
+<ul>
+<li><a href="https://vizzlo.com/"><span style="font-weight: 400;">Vizzlo</span></a><span style="font-weight: 400;">, </span><a href="https://venngage.com/"><span style="font-weight: 400;">Venngage</span></a><span style="font-weight: 400;">, </span><a href="https://infogram.com/"><span style="font-weight: 400;">Infogram</span></a></li>
+<li><a href="http://data-illustrator.com/"><span style="font-weight: 400;">Data Illustrator</span></a><span style="font-weight: 400;">, </span><a href="https://flowingdata.com/2017/10/30/project-lincoln-from-adobe-aims-to-reverse-data-visualization-workflow/"><span style="font-weight: 400;">Lincoln</span></a><span style="font-weight: 400;">, </span><a href="https://charticulator.com/"><span style="font-weight: 400;">Charticulator</span></a></li>
+<li><a href="https://altair-viz.github.io/">Altair</a></li>
+</ul>
+<p><span style="font-weight: 400;">Standout People, Companies and Studios </span></p>
+<ul>
+<li><a href="https://tjukanov.org/"><span style="font-weight: 400;">Topi Tjukanov</span></a></li>
+<li><a href="https://towardsdatascience.com/3rd-wave-data-visualization-824c5dc84967"><span style="font-weight: 400;">Elijah Meeks’s “3rd Wave Data Visualization” </span></a></li>
+<li><a href="https://lisacharlotterost.de/"><span style="font-weight: 400;">Lisa Charlotte Rost</span></a></li>
+<li><a href="https://questionsindataviz.com"><span style="font-weight: 400;">Neil Richards</span></a></li>
+<li><a href="https://www.roguepenguin.co.nz/data-viz"><span style="font-weight: 400;">Kat Greenbrook</span></a></li>
+<li><a href="https://pudding.cool/"><span style="font-weight: 400;">The Pudding</span></a></li>
+<li><a href="http://www.valentinadefilippo.co.uk/"><span style="font-weight: 400;">Valentina d’Efilippo</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Conferences </span></p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=RciU_sWYycM"><span style="font-weight: 400;">Aaron Williams at OpenVis</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=jlZsgUZaIyY"><span style="font-weight: 400;">Shan Carter at OpenVis</span></a></li>
+<li><a href="http://www.tapestryconference.com/"><span style="font-weight: 400;">Tapestry videos of talks</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Books</span></p>
+<ul>
+<li><a href="https://www.makeovermonday.co.uk/book/"><span style="font-weight: 400;">Andy Kriebel &amp; Eva Murray, </span><i><span style="font-weight: 400;">MakeoverMonday</span></i></a></li>
+<li><a href="https://www.amazon.com/How-Maps-Third-Mark-Monmonier/dp/022643592X"><span style="font-weight: 400;">Mark Monmonier, </span><i><span style="font-weight: 400;">How to Lie with Maps</span></i></a></li>
+<li><a href="https://www.papress.com/html/product.details.dna?isbn=9781616896331"><span style="font-weight: 400;">Sandra Rendgen, </span><i><span style="font-weight: 400;">The Minard System: The Complete Statistical Graphics of Charles-Joseph Minard</span></i></a></li>
+<li><a href="https://bookbook.pubpub.org/data-feminism"><span style="font-weight: 400;">Catherine D’Ignazio &amp; Lauren Klein, </span><i><span style="font-weight: 400;">Data Feminism</span></i></a></li>
+<li><a href="https://www.amazon.com/Good-Charts-Workbook-Exercises-Visualizations-ebook/dp/B078VFRDPC"><span style="font-weight: 400;">Scott Berinato, Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations</span></a></li>
+<li><a href="http://giorgialupi.com/observe-collect-draw/"><span style="font-weight: 400;">Giorgia Lupi and Stefanie Posavec, Observe, Collect, Draw! A Visual Journal</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Books Coming in 2019</span></p>
+<ul>
+<li><a href="https://www.amazon.com/Info-We-Trust-Inspire-World/dp/1119483891"><span style="font-weight: 400;">RJ Andrews, </span><i><span style="font-weight: 400;">Info We Trust: How to Inspire the World with Data</span></i></a></li>
+<li><a href="https://kieranhealy.org/publications/dataviz/"><span style="font-weight: 400;">Kieran Healy, </span><i><span style="font-weight: 400;">Data Visualization: A Practical Introduction</span></i></a></li>
+</ul>
+<p><span style="font-weight: 400;">Blogs</span></p>
+<ul>
+<li><a href="https://medium.com/multiple-views-visualization-research-explained"><span style="font-weight: 400;">Multiple Views: Visualization Research Explained</span></a></li>
+<li><a href="https://xeno.graphics/"><span style="font-weight: 400;">Maarten Lambrechts: Xenographics</span></a></li>
+<li><a href="http://www.pewresearch.org/topics/data-labs/"><span style="font-weight: 400;">Pew Research, Data Labs</span></a></li>
+<li><a href="https://flourish.studio/blog/"><span style="font-weight: 400;">Flourish tool blog</span></a></li>
+<li><span style="font-weight: 400;"><a href="https://policyviz.com">PolicyViz</a></span></li>
+<li><a style="font-size: 2rem;" href="https://policyviz.com/2018/04/18/the-graphic-continuum-match-it-game/">Jonathan’s card game</a></li>
+</ul>
+<hr class="ttfmake-hr" style="border-style: solid; border-top-width: 1px;" />
+<div style="width: 720px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-3535-1" width="720" height="720" preload="metadata" controls="controls"><source type="video/mp4" src="http://datastori.es/wp-content/uploads/2018/12/Year-Review-promo.mp4?_=1" /><a href="http://datastori.es/wp-content/uploads/2018/12/Year-Review-promo.mp4">http://datastori.es/wp-content/uploads/2018/12/Year-Review-promo.mp4</a></video></div>
+
+
+			<hr/><h3>Related episodes</h3>
+		
+
+	<ul>
+			<li>
+			<a href="http://datastori.es/episode-16-what-was-big-in-2012-and-what-is-coming-in-2013/">What Was Big in 2012 and What Is Coming in 2013</a>
+		</li>
+			<li>
+			<a href="http://datastori.es/data-stories-46-year-2014-review-w-robert-kosara-and-andy-kirk/">Year 2014 Review w/ Robert Kosara and Andy Kirk</a>
+		</li>
+			<li>
+			<a href="http://datastori.es/what-happened-in-vis-in-2015-year-review-with-andy-kirk-and-robert-kosara-ds65/">What Happened in Vis in 2015? Year Review with Andy Kirk and Robert Kosara</a>
+		</li>
+			<li>
+			<a href="http://datastori.es/89-data-vis-around-the-world-in-2016/">Data Vis Around the World in 2016</a>
+		</li>
+			<li>
+			<a href="http://datastori.es/111-data-vis-around-the-world-in-2017/">Data Vis Around The World in 2017</a>
+		</li>
+		</ul>
+
+]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <psc:chapter start="00:00:22.364" title="Welcome to Data Stories!"/>
+  <psc:chapter start="00:00:56.533" title="Please consider supporting the show" href="https://patreon.com/datastories"/>
+  <psc:chapter start="00:01:20.965" title="Welcome back to our annual year in review episode!"/>
+  <psc:chapter start="00:02:21.156" title="Alli Torban" href="https://dataviztoday.com/"/>
+  <psc:chapter start="00:03:11.056" title="Cole Nussbaumer Knaflic" href="http://www.storytellingwithdata.com/podcast/"/>
+  <psc:chapter start="00:03:41.866" title="Jonathan Schwabish" href="https://policyviz.com/podcast/the-policyviz-podcast/"/>
+  <psc:chapter start="00:04:15.900" title="Major trends in data viz in 2018"/>
+  <psc:chapter start="00:06:13.394" title="Work being shared more frequently, and the culture of data viz criticism"/>
+  <psc:chapter start="00:11:20.469" title="Greater communication between academics and data viz practitioners"/>
+  <psc:chapter start="00:14:40.183" title="Deeper self-awareness about the limitations of data -- maybe even too self-aware?"/>
+  <psc:chapter start="00:17:41.727" title="More podcasts! And generally more opportunities to learn how to get started in data viz"/>
+  <psc:chapter start="00:18:50.245" title="A few great new visualizations"/>
+  <psc:chapter start="00:28:35.464" title="New data viz tools from 2018"/>
+  <psc:chapter start="00:36:44.941" title="Increase in automation in viz"/>
+  <psc:chapter start="00:38:09.987" title="Greater presence of experts from cognitive science in the data viz world"/>
+  <psc:chapter start="00:39:33.966" title="The intersection of AI and visualization"/>
+  <psc:chapter start="00:44:16.538" title="Notable people, companies and studios"/>
+  <psc:chapter start="00:56:16.394" title="Conferences"/>
+  <psc:chapter start="01:02:18.192" title="Books published in 2018"/>
+  <psc:chapter start="01:09:27.826" title="Blogs"/>
+  <psc:chapter start="01:21:18.848" title="What we missed in 2018"/>
+  <psc:chapter start="01:23:26.360" title="Hopes for the new year"/>
+  <psc:chapter start="01:36:06.782" title="Last thoughts about the year"/>
+  <psc:chapter start="01:38:36.539" title="Get in touch with us and support us on Patreon" href="https://www.patreon.com/datastories"/>
+</psc:chapters><atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=&amp;language=en_US&amp;url=http%3A%2F%2Fdatastori.es%2F133-year-review-2018%2F&amp;title=Year+Review+2018&amp;description=Here+we+go%21+Another+year+has+passed+and+lots+has+happened+in+the+data+visualization+world." type="text/html" />	
+	</item>
+	</channel>
+</rss>
