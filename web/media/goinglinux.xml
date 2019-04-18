@@ -34,13 +34,13 @@
     <itunes:keywords>technology,education,how,to,linux</itunes:keywords>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="http://goinglinux.com/mp3podcast.xml" type="application/rss+xml" />
 <item>
-	<title>Going Linux #366 · Revisiting Kubuntu </title>
-	<link>http://goinglinux.com/shownotes.html#glp366</link>
-	<author>goinglinux@gmail.com (Larry Bushey)</author>
-	<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
-	<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #366 · Revisiting Kubuntu </itunes:subtitle>
-	<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		00:00 Going Linux #366 · Revisiting Kubuntu 
+  <title>Going Linux #366 · Revisiting Kubuntu </title>
+  <link>http://goinglinux.com/shownotes.html#glp366</link>
+  <author>goinglinux@gmail.com (Larry Bushey)</author>
+  <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
+  <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #366 · Revisiting Kubuntu </itunes:subtitle>
+  <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    00:00 Going Linux #366 · Revisiting Kubuntu 
         00:15 Introduction 
         00:53 What happened to MX Linux? 
         05:08 MeWe adoption results 
@@ -62,22 +62,22 @@
         47:36 Install and start using vs. install and tweak to your way of working 
         50:17 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe 
         51:18 End </itunes:summary>
-	<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
+  <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
     <enclosure length="37081088" url="http://www.archive.org/download/glp366/glp366.mp3" type="audio/mpeg" />
-	<guid>http://www.archive.org/download/glp366/glp366.mp3</guid>
-	<pubDate>Sun, 14 Apr 2019 00:00:01 -0800</pubDate>
-	<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		51:18
-	</itunes:duration>
-	<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		technology,how,to,linux,education,training
-	</itunes:keywords>
-	<description>
-		<![CDATA[<p><b>We revisit Kubuntu, provide Bill's observations, go off the rails a bit, and somehow end up back at Ubuntu MATE.
+  <guid>http://www.archive.org/download/glp366/glp366.mp3</guid>
+  <pubDate>Sun, 14 Apr 2019 00:00:01 -0800</pubDate>
+  <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    51:18
+  </itunes:duration>
+  <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    technology,how,to,linux,education,training
+  </itunes:keywords>
+  <description>
+    <![CDATA[<p><b>We revisit Kubuntu, provide Bill's observations, go off the rails a bit, and somehow end up back at Ubuntu MATE.
  </b>
 <br>
 
-		<p><u>Episode 366 Time Stamps</u><br>
+    <p><u>Episode 366 Time Stamps</u><br>
         00:00 Going Linux #366 · Revisiting Kubuntu <br>
         00:15 Introduction <br>
         00:53 What happened to MX Linux? <br>
@@ -100,8 +100,8 @@
         47:36 Install and start using vs. install and tweak to your way of working <br>
         50:17 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe <br>
         51:18 End </p>]]></description>
-	<!-- Simple Chapter Information -->
-	    <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <!-- Simple Chapter Information -->
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
         <psc:chapter start="00:00" title="Going Linux #366 · Revisiting Kubuntu" />
         <psc:chapter start="00:15" title="Introduction" />
         <psc:chapter start="00:53" title="What happened to MX Linux? " />
@@ -126,13 +126,13 @@
     </psc:chapters>
 </item>
 <item>
-	<title>Going Linux #365 · Listener Feedback </title>
-	<link>http://goinglinux.com/shownotes.html#glp365</link>
-	<author>goinglinux@gmail.com (Larry Bushey)</author>
-	<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
-	<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #365 · Listener Feedback </itunes:subtitle>
-	<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		00:00 Going Linux #365 · Listener Feedback 
+  <title>Going Linux #365 · Listener Feedback </title>
+  <link>http://goinglinux.com/shownotes.html#glp365</link>
+  <author>goinglinux@gmail.com (Larry Bushey)</author>
+  <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
+  <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #365 · Listener Feedback </itunes:subtitle>
+  <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    00:00 Going Linux #365 · Listener Feedback 
         00:15 Introduction 
         00:59 Bill tries even more distros 
         09:01 Our official new community and chat room is MeWe 
@@ -149,22 +149,22 @@
         54:53 Podnutz 
         57:21 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe 
         58:43 End </itunes:summary>
-	<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
+  <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
     <enclosure length="42420224" url="http://www.archive.org/download/glp365/glp365.mp3" type="audio/mpeg" />
-	<guid>http://www.archive.org/download/glp365/glp365.mp3</guid>
-	<pubDate>Wed, 20 Mar 2019 00:00:01 -0800</pubDate>
-	<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		58:43
-	</itunes:duration>
-	<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		technology,how,to,linux,education,training
-	</itunes:keywords>
-	<description>
-		<![CDATA[<p><b>We hear from George about Windows and printers. Roger and Gord also comment on printers. Many questions as always, and a report of problems installing the Software Center. 
+  <guid>http://www.archive.org/download/glp365/glp365.mp3</guid>
+  <pubDate>Wed, 20 Mar 2019 00:00:01 -0800</pubDate>
+  <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    58:43
+  </itunes:duration>
+  <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    technology,how,to,linux,education,training
+  </itunes:keywords>
+  <description>
+    <![CDATA[<p><b>We hear from George about Windows and printers. Roger and Gord also comment on printers. Many questions as always, and a report of problems installing the Software Center. 
  </b>
 <br>
 
-		<p><u>Episode 365 Time Stamps</u><br>
+    <p><u>Episode 365 Time Stamps</u><br>
         00:00 Going Linux #365 · Listener Feedback <br>
         00:15 Introduction <br>
         00:59 Bill tries even more distros <br>
@@ -182,8 +182,8 @@
         54:53 Podnutz <br>
         57:21 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe <br>
         58:43 End </p>]]></description>
-	<!-- Simple Chapter Information -->
-	    <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <!-- Simple Chapter Information -->
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
         <psc:chapter start="00:00" title="Going Linux #365 · Listener Feedback" />
         <psc:chapter start="00:15" title="Introduction" />
         <psc:chapter start="00:59" title="Bill tries even more distros" />
@@ -203,13 +203,13 @@
     </psc:chapters>
 </item>
 <item>
-	<title>Going Linux #364 · Back to Basics - Definition of Terms </title>
-	<link>http://goinglinux.com/shownotes.html#glp364</link>
-	<author>goinglinux@gmail.com (Larry Bushey)</author>
-	<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
-	<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #364 · Back to Basics - Definition of Terms </itunes:subtitle>
-	<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		00:00 Going Linux #364 · Back to Basics - Definition of Terms 
+  <title>Going Linux #364 · Back to Basics - Definition of Terms </title>
+  <link>http://goinglinux.com/shownotes.html#glp364</link>
+  <author>goinglinux@gmail.com (Larry Bushey)</author>
+  <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
+  <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #364 · Back to Basics - Definition of Terms </itunes:subtitle>
+  <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    00:00 Going Linux #364 · Back to Basics - Definition of Terms 
         00:15 Introduction 
         01:01 Experimenting with MeWe 
         07:52 The Linux 'Back to Basics' series 
@@ -225,22 +225,22 @@
         34:50 Future Back to Basics episodes 
         36:20 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe 
         37:18 End </itunes:summary>
-	<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
+  <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
     <enclosure length="27000832" url="http://www.archive.org/download/glp364/glp364.mp3" type="audio/mpeg" />
-	<guid>http://www.archive.org/download/glp364/glp364.mp3</guid>
-	<pubDate>Tue, 05 Mar 2019 00:00:01 -0800</pubDate>
-	<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		37:18
-	</itunes:duration>
-	<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		technology,how,to,linux,education,training
-	</itunes:keywords>
-	<description>
-		<![CDATA[<p><b>Today we define some basic terms used in the Linux and Open Source community. This is the first in a series of 'back to basics' episodes in which we will update the information we've been providing over the past 12 years. We also want to ensure that we continue to provide a reference for Linux users to use as a reference when using Linux for their day-to-day computing needs. 
+  <guid>http://www.archive.org/download/glp364/glp364.mp3</guid>
+  <pubDate>Tue, 05 Mar 2019 00:00:01 -0800</pubDate>
+  <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    37:18
+  </itunes:duration>
+  <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    technology,how,to,linux,education,training
+  </itunes:keywords>
+  <description>
+    <![CDATA[<p><b>Today we define some basic terms used in the Linux and Open Source community. This is the first in a series of 'back to basics' episodes in which we will update the information we've been providing over the past 12 years. We also want to ensure that we continue to provide a reference for Linux users to use as a reference when using Linux for their day-to-day computing needs. 
  </b>
 <br>
 
-		<p><u>Episode 364 Time Stamps</u><br>
+    <p><u>Episode 364 Time Stamps</u><br>
         00:00 Going Linux #364 · Back to Basics - Definition of Terms <br>
         00:15 Introduction <br>
         01:01 Experimenting with MeWe <br>
@@ -257,8 +257,8 @@
         34:50 Future Back to Basics episodes <br>
         36:20 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe <br>
         37:18 End </p>]]></description>
-	<!-- Simple Chapter Information -->
-	    <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <!-- Simple Chapter Information -->
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
         <psc:chapter start="00:00" title="Going Linux #364 · Back to Basics - Definition of Terms" />
         <psc:chapter start="00:15" title="Introduction" />
         <psc:chapter start="01:01" title="Experimenting with MeWe" />
@@ -277,13 +277,13 @@
     </psc:chapters>
 </item>
 <item>
-	<title>Going Linux #363 · Listener Feedback </title>
-	<link>http://goinglinux.com/shownotes.html#glp363</link>
-	<author>goinglinux@gmail.com (Larry Bushey)</author>
-	<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
-	<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #363 · Listener Feedback </itunes:subtitle>
-	<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		00:00 Going Linux #363 · Listener Feedback 
+  <title>Going Linux #363 · Listener Feedback </title>
+  <link>http://goinglinux.com/shownotes.html#glp363</link>
+  <author>goinglinux@gmail.com (Larry Bushey)</author>
+  <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
+  <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #363 · Listener Feedback </itunes:subtitle>
+  <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    00:00 Going Linux #363 · Listener Feedback 
         00:15 Introduction 
         01:33 Michael: Provided us with a recording 
         05:33 Michael: The Slint distribution 
@@ -301,21 +301,21 @@
         42:21 Tony from the mintCast: Requesting 'Value Added Extras' 
         48:18 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe 
         52:29 End </itunes:summary>
-	<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
+  <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
     <enclosure length="37933056" url="http://www.archive.org/download/glp363/glp363.mp3" type="audio/mpeg" />
-	<guid>http://www.archive.org/download/glp363/glp363.mp3</guid>
-	<pubDate>Wed, 20 Feb 2019 00:00:01 -0800</pubDate>
-	<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		52:29
-	</itunes:duration>
-	<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		technology,how,to,linux,education,training
-	</itunes:keywords>
-	<description>
-		<![CDATA[<p><b>We reveal the new application for our Community. Our listeners commend on Mint, Slint, and print. We receive greetings, gratitude, and Google. Even more. </b><br>
+  <guid>http://www.archive.org/download/glp363/glp363.mp3</guid>
+  <pubDate>Wed, 20 Feb 2019 00:00:01 -0800</pubDate>
+  <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    52:29
+  </itunes:duration>
+  <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    technology,how,to,linux,education,training
+  </itunes:keywords>
+  <description>
+    <![CDATA[<p><b>We reveal the new application for our Community. Our listeners commend on Mint, Slint, and print. We receive greetings, gratitude, and Google. Even more. </b><br>
 <br>
 
-		<p><u>Episode 363 Time Stamps</u><br>
+    <p><u>Episode 363 Time Stamps</u><br>
         00:00 Going Linux #363 · Listener Feedback <br>
         00:15 Introduction <br>
         01:33 Michael: Provided us with a recording <br>
@@ -334,8 +334,8 @@
         42:21 Tony from the mintCast: Requesting 'Value Added Extras' <br>
         48:18 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe <br>
         52:29 End </p>]]></description>
-	<!-- Simple Chapter Information -->
-	    <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <!-- Simple Chapter Information -->
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
         <psc:chapter start="00:00" title="Going Linux #363 · Listener Feedback" />
         <psc:chapter start="00:15" title="Introduction" />
         <psc:chapter start="01:33" title="Michael: Provided us with a recording" />
@@ -356,13 +356,13 @@
     </psc:chapters>
 </item>
 <item>
-	<title>Going Linux #362 · Run your business on Linux - Part 3 </title>
-	<link>http://goinglinux.com/shownotes.html#glp362</link>
-	<author>goinglinux@gmail.com (Larry Bushey)</author>
-	<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
-	<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #362 · Run your business on Linux - Part 3 </itunes:subtitle>
-	<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		00:00 Going Linux #362 · Run your business on Linux - Part 3 
+  <title>Going Linux #362 · Run your business on Linux - Part 3 </title>
+  <link>http://goinglinux.com/shownotes.html#glp362</link>
+  <author>goinglinux@gmail.com (Larry Bushey)</author>
+  <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
+  <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #362 · Run your business on Linux - Part 3 </itunes:subtitle>
+  <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    00:00 Going Linux #362 · Run your business on Linux - Part 3 
         00:15 Introduction 
         02:33 GNUCash 
         03:23 Apache OFBiz 
@@ -376,21 +376,21 @@
         16:17 KMyMoney 
         22:12 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe 
         23:11 End </itunes:summary>
-	<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
+  <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
     <enclosure length="16836608" url="http://www.archive.org/download/glp362/glp362.mp3" type="audio/mpeg" />
-	<guid>http://www.archive.org/download/glp362/glp362.mp3</guid>
-	<pubDate>Tue, 05 Feb 2019 00:00:01 -0800</pubDate>
-	<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		23:11
-	</itunes:duration>
-	<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		technology,how,to,linux,education,training
-	</itunes:keywords>
-	<description>
-		<![CDATA[<p><b>In this episode, we thought we'd provide some more ideas around software for every business. Accounting software. If you are running a small business and you are doing the bookkeeping yourself, you will likely quickly run into the need for ensuring that you keep track of your incoming revenue, your outgoing expenses, payroll, and other things related to money. Having to license or purchase accounting software, especially for starting businesses, is expensive. This episode will provide with a few things you can try out at no risk and at no charge to keep track of your business (and personal) finances. </b><br>
+  <guid>http://www.archive.org/download/glp362/glp362.mp3</guid>
+  <pubDate>Tue, 05 Feb 2019 00:00:01 -0800</pubDate>
+  <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    23:11
+  </itunes:duration>
+  <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    technology,how,to,linux,education,training
+  </itunes:keywords>
+  <description>
+    <![CDATA[<p><b>In this episode, we thought we'd provide some more ideas around software for every business. Accounting software. If you are running a small business and you are doing the bookkeeping yourself, you will likely quickly run into the need for ensuring that you keep track of your incoming revenue, your outgoing expenses, payroll, and other things related to money. Having to license or purchase accounting software, especially for starting businesses, is expensive. This episode will provide with a few things you can try out at no risk and at no charge to keep track of your business (and personal) finances. </b><br>
 <br>
 
-		<p><u>Episode 362 Time Stamps</u><br>
+    <p><u>Episode 362 Time Stamps</u><br>
         00:Going Linux #362 · Run your business on Linux - Part 3 <br>
         00:15 Introduction <br>
         02:33 GNUCash <br>
@@ -405,8 +405,8 @@
         16:17 KMyMoney <br>
         22:12 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe <br>
         23:11 End </p>]]></description>
-	<!-- Simple Chapter Information -->
-	    <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <!-- Simple Chapter Information -->
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
         <psc:chapter start="00:00" title="Going Linux #362 · Run your business on Linux - Part 3" />
         <psc:chapter start="00:15" title="Introduction" />
         <psc:chapter start="02:33" title="GNUCash" />
@@ -423,13 +423,13 @@
     </psc:chapters>
 </item>
 <item>
-	<title>Going Linux #361 · Listener Feedback </title>
-	<link>http://goinglinux.com/shownotes.html#glp361</link>
-	<author>goinglinux@gmail.com (Larry Bushey)</author>
-	<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
-	<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #361 · Listener Feedback </itunes:subtitle>
-	<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		00:00 Going Linux #361 · Listener Feedback 
+  <title>Going Linux #361 · Listener Feedback </title>
+  <link>http://goinglinux.com/shownotes.html#glp361</link>
+  <author>goinglinux@gmail.com (Larry Bushey)</author>
+  <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
+  <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #361 · Listener Feedback </itunes:subtitle>
+  <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    00:00 Going Linux #361 · Listener Feedback 
         00:15 Introduction 
         01:33 Making Linux install media from Windows without getting infected with malware 
         07:29 Primitive One: Gaming recommendations 
@@ -447,21 +447,21 @@
         46:52 George: Winders!!! 
         55:09 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe 
         57:32 End </itunes:summary>
-	<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
+  <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
     <enclosure length="41568256" url="http://www.archive.org/download/glp361/glp361.mp3" type="audio/mpeg" />
-	<guid>http://www.archive.org/download/glp361/glp361.mp3</guid>
-	<pubDate>Sun, 20 Jan 2019 00:00:03 -0800</pubDate>
-	<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		57:32
-	</itunes:duration>
-	<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		technology,how,to,linux,education,training
-	</itunes:keywords>
-	<description>
-		<![CDATA[<p><b>More on accessibility in Linux, solutions for other listeners, and why I moved from Windows to Linux. </b><br>
+  <guid>http://www.archive.org/download/glp361/glp361.mp3</guid>
+  <pubDate>Sun, 20 Jan 2019 00:00:03 -0800</pubDate>
+  <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    57:32
+  </itunes:duration>
+  <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    technology,how,to,linux,education,training
+  </itunes:keywords>
+  <description>
+    <![CDATA[<p><b>More on accessibility in Linux, solutions for other listeners, and why I moved from Windows to Linux. </b><br>
 <br>
 
-		<p><u>Episode 361 Time Stamps</u><br>
+    <p><u>Episode 361 Time Stamps</u><br>
         00:00 Going Linux #361 · Listener Feedback <br>
         00:15 Introduction <br>
         01:33 Making Linux install media from Windows without getting infected with malware <br>
@@ -480,8 +480,8 @@
         46:52 George: Winders!!! <br>
         55:09 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe <br>
         57:32 End </p>]]></description>
-	<!-- Simple Chapter Information -->
-	<psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <!-- Simple Chapter Information -->
+  <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
         <psc:chapter start="00:00" title="Going Linux #361 · Listener Feedback" />
         <psc:chapter start="00:15" title="Introduction" />
         <psc:chapter start="01:33" title="Making Linux install media from Windows without getting infected with malware " />
@@ -502,13 +502,13 @@
     </psc:chapters>
 </item>
 <item>
-	<title>Going Linux #360 · Run your business on Linux - Part 2 </title>
-	<link>http://goinglinux.com/shownotes.html#glp360</link>
-	<author>goinglinux@gmail.com (Larry Bushey)</author>
-	<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
-	<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #360 · Run your business on Linux - Part 2 </itunes:subtitle>
-	<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		00:00 Going Linux #360 · Run your business on Linux - Part 2 
+  <title>Going Linux #360 · Run your business on Linux - Part 2 </title>
+  <link>http://goinglinux.com/shownotes.html#glp360</link>
+  <author>goinglinux@gmail.com (Larry Bushey)</author>
+  <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
+  <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #360 · Run your business on Linux - Part 2 </itunes:subtitle>
+  <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    00:00 Going Linux #360 · Run your business on Linux - Part 2 
         00:15 Introduction 
         01:26 Thank you! 
         04:30 Software for simple writing 
@@ -518,21 +518,21 @@
         22:12 Collaboration software for writers using Linux 
         29:57 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe 
         31.03 End </itunes:summary>
-	<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
+  <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
     <enclosure length="22501376" url="http://www.archive.org/download/glp360/glp360.mp3" type="audio/mpeg" />
-	<guid>http://www.archive.org/download/glp360/glp360.mp3</guid>
-	<pubDate>Sat, 05 Jan 2019 00:00:01 -0800</pubDate>
-	<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		31:03
-	</itunes:duration>
-	<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		technology,how,to,linux,education,training
-	</itunes:keywords>
-	<description>
-		<![CDATA[<p><b>In this episode, we mention some software that you might want to look at if you write for a living. These might be such jobs as a copywriter, an author of novels, or a creator of technical articles for publication in an online magazine. </b><br>
+  <guid>http://www.archive.org/download/glp360/glp360.mp3</guid>
+  <pubDate>Sat, 05 Jan 2019 00:00:01 -0800</pubDate>
+  <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    31:03
+  </itunes:duration>
+  <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    technology,how,to,linux,education,training
+  </itunes:keywords>
+  <description>
+    <![CDATA[<p><b>In this episode, we mention some software that you might want to look at if you write for a living. These might be such jobs as a copywriter, an author of novels, or a creator of technical articles for publication in an online magazine. </b><br>
 <br>
 
-		<p><u>Episode 360 Time Stamps</u><br>
+    <p><u>Episode 360 Time Stamps</u><br>
         00:00 Going Linux #360 · Run your business on Linux - Part 2 <br>
         00:15 Introduction <br>
         01:26 Thank you! <br>
@@ -543,8 +543,8 @@
         22:12 Collaboration software for writers using Linux <br>
         29:57 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe <br>
         31.03 End </p>]]></description>
-	<!-- Simple Chapter Information -->
-	<psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <!-- Simple Chapter Information -->
+  <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
         <psc:chapter start="00:00" title="Going Linux #360 · Run your business on Linux - Part 2" />
         <psc:chapter start="00:15" title="Introduction" />
         <psc:chapter start="01:26" title="Thank you!" />
@@ -557,13 +557,13 @@
     </psc:chapters>
 </item>
 <item>
-	<title>Going Linux #359 · Listener Feedback </title>
-	<link>http://goinglinux.com/shownotes.html#glp359</link>
-	<author>goinglinux@gmail.com (Larry Bushey)</author>
-	<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
-	<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #359 · Listener Feedback </itunes:subtitle>
-	<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		00:00 Going Linux #359 · Listener Feedback 
+  <title>Going Linux #359 · Listener Feedback </title>
+  <link>http://goinglinux.com/shownotes.html#glp359</link>
+  <author>goinglinux@gmail.com (Larry Bushey)</author>
+  <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
+  <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #359 · Listener Feedback </itunes:subtitle>
+  <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    00:00 Going Linux #359 · Listener Feedback 
         00:15 Introduction 
         01:10 Myer: Gone Linux Voice Mail 
         05:37 Joey: Awesome podcast 
@@ -579,21 +579,21 @@
         37:22 Andy: Gone Linux with Linux Mint 19
         39:54 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe 
         40:51 End </itunes:summary>
-	<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
+  <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
     <enclosure length="29556736" url="http://www.archive.org/download/glp359/glp359.mp3" type="audio/mpeg" />
-	<guid>http://www.archive.org/download/glp359/glp359.mp3</guid>
-	<pubDate>Thu, 20 Dec 2018 00:00:01 -0800</pubDate>
-	<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		40:51
-	</itunes:duration>
-	<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		technology,how,to,linux,education,training
-	</itunes:keywords>
-	<description>
-		<![CDATA[<p><b>We provide recommendations on Linux computers pre-installed with Linux. We also have two "Gone Linux" stories, recommendations on learning the terminal and learning python, some comments on Snap packages, suggestions on listening in Rythmbox, and information on where to purchase Linux distribution media. And more, of course. </b><br>
+  <guid>http://www.archive.org/download/glp359/glp359.mp3</guid>
+  <pubDate>Thu, 20 Dec 2018 00:00:01 -0800</pubDate>
+  <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    40:51
+  </itunes:duration>
+  <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    technology,how,to,linux,education,training
+  </itunes:keywords>
+  <description>
+    <![CDATA[<p><b>We provide recommendations on Linux computers pre-installed with Linux. We also have two "Gone Linux" stories, recommendations on learning the terminal and learning python, some comments on Snap packages, suggestions on listening in Rythmbox, and information on where to purchase Linux distribution media. And more, of course. </b><br>
 <br>
 
-		<p><u>Episode 359 Time Stamps</u><br>
+    <p><u>Episode 359 Time Stamps</u><br>
         00:00 Going Linux #359 · Listener Feedback <br>
         00:15 Introduction <br>
         01:10 Myer: Gone Linux Voice Mail <br>
@@ -610,9 +610,9 @@
         37:22 Andy: Gone Linux with Linux Mint 19<br>
         39:54 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe <br>
         40:51 End </p>]]></description>
-	<!-- Simple Chapter Information -->
-	<psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
-        <psc:chapter start="00:00" title="Going Linux #359 · Listener Feedback" />
+  <!-- Simple Chapter Information -->
+  <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+        <psc:chapter start="" title="Going Linux #359 · Listener Feedback" />
         <psc:chapter start="00:15" title="Introduction" />
         <psc:chapter start="01:10" title="Myer: Gone Linux Voice Mail" />
         <psc:chapter start="05:37" title="Joey: Awesome podcast" />
@@ -627,17 +627,17 @@
         <psc:chapter start="35:36" title="Stefan: Used applications" />
         <psc:chapter start="37:22" title="Andy: Gone Linux with Linux Mint 19" />
         <psc:chapter start="39:54" title="goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe " />
-        <psc:chapter start="40:00" title="Wrap-up" />
+        <psc:chapter start="" title="Wrap-up" />
     </psc:chapters>
 </item>
 <item>
-	<title>Going Linux #358 · Listener Feedback </title>
-	<link>http://goinglinux.com/shownotes.html#glp358</link>
-	<author>goinglinux@gmail.com (Larry Bushey)</author>
-	<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
-	<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #358 · Listener Feedback </itunes:subtitle>
-	<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		00:00 Going Linux #358 · Listener Feedback 
+  <title>Going Linux #358 · Listener Feedback </title>
+  <link>http://goinglinux.com/shownotes.html#glp358</link>
+  <author>goinglinux@gmail.com (Larry Bushey)</author>
+  <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Larry Bushey</itunes:author>
+  <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Going Linux #358 · Listener Feedback </itunes:subtitle>
+  <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    00:00 Going Linux #358 · Listener Feedback 
         00:15 Introduction 
         01:46 Paul: Boot Partition Saga Audio Feedback 
         09:00 Greg: A minion response for Paul 
@@ -649,21 +649,21 @@
         39:26 Troy: Windows for business 
         52:10 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe 
         53:10 End </itunes:summary>
-	<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
+  <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://goinglinux.com/images/GoingLinux1400.jpg" />
     <enclosure length="38424576" url="http://www.archive.org/download/glp358/glp358.mp3" type="audio/mpeg" />
-	<guid>http://www.archive.org/download/glp358/glp358.mp3</guid>
-	<pubDate>Wed, 05 Dec 2018 00:00:01 -0800</pubDate>
-	<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		53:10
-	</itunes:duration>
-	<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-		technology,how,to,linux,education,training
-	</itunes:keywords>
-	<description>
-		<![CDATA[<p><b>This month we have voice feedback from Paul, suggestions on alternatives for G+, a question on OpenVPN, feedback and problems moving to Linux. Troy provides a Going Linux story on software for Linux users. </b><br>
+  <guid>http://www.archive.org/download/glp358/glp358.mp3</guid>
+  <pubDate>Wed, 05 Dec 2018 00:00:01 -0800</pubDate>
+  <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    53:10
+  </itunes:duration>
+  <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    technology,how,to,linux,education,training
+  </itunes:keywords>
+  <description>
+    <![CDATA[<p><b>This month we have voice feedback from Paul, suggestions on alternatives for G+, a question on OpenVPN, feedback and problems moving to Linux. Troy provides a Going Linux story on software for Linux users. </b><br>
 <br>
 
-		<p><u>Episode 358 Time Stamps</u><br>
+    <p><u>Episode 358 Time Stamps</u><br>
         00:00 Going Linux #358 · Listener Feedback <br>
         00:15 Introduction <br>
         01:46 Paul: Boot Partition Saga Audio Feedback <br>
@@ -676,8 +676,8 @@
         39:26 Troy: Windows for business <br>
         52:10 goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe <br>
         53:10 End </p>]]></description>
-	<!-- Simple Chapter Information -->
-	<psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <!-- Simple Chapter Information -->
+  <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
         <psc:chapter start="00:00" title="Going Linux #358 · Listener Feedback" />
         <psc:chapter start="00:15" title="Introduction" />
         <psc:chapter start="01:46" title="Paul: Boot Partition Saga Audio Feedback" />
@@ -689,7 +689,7 @@
         <psc:chapter start="38:29" title="Troy: Suggestion for forums" />
         <psc:chapter start="39:26" title="Troy: Windows for business" />
         <psc:chapter start="52:10" title="goinglinux.com, goinglinux@gmail.com, +1-904-468-7889, @goinglinux, feedback, listen, subscribe " />
-        <psc:chapter start="60:00" title="Wrap-up" />
+        <psc:chapter start="" title="Wrap-up" />
     </psc:chapters>
 </item>
   </channel>
