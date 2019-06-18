@@ -1,5 +1,9 @@
 <?php
 
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 ##############################################################################
 # Requires
 ##############################################################################
@@ -43,5 +47,15 @@ $explicit_string = $explicit ? 'yes' : 'no';
 $latest_time = floor($latest_time/$interval) * $interval;
 date_default_timezone_set('UTC');
 
-include 'feed.php'
+$private = get_boolean('private', false);
+if ($private) {
+  $authorized = ($_SERVER['PHP_AUTH_USER']=='jane' && $_SERVER['PHP_AUTH_PW']=='qwerty');
+  if (!$authorized) {
+    header("HTTP/1.1 401 Unauthorized");
+    exit;
+  }
+}
+
+include 'feed.php';
+
 ?>
