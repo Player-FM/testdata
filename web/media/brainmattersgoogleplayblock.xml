@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <channel>
+    <atom:link href="http://brainpodcast.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+    <title>Brain Matters</title>
+    <pubDate>Mon, 22 Sep 2014 14:14:28 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Sep 2014 21:58:50 +0000</lastBuildDate>
+    <generator>Libsyn WebEngine 2.0</generator>
+    <link>http://brainpodcast.com</link>
+    <language>en</language>
+    <copyright><![CDATA[]]></copyright>
+    <docs>http://brainpodcast.com</docs>
+    <managingEditor>brainmatters@brainpodcast.com (brainmatters@brainpodcast.com)</managingEditor>
+    <description><![CDATA[Brain Matters the Podcast is an exciting way for anyone to learn about the fascinating world of neuroscience directly from the researchers who have dedicated their lives to uncovering the mysteries of the brain. Our mission is to make neuroscience accessible, relatable, and intriguing while still respecting the integrity of the science we love.]]></description>
+    <image>
+      <url>http://static.libsyn.com/p/assets/d/9/4/8/d9481d9e5bbb7685/podcast_art.png</url>
+      <title>Brain Matters</title>
+      <link><![CDATA[http://brainpodcast.com]]></link>
+    </image>
+    <itunes:author>Brain Matters</itunes:author>
+    <itunes:keywords>biology,brain,education,memory,neuroscience,science</itunes:keywords>
+  <itunes:category text="Science &amp; Medicine">
+    <itunes:category text="Natural Sciences"/>
+  </itunes:category>
+    <itunes:image href="http://static.libsyn.com/p/assets/d/9/4/8/d9481d9e5bbb7685/podcast_art.png" />
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:owner>
+      <itunes:name><![CDATA[Lauren Kreeger]]></itunes:name>
+      <itunes:email>brainmatters@brainpodcast.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary><![CDATA[Brain Matters the Podcast is an exciting way for anyone to learn about the fascinating world of neuroscience directly from the researchers who have dedicated their lives to uncovering the mysteries of the brain. Our mission is to make neuroscience accessible, relatable, and intriguing while still respecting the integrity of the science we love.]]></itunes:summary>
+    <googleplay:block>Yes</googleplay:block>
+    <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+        <item>
+      <title>What Can You Remember? with Dr. Anthony Wagner</title>
+      <pubDate>Mon, 22 Sep 2014 14:14:28 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[1ee40394d9293b77a202f77671c12393]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/what-can-you-remember-with-dr-anthony-wagner]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/d/9/4/8/d9481d9e5bbb7685/podcast_art.png" />
+      <description><![CDATA[<p><!-- [if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Revision>0</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Pages>1</o:Pages>
+  <o:Words>31</o:Words>
+  <o:Characters>178</o:Characters>
+  <o:Company>University of Texas at Austin</o:Company>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>208</o:CharactersWithSpaces>
+  <o:Version>14.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--> <!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--> <!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:"Table Normal";
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:"";
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin:0in;
+  mso-para-margin-bottom:.0001pt;
+  mso-pagination:widow-orphan;
+  font-size:12.0pt;
+  font-family:Cambria;
+  mso-ascii-font-family:Cambria;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Cambria;
+  mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--> <!--StartFragment--> <!--EndFragment--></p>
+<p class="MsoNormal">Anthony sat down with Dr. Anthony Wagner (Professor, Stanford University) and talked about memory. Wagner is a cognitive neuroscientist studying memory in humans using techniques like functional MRI imaging.</p>]]></description>
+      <enclosure length="31488174" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/What_Can_You_Remember_with_Dr_Anthony_Wagner.mp3" />
+      <itunes:duration>40:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,biology,neuroscience,learning,memory</itunes:keywords>
+      <itunes:subtitle><![CDATA[Anthony sat down with Dr. Anthony Wagner (Professor, Stanford University) and talked about memory. Wagner is a cognitive neuroscientist studying memory in humans using techniques like functional MRI imaging.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Brain Algorithms with Dr. Andreas Tolias</title>
+      <pubDate>Wed, 03 Sep 2014 20:55:18 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[ee6a8b0ec64f8d05723b84e5c8a01287]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/brain-algorithms-with-dr-andreas-tolias]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/d/9/4/8/d9481d9e5bbb7685/podcast_art.png" />
+      <description><![CDATA[<p>Matt and Dr. Andreas Tolias (Assistant Professor of Neuroscience, Baylor College of Medicine) talk about&nbsp;how the brain processes&nbsp;information.</p>]]></description>
+      <enclosure length="18769471" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Andreas_Tolias.mp3" />
+      <itunes:duration>23:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,biology,neuroscience</itunes:keywords>
+      <itunes:subtitle><![CDATA[Matt and Dr. Andreas Tolias (Assistant Professor of Neuroscience, Baylor College of Medicine) talk about&nbsp;how the brain processes&nbsp;information.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Decisions in the Brain with Dr. Nao Uchida</title>
+      <pubDate>Wed, 20 Aug 2014 15:54:06 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[dbecbcde68ebe4a7437a9bba5b17a6fa]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/decisions-in-the-brain-with-dr-nao-uchida]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/d/9/4/8/d9481d9e5bbb7685/podcast_art.png" />
+      <description><![CDATA[<p>Anthony and Dr. Nao Uchida (Professor of Molecular and Cellular Biology, Harvard University) talk about how we can understand decision-making by looking at animals making decisions while we record from neurons in their brain.</p>]]></description>
+      <enclosure length="29985956" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Uchida_Episode.mp3" />
+      <itunes:duration>38:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,biology,neuroscience</itunes:keywords>
+      <itunes:subtitle><![CDATA[Anthony and Dr. Nao Uchida (Professor of Molecular and Cellular Biology, Harvard University) talk about how we can understand decision-making by looking at animals making decisions while we record from neurons in their brain.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Patterns in the Hippocampus with Dr. Brian Derrick</title>
+      <pubDate>Tue, 05 Aug 2014 15:08:49 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e40941dbf50004ff15bb4013a9b8e5a0]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/patterns-in-the-hippocampus-with-dr-brian-derrick]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/d/9/4/8/d9481d9e5bbb7685/podcast_art.png" />
+      <description><![CDATA[<p>On this episode of BRAIN MATTERS, Matt and Dr. Brian Derrick talk about the hippocampus. Dr. Derrick has a fascinating story about how he&nbsp;became interested in the hippocampus and what he and his colleagues are currently working to understand.</p>]]></description>
+      <enclosure length="24463595" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Derrick_Final.mp3" />
+      <itunes:duration>32:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,biology,neuroscience,memory,hippocampus</itunes:keywords>
+      <itunes:subtitle><![CDATA[On this episode of BRAIN MATTERS, Matt and Dr. Brian Derrick talk about the hippocampus. Dr. Derrick has a fascinating story about how he&nbsp;became interested in the hippocampus and what he and his colleagues are currently working to understand.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>What New Neurons Are Good For with Dr. Amelia Eisch</title>
+      <pubDate>Tue, 01 Jul 2014 17:16:03 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e0335ceda02f5da6cb0f719117bd978c]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/what-new-neurons-are-good-for-with-dr-amelia-eisch]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/6/6/e/7/66e7792f8baf66d3/podcast_art.png" />
+      <description><![CDATA[<p>Anthony and Dr. Amelia Eisch talk about two major questions. First, what are new neurons good for. And second, what is good for making these new neurons.&nbsp;We hope you enjoy this one. Amelia is charismatic and enthusiastic about her fascinating work.</p>]]></description>
+      <enclosure length="30483378" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/What_are_new_neurons_good_for_with_Amelia_Eisch.mp3" />
+      <itunes:duration>38:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,biology,neuroscience</itunes:keywords>
+      <itunes:subtitle><![CDATA[Anthony and Dr. Amelia Eisch talk about two major questions. First, what are new neurons good for. And second, what is good for making these new neurons.&nbsp;We hope you enjoy this one. Amelia is charismatic and enthusiastic about her fascinating work.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Snapshot of a Memory with Dr. Bruce Hope</title>
+      <pubDate>Tue, 17 Jun 2014 19:16:11 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[ce505cd5941292dc362e85da37da25c2]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/snapshot-of-a-memory-with-dr-bruce-hope]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/d/9/4/8/d9481d9e5bbb7685/podcast_art.png" />
+      <description><![CDATA[<p>Anthony and Dr. Bruce Hope talk about how researchers can identify and manipulate the activity of neurons that are active&nbsp;during a specific experience. Toward the end of their conversation, Bruce gets into the importance of perseverance and the personality traits of the successful scientists he has worked with.</p>]]></description>
+      <enclosure length="25205530" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Bruce_Hope_Episode.mp3" />
+      <itunes:duration>30:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,neuroscience,memory,neuron</itunes:keywords>
+      <itunes:subtitle><![CDATA[Anthony and Dr. Bruce Hope talk about how researchers can identify and manipulate the activity of neurons that are active&nbsp;during a specific experience. Toward the end of their conversation, Bruce gets into the importance of perseverance and the...]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Building Proteins in Neurons with Dr. Erin Schuman</title>
+      <pubDate>Mon, 02 Jun 2014 20:34:39 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[9f1a9d40024afa74d8fff952f515cd81]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/building-proteins-in-neurons-with-dr-erin-schuman]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/8/d/b/8/8db8585b278d2e1b/podcast_art.png" />
+      <description><![CDATA[<p>This week, Matt and Dr. Erin Schuman talk about how neurons make all the proteins they need to function and how a cell gets these proteins all the way to dendrites and synapses.</p>]]></description>
+      <enclosure length="26559080" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Erin_Schuman.mp3" />
+      <itunes:duration>33:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,biology,neuroscience</itunes:keywords>
+      <itunes:subtitle><![CDATA[This week, Matt and Dr. Erin Schuman talk about how neurons make all the proteins they need to function and how a cell gets these proteins all the way to dendrites and synapses.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Alzheimer's Disease with Dr. Kenneth Kosik</title>
+      <pubDate>Mon, 14 Apr 2014 05:30:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[90b79b964c28b4751362deec4d32c314]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/alzheimers-disease-with-dr-kenneth-kosik]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/d/9/4/8/d9481d9e5bbb7685/podcast_art.png" />
+      <description><![CDATA[<p>Anthony and Dr. Kenneth Kosik had a chance to talk about Ken's path to becoming a neuroscientist. It's a different story than the ones we are used to hearing and offers some new perspectives on what it takes to become a great scientist. They also talk about the approaches Ken uses&nbsp;in his lab to study Alzheimer's Disease.</p>]]></description>
+      <enclosure length="24009639" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Dr_Kenneth_Kosik.mp3" />
+      <itunes:duration>30:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,biology,neuroscience,alzheimers</itunes:keywords>
+      <itunes:subtitle><![CDATA[Anthony and Dr. Kenneth Kosik had a chance to talk about Ken's path to becoming a neuroscientist. It's a different story than the ones we are used to hearing and offers some new perspectives on what it takes to become a great scientist. They also talk...]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Brains and Behavior in Nematodes with Dr. Shawn Lockery</title>
+      <pubDate>Mon, 24 Mar 2014 05:05:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[8233f5c304d8d6e7b2e3ab785b5b8b68]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/brains-and-behavior-in-nematodes-with-dr-shawn-lockery]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/9/9/8/5/998547825d7ba6a1/podcast_art.png" />
+      <description><![CDATA[<p>Matt and Dr. Shawn Lockery met up to&nbsp;talk about Shawn's work in C. Elegans, a worm&nbsp;that allows neuroscientists to study the link between the brain and behavior. They also got into a fascinating discussion about how science and art can come together.</p>]]></description>
+      <enclosure length="14024897" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Brains_and_Behavior_in_Nematodes_with_Shawn_Lockery.mp3" />
+      <itunes:duration>18:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,biology,genetics,neuroscience</itunes:keywords>
+      <itunes:subtitle><![CDATA[Matt and Dr. Shawn Lockery met up to&nbsp;talk about Shawn's work in C. Elegans, a worm&nbsp;that allows neuroscientists to study the link between the brain and behavior. They also got into a fascinating discussion about how science and art can come...]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Glial Cells with Dr. Dwight Bergles</title>
+      <pubDate>Mon, 03 Mar 2014 23:14:08 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[9bcec9685dcda5216ce2c253fa54c7b4]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/glial-cells-with-dr-dwight-bergles]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/6/0/9/a/609a99d895ff5f66/podcast_art.png" />
+      <description><![CDATA[<p>On this episode, Anthony and Dr. Dwight Bergles talk about the diverse functions of glia in the nervous system.</p>]]></description>
+      <enclosure length="62085346" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Glia_with_Dr_Dwight_Bergles.mp3" />
+      <itunes:duration>53:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,neuroscience,glia</itunes:keywords>
+      <itunes:subtitle><![CDATA[On this episode, Anthony and Dr. Dwight Bergles talk about the diverse functions of glia in the nervous system.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Cerebellar Circuits with Dr. Thomas Otis</title>
+      <pubDate>Mon, 10 Feb 2014 16:13:50 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[1c176467f2e61f98fedee47c667415d7]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/cerebellar-circuits-with-dr-thomas-otis]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/7/d/a/2/7da2029524e0636b/podcast_art.png" />
+      <description><![CDATA[<p>On this episode of Brain Matters, Anthony and Dr. Thomas Otis talk about how the cerebellum helps coordinates movements.</p>]]></description>
+      <enclosure length="17855992" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Cerebellar_Circuits_with_Thomas_Otis.mp3" />
+      <itunes:duration>34:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,biology,neuroscience</itunes:keywords>
+      <itunes:subtitle><![CDATA[On this episode of Brain Matters, Anthony and Dr. Thomas Otis talk about how the cerebellum helps coordinates movements.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Visualizing Glutamate Receptor Action with Dr. Vasanthi Jayaraman</title>
+      <pubDate>Mon, 20 Jan 2014 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[c3cdd24f986312d03e56332b1444a66e]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/visualizing-glutamate-receptor-action-with-dr-vasanthi-jayaraman]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/4/e/4/6/4e463f239def878e/podcast_art.png" />
+      <description><![CDATA[<p>On this episode, Matt and Dr. Vasanthi Jayaraman talk about glutamate receptors and how Vasanthi came to be a neuroscientist. They also discuss how science training and teaching can impact both the student and the teacher.</p>]]></description>
+      <enclosure length="8578586" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Visualizing_Glutamate_Receptors.mp3" />
+      <itunes:duration>25:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,education,biology,neuroscience</itunes:keywords>
+      <itunes:subtitle><![CDATA[On this episode, Matt and Dr. Vasanthi Jayaraman talk about glutamate receptors and how Vasanthi came to be a neuroscientist. They also discuss how science training and teaching can impact both the student and the teacher.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Constructing Synthetic Ion Channels with Dr. Chris Ahern</title>
+      <pubDate>Mon, 30 Dec 2013 15:22:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[44523bf6788ab84372f88ddd6c38ed75]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/constructing-synthetic-ion-channels-with-dr-chris-ahern]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/8/8/4/6/8846fa301b812a14/podcast_art.png" />
+      <description><![CDATA[<p><span style="color: #222222;">On this episode of Brain Matters, Anthony and Dr. Chris Ahern talk about exciting new research with ion channels. They also chat about Chris's interesting path into science and what it's really like to tackle some of the most interesting questions in neuroscience!</span></p>]]></description>
+      <enclosure length="17777009" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Constructing_Synthetic_Ion_Channels.mp3" />
+      <itunes:duration>42:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,interview,biology,neuroscience</itunes:keywords>
+      <itunes:subtitle><![CDATA[On this episode of Brain Matters, Anthony and Dr. Chris Ahern talk about exciting new research with ion channels. They also chat about Chris's interesting path into science and what it's really like to tackle some of the most interesting questions in...]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Topographic Visual Maps with Dr. Alyssa Brewer</title>
+      <pubDate>Mon, 02 Dec 2013 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[47b50eb0b2d8cc389c329399a2aeb780]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/topographic-visual-maps-with-dr-alyssa-brewer]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/8/4/8/f/848f5f31c50b84dd/podcast_art.png" />
+      <description><![CDATA[<p>On this episode of BRAIN MATTERS, Matt and Dr. Alyssa Brewer talk about her research in visual neuroscience and her unique path to becoming a scientist.</p>]]></description>
+      <enclosure length="13158212" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Topographic_Visual_Maps.mp3" />
+      <itunes:duration>31:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,neuroscience</itunes:keywords>
+      <itunes:subtitle><![CDATA[On this episode of BRAIN MATTERS, Matt and Dr. Alyssa Brewer talk about her research in visual neuroscience and her unique path to becoming a scientist.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Nicotine Addiction with Dr. John Dani</title>
+      <pubDate>Mon, 18 Nov 2013 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[b90f8f0e30ddd05e67890cca49582b5d]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/nicotine-addiction-with-dr-john-dani]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/7/5/5/3/7553e3da65589e66/podcast_art.png" />
+      <description><![CDATA[<p>On this episode of BRAIN MATTERS, Anthony talks about addiction with Dr. John Dani, chair of the Department of Neuroscience at the University of Pennsylvania. They talk about learning, memory, and the behaviors associated with nicotine addiction.</p>]]></description>
+      <enclosure length="23283290" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Nicotine_Addiction_with_John_Dani.mp3" />
+      <itunes:duration>40:42</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords>science,brain,neuroscience,learning,memory,smoking,nicotine,addiction,neuron</itunes:keywords>
+      <itunes:subtitle><![CDATA[On this episode of BRAIN MATTERS, Anthony talks about addiction with Dr. John Dani, chair of the Department of Neuroscience at the University of Pennsylvania. They talk about learning, memory, and the behaviors associated with nicotine addiction.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Ripple Recap: Artificial Fear Memories</title>
+      <pubDate>Mon, 11 Nov 2013 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e2bbefb0640de3af825cbaa636cf09af]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/ripple-recaps-artificial-fear-memories]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/1/2/6/2/12621b597ba28f5e/podcast_art.png" />
+      <description><![CDATA[<p><span style="color: #222222; font-family: arial, sans-serif; font-size: 13px;">BONUS! On this Ripple Recap, Brian discusses how to create artificial fear memories.</span></p>]]></description>
+      <enclosure length="9011066" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Ripple_Recaps_-_Artificial_Fear_Memories.mp3" />
+      <itunes:duration>09:24</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords>science,brain,fear,neuroscience,memories</itunes:keywords>
+      <itunes:subtitle><![CDATA[BONUS! On this Ripple Recap, Brian discusses how to create artificial fear memories.]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Neural Dynamics with Dr. Michael Beierlein</title>
+      <pubDate>Mon, 04 Nov 2013 23:18:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[4931ca003dcbf051e9f4d9d6c3403c3e]]></guid>
+      <link><![CDATA[http://brainpodcast.libsyn.com/neural-dynamics-with-dr-michael-beierlein]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/e/6/2/9/e629590f0f34be92/podcast_art.png" />
+      <description><![CDATA[<p>On this episode of BRAIN MATTERS, we talk Dr. Michael Beierlein, a scientist at The University of Texas Medical School at Houston. We learn about his path to becoming a scientist and the circuitry of neurons in the basal forebrain and thalamic reticular nucleus.</p>]]></description>
+      <enclosure length="10837186" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Neural_Dynamics_with_Dr._Michael_Beierlein.mp3" />
+      <itunes:duration>31:17</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords>science,brain,education,biology,neuroscience,physiology,neuron</itunes:keywords>
+      <itunes:subtitle><![CDATA[On this episode of BRAIN MATTERS, we talk Dr. Michael Beierlein, a scientist at The University of Texas Medical School at Houston. We learn about his path to becoming a scientist and the circuitry of neurons in the basal forebrain and thalamic...]]></itunes:subtitle>
+          </item>
+    <item>
+      <title>Fear Memories with Dr. Marie Monfils</title>
+      <pubDate>Mon, 21 Oct 2013 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[560925a02892d03fb965e1877cee6ab3]]></guid>
+      <link><![CDATA[http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Fear_Memories_with_Marie_Monfils.mp3]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/6/d/3/4/6d34de4225fa387e/podcast_art.png" />
+      <description><![CDATA[<p>On this episode of BRAIN MATTERS, we discuss fear memories with Dr. Marie Monfils, a neuroscientist at The University of Texas at Austin. We answer questions about how fear memories are created and if these memories can be changed once they are formed. Dr. Monfils also discusses how she began studying fear and how she approaches the scientific process.</p>]]></description>
+      <enclosure length="11426155" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/brainpodcast/Fear_Memories_with_Marie_Monfils.mp3" />
+      <itunes:duration>30:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>science,brain,fear,neuroscience,mind,matters,memory,memories</itunes:keywords>
+      <itunes:subtitle><![CDATA[On this episode of BRAIN MATTERS, we discuss fear memories with Dr. Marie Monfils, a neuroscientist at The University of Texas at Austin. We answer questions about how fear memories are created and if these memories can be changed once they are...]]></itunes:subtitle>
+          </item>
+  </channel>
+</rss>
