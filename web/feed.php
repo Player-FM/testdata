@@ -58,6 +58,7 @@ END;
     <itunes:image href="<?= $itunes_image ?>" />
     <itunes:keywords>comedy, drama, tokyo, politics</itunes:keywords>
     <itunes:subtitle>Really quite an astonishing contribution to humanity and the finer arts</itunes:subtitle>
+    <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture" />
 <?php } ?>
 
