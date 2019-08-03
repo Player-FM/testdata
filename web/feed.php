@@ -53,6 +53,7 @@ END;
     </image>
 <?php } ?>
 <?php if ($itunes ) { ?>
+    <spotify:countryOfOrigin><?= $country_of_origin ?></spotify:countryOfOrigin>
     <itunes:author>Stephen J. Dubner and Sooty the Teddy Bear</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="<?= $itunes_image ?>" />

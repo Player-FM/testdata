@@ -29,6 +29,7 @@ $feed_img = get('feed_img'); // e.g. http://feeds.feedburner.com/takeawaymovieda
 $episode_guid_path_left_padding = get('episode_guid_path_left_padding', ['default' => 0]);
 $episode_url_path_left_padding  = get('episode_url_path_left_padding', ['default' => 0]);
 $feed_media_image = get('feed_media_image');
+$country_of_origin = get('country', ['default' => $server_prefix . 'gb']);
 $itunes_image = get('itunes_image', ['default' => $server_prefix . '/media/dog.jpg']);
 $media_scheme_prefix = get('media_scheme', ['default' => 'http']);
 $include_feed_title = get_boolean('include_feed_title', true);
