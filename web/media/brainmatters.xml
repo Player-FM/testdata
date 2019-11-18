@@ -30,7 +30,7 @@
     </itunes:owner>
     <itunes:summary><![CDATA[Brain Matters the Podcast is an exciting way for anyone to learn about the fascinating world of neuroscience directly from the researchers who have dedicated their lives to uncovering the mysteries of the brain. Our mission is to make neuroscience accessible, relatable, and intriguing while still respecting the integrity of the science we love.]]></itunes:summary>
     <itunes:subtitle><![CDATA[]]></itunes:subtitle>
-    <podboost:experiments>
+    <podboost:experiments xmlns:podboost="http://www.w3.org/TR/html4/">
      <podboost:experiment name="Brain Matters Catchy Titles">
         <podboost:variant> 
           <title>Your Brain Matters</title>
@@ -392,7 +392,7 @@ table.MsoNormalTable
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>science,brain,biology,neuroscience,learning,memory</itunes:keywords>
       <itunes:subtitle><![CDATA[Anthony sat down with Dr. Anthony Wagner (Professor, Stanford University) and talked about memory. Wagner is a cognitive neuroscientist studying memory in humans using techniques like functional MRI imaging.]]></itunes:subtitle>
-      <podboost:experiments>
+      <podboost:experiments xmlns:podboost="http://www.w3.org/TR/html4/">
         <podboost:experiment name="Long Titles">
           <podboost:variant> 
             <title>What type of things can you remember? with Dr. Anthony Wagner</title>
@@ -416,7 +416,7 @@ table.MsoNormalTable
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>science,brain,biology,neuroscience</itunes:keywords>
       <itunes:subtitle><![CDATA[Matt and Dr. Andreas Tolias (Assistant Professor of Neuroscience, Baylor College of Medicine) talk about&nbsp;how the brain processes&nbsp;information.]]></itunes:subtitle>
-      <podboost:experiments>
+      <podboost:experiments xmlns:podboost="http://www.w3.org/TR/html4/">
         <podboost:experiment name="Short Titles">
           <podboost:variant> 
             <title>Brain Algorithms</title>
