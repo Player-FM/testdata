@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" media="screen" href="/~files/feed-premium.xsl"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bitlove="http://bitlove.org" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:feedpress="https://feed.press/xmlns" version="2.0">
+<rss xmlns:podboost="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bitlove="http://bitlove.org" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:feedpress="https://feed.press/xmlns" version="2.0">
   <channel>
     <feedpress:locale>en</feedpress:locale>
     <title>Freak Show</title>
@@ -61,6 +61,8 @@
     <itunes:block>no</itunes:block>
     <itunes:explicit>no</itunes:explicit>
     <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=g4llz4&amp;language=de_DE&amp;url=https%3A%2F%2Ffreakshow.fm&amp;title=Freak+Show&amp;description=Menschen%21+Technik%21+Sensationen%21" type="text/html"/>
+    <podboost:experiment name="freak smart test">
+    </podboost:experiment>
     <item>
       <title>FS233 API für Opi</title>
       <link>https://freakshow.fm/fs233-api-fuer-opi</link>
