@@ -83,6 +83,14 @@
       <itunes:episode>233</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:summary>Heute rekrutiert sich das Team ausnahmsweise ohne neuen Gast aus der Stammbesetzung und wir quatschen wie immer daher, wie es uns passt.</itunes:summary>
+      <podboost:experiment name="different codes in title">
+        <podboost:variant title="FS234 API für Opi"> </podboost:variant>
+        <podboost:variant title="FS235 API für Opi" image="http://www.google.com/image/xyz.png"> </podboost:variant>
+      </podboost:experiment>
+      <podboost:experiment name="short titles">
+        <podboost:variant title="FS234 API" image="http://www.google.com/image/image.png"> </podboost:variant>
+        <podboost:variant title="FS235 API" > </podboost:variant>
+      </podboost:experiment>
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
