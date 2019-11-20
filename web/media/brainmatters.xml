@@ -30,7 +30,7 @@
     </itunes:owner>
     <itunes:summary><![CDATA[Brain Matters the Podcast is an exciting way for anyone to learn about the fascinating world of neuroscience directly from the researchers who have dedicated their lives to uncovering the mysteries of the brain. Our mission is to make neuroscience accessible, relatable, and intriguing while still respecting the integrity of the science we love.]]></itunes:summary>
     <itunes:subtitle><![CDATA[]]></itunes:subtitle>
-        <item>
+    <item>
       <title>What Can You Remember? with Dr. Anthony Wagner</title>
       <pubDate>Mon, 22 Sep 2014 14:14:28 +0000</pubDate>
       <guid isPermaLink="false"><![CDATA[1ee40394d9293b77a202f77671c12393]]></guid>
@@ -376,7 +376,7 @@ table.MsoNormalTable
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>science,brain,biology,neuroscience,learning,memory</itunes:keywords>
       <itunes:subtitle><![CDATA[Anthony sat down with Dr. Anthony Wagner (Professor, Stanford University) and talked about memory. Wagner is a cognitive neuroscientist studying memory in humans using techniques like functional MRI imaging.]]></itunes:subtitle>
-          </item>
+    </item>
     <item>
       <title>Brain Algorithms with Dr. Andreas Tolias</title>
       <pubDate>Wed, 03 Sep 2014 20:55:18 +0000</pubDate>
@@ -389,7 +389,7 @@ table.MsoNormalTable
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>science,brain,biology,neuroscience</itunes:keywords>
       <itunes:subtitle><![CDATA[Matt and Dr. Andreas Tolias (Assistant Professor of Neuroscience, Baylor College of Medicine) talk about&nbsp;how the brain processes&nbsp;information.]]></itunes:subtitle>
-          </item>
+    </item>
     <item>
       <title>Decisions in the Brain with Dr. Nao Uchida</title>
       <pubDate>Wed, 20 Aug 2014 15:54:06 +0000</pubDate>
