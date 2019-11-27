@@ -1,11 +1,17 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
 
       <channel>
         
         <atom:link rel="monetization" href="$pay.stronghold.co/1a130178ee442354a019a70b4dc5f327b26" />
+        <atom:link rel="payment" href="https://www.patreon.com/swordandlaser" />
+
+        <!-- podlove alternate examples -->
+        <atom:link rel="alternate" href="http://example.com/feed/mp3-low" type="application/atom+xml" title="MP3 audio low-bandwidth"/>
+        <atom:link rel="alternate" href="http://example.com/feed/mp4" type="application/atom+xml" title="MP4 audio"/>
+        <atom:link rel="alternate" href="http://example.com/feed/video" type="application/atom+xml" title="MP4 video"/>
 
         <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:4887292/sounds.rss?before=123145579" rel="next" type="application/rss+xml" />
 
