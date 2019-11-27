@@ -69,6 +69,7 @@
       <podboost:variant title="Freakoholics" image="http://www.google.com/image/image.png"> </podboost:variant>
       <podboost:variant title="Freaky holics" > </podboost:variant>
     </podboost:experiment>
+    <claim>playerfm-claim-1-abcdfefff</claim>
     <item>
       <title>FS233 API für Opi</title>
       <link>https://freakshow.fm/fs233-api-fuer-opi</link>
