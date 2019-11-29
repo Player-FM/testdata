@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<channel>
+	<title>This Week in Startups - Audio</title>
+	
+	<link>https://thisweekinstartups.com</link>
+	<description>Supporting entrepreneurs &amp; inspiring innovation.</description>
+	<lastBuildDate>Tue, 26 Nov 2019 22:48:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=5.0.7</generator>
+<!-- podcast_generator="Blubrry PowerPress/7.5.4" mode="advanced" feedslug="twistaudio" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>Jason Calacanis and a rotating group of guest experts bring you this weekly take on the best, worst, most outrageous and interesting stories from the world of Web companies. Calacanis, a podcasting pioneer, gives you an insider's look at what's happening in the tech industry with his trademark blunt style and good humor. Looking to start your own company? Need strategies for improving your business or motivating your team? Just want to catch up on what's happening in Silicon Valley and beyond? Your journey begins here.</itunes:summary>
+	<itunes:author>ThisWeekInStartups.com</itunes:author>
+	<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+	<itunes:owner>
+		<itunes:name>ThisWeekInStartups.com</itunes:name>
+		<itunes:email>admin@launch.co</itunes:email>
+	</itunes:owner>
+	<managingEditor>admin@launch.co (ThisWeekInStartups.com)</managingEditor>
+	<copyright>thisweekinstartups.com.com</copyright>
+	<itunes:subtitle>Jason Calacanis and a rotating group of guest experts bring you this weekly take on the best, worst, most outrageous and interesting stories from the world of Web companies.</itunes:subtitle>
+	<image>
+		<title>This Week in Startups - Audio</title>
+		<url>http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png</url>
+		<link>https://thisweekinstartups.com</link>
+	</image>
+	<itunes:category text="Business">
+	</itunes:category>
+	<itunes:category text="Business">
+		<itunes:category text="Investing" />
+	</itunes:category>
+	<itunes:category text="Business">
+	</itunes:category>
+	<rawvoice:location>San Francisco, CA</rawvoice:location>
+	<rawvoice:frequency>Weekly</rawvoice:frequency>
+	<rawvoice:subscribe feed="https://thisweekinstartups.com/feed/twistaudio/" itunes="http://itunes.apple.com/us/podcast/this-week-in-startups/id315114957" />
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/twist-audio" /><feedburner:info uri="twist-audio" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:feedFlare href="http://www.podnova.com/add.srf?url=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.podnova.com/img_chicklet_podnova.gif">Subscribe with Podnova</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="//www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="https://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://odeo.com/listen/subscribe?feed=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://odeo.com/img/badge-channel-black.gif">Subscribe with ODEO</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsalloy.com/?rss=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.newsalloy.com/subrss3.gif">Subscribe with NewsAlloy</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare href="http://download.attensa.com/app/get_attensa.html?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.attensa.com/blogs/attensa/WindowsLiveWriter/BadgeredintoBadges_10C02/attensa_feed_button5.gif">Subscribe with Attensa for Outlook</feedburner:feedFlare><feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare href="http://www.flurry.com/pushRssFeed.do?r=fb&amp;url=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.flurry.com/images/flurry_rss_logo2.gif">Subscribe with Flurry</feedburner:feedFlare><feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2Ftwist-audio" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><item>
+		<title>E1004: Yousician CEO &amp; Co-founder Chris Thür created an interactive platform to master musical instruments, shares insights on acquiring 1M+ users, increasing retention through gamification, using profitability as leverage while attracting investors as an international startup</title>
+		<link>http://feedproxy.google.com/~r/twist-audio/~3/qsXsT5QGbn8/</link>
+		<pubDate>Tue, 26 Nov 2019 20:39:57 +0000</pubDate>
+		<guid isPermaLink="false">https://thisweekinstartups.com/?p=39871</guid>
+		<comments>https://thisweekinstartups.com/e1004-yousician-ceo-co-founder-chris-thur-created-an-interactive-platform-to-master-musical-instruments-shares-insights-on-acquiring-1m-users-increasing-retention-through-gamification-using-pro/#respond</comments>
+		<wfw:commentRss>https://thisweekinstartups.com/e1004-yousician-ceo-co-founder-chris-thur-created-an-interactive-platform-to-master-musical-instruments-shares-insights-on-acquiring-1m-users-increasing-retention-through-gamification-using-pro/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Startups]]></category>
+		<description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://thisweekinstartups.com/e1004-yousician-ceo-co-founder-chris-thur-created-an-interactive-platform-to-master-musical-instruments-shares-insights-on-acquiring-1m-users-increasing-retention-through-gamification-using-pro/"&gt;E1004: Yousician CEO &amp; Co-founder Chris Thür created an interactive platform to master musical instruments, shares insights on acquiring 1M+ users, increasing retention through gamification, using profitability as leverage while attracting investors as an international startup&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://thisweekinstartups.com"&gt;This Week In Startups&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/twist-audio/~4/qsXsT5QGbn8" height="1" width="1" alt=""/&gt;</description>
+				
+		<itunes:summary>1:06 Jason intros the Pegasus concept &amp; Yousician's Chris Thür&lt;br /&gt;
+3:52 Chris explains Yousician&lt;br /&gt;
+5:22 How did Yousician start and what did Guitar Hero have to do with it?&lt;br /&gt;
+11:02 Capitalizing on Apple's inclusion of subscriptions&lt;br /&gt;
+16:00 What were the early days of Yousician like, and was it hard to raise $?&lt;br /&gt;
+20:32 Is being based in Finland an asset?&lt;br /&gt;
+27:00 Chris gives his best advice for founders&lt;br /&gt;
+29:34 Does Chris feel pressure to take $ off the table through secondary shares?&lt;br /&gt;
+30:45 What does Chris look for in investors and what motivates Finnish employees?&lt;br /&gt;
+34:55 Jason &amp; Chris talk speeding tickets in Finland&lt;br /&gt;
+42:19 Chris demos Yousician and Jason sings along&lt;br /&gt;
+45:25 Jason tries to get on the Yousician Cap Table&lt;br /&gt;
+47:21 Why Jason believes Yousician will get to 10 million subscribers in the next few years</itunes:summary>
+		<itunes:author>ThisWeekInStartups.com</itunes:author>
+		<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+		<itunes:duration>56:16</itunes:duration>
+		<feedburner:origLink>https://thisweekinstartups.com/e1004-yousician-ceo-co-founder-chris-thur-created-an-interactive-platform-to-master-musical-instruments-shares-insights-on-acquiring-1m-users-increasing-retention-through-gamification-using-pro/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/twist-audio/~5/CLX7IncZlVY/TWiST-E1004.mp3" length="40516658" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E1004.mp3</feedburner:origEnclosureLink></item>
+	<item>
+		<title>E1003: The Athletic CEO &amp; Co-founder Alex Mather is building a paid online sports media publication, shares insights on attracting investors in a seemingly dying industry, managing 500+ remote writers, creating interesting angles through unique coverage &amp; more</title>
+		<link>http://feedproxy.google.com/~r/twist-audio/~3/t2ESTcua-GA/</link>
+		<pubDate>Fri, 22 Nov 2019 22:51:30 +0000</pubDate>
+		<guid isPermaLink="false">https://thisweekinstartups.com/?p=39857</guid>
+		<comments>https://thisweekinstartups.com/e1003-the-athletic-ceo-co-founder-alex-mather-is-building-a-paid-online-sports-media-publication-shares-insights-on-attracting-investors-in-a-seemingly-dying-industry-managing-500-remote-writers/#respond</comments>
+		<wfw:commentRss>https://thisweekinstartups.com/e1003-the-athletic-ceo-co-founder-alex-mather-is-building-a-paid-online-sports-media-publication-shares-insights-on-attracting-investors-in-a-seemingly-dying-industry-managing-500-remote-writers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Startups]]></category>
+		<description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://thisweekinstartups.com/e1003-the-athletic-ceo-co-founder-alex-mather-is-building-a-paid-online-sports-media-publication-shares-insights-on-attracting-investors-in-a-seemingly-dying-industry-managing-500-remote-writers/"&gt;E1003: The Athletic CEO &amp; Co-founder Alex Mather is building a paid online sports media publication, shares insights on attracting investors in a seemingly dying industry, managing 500+ remote writers, creating interesting angles through unique coverage &amp; more&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://thisweekinstartups.com"&gt;This Week In Startups&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/twist-audio/~4/t2ESTcua-GA" height="1" width="1" alt=""/&gt;</description>
+				
+		<itunes:summary>1:05 Jason intros Alex Mather&lt;br /&gt;
+2:08 Why did Alex launch a paid subscription publication in a seemingly dying industry?&lt;br /&gt;
+4:32 How &amp; where did The Athletic start? What was their thesis?&lt;br /&gt;
+6:32 What was early feedback like from investors?&lt;br /&gt;
+15:57 Changing approach from ad-based to subscription-based writing&lt;br /&gt;
+21:34 Why the NHL &amp; MLB are great for The Athletic&lt;br /&gt;
+22:43 How do they manage young writers?&lt;br /&gt;
+26:52 What % of their spend goes to editorial?&lt;br /&gt;
+33:00 Managing 500+ writers&lt;br /&gt;
+36:20 What are some ways they manage engagement?&lt;br /&gt;
+39:08 Twitter's impact on journalism&lt;br /&gt;
+43:39 Scouting new talent &amp; capitalizing on layoffs&lt;br /&gt;
+50:10 What has the inflated valuations of BuzzFeed &amp; Vox done to the digital media industry?&lt;br /&gt;
+55:20 How is The Athletic handling Apple's app-store subscription explosion?&lt;br /&gt;
+58:20 Apple's impact on the boom of incredible products in our society and how The Athletic translates that to editorial&lt;br /&gt;
+1:01:56 Alex asks Jason: "Mayor of San Francisco or owner of the Knicks?"&lt;br /&gt;
+1:03:47 Alex shares his thoughts on the NBA/China situation&lt;br /&gt;
+1:12:01 How does Alex go about re-activating users who have churned?&lt;br /&gt;
+1:12:42 What does The Athletic think about the prevalence of sports gambling in America?&lt;br /&gt;
+1:14:55 Who is the most interesting NBA player right now?&lt;br /&gt;
+1:16:01 Jason &amp; Alex pick who they would start an NBA franchise with today&lt;br /&gt;
+1:17:50 Jason plays "good tweet/bad tweet" with Alex</itunes:summary>
+		<itunes:author>ThisWeekInStartups.com</itunes:author>
+		<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+		<itunes:duration>1:33:17</itunes:duration>
+		<feedburner:origLink>https://thisweekinstartups.com/e1003-the-athletic-ceo-co-founder-alex-mather-is-building-a-paid-online-sports-media-publication-shares-insights-on-attracting-investors-in-a-seemingly-dying-industry-managing-500-remote-writers/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/twist-audio/~5/6wFSvmKKHGQ/TWiST-E1003.mp3" length="67168705" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E1003.mp3</feedburner:origEnclosureLink></item>
+	<item>
+		<title>E1002: Wealthfront CEO &amp; Co-founder Andy Rachleff on hitting escape velocity at Wealthfront, pioneering “self-driving money” for consumers, shares insights on product-building in 1980’s vs. today, best investor attributes, &amp; the future of NextGen banking</title>
+		<link>http://feedproxy.google.com/~r/twist-audio/~3/vrgVe4JyZHw/</link>
+		<pubDate>Tue, 19 Nov 2019 22:29:10 +0000</pubDate>
+		<guid isPermaLink="false">https://thisweekinstartups.com/?p=39845</guid>
+		<comments>https://thisweekinstartups.com/e1002-wealthfront-ceo-co-founder-andy-rachleff-on-hitting-escape-velocity-at-wealthfront-pioneering-self-driving-money-for-consumers-shares-insights-on-product-building-in-1980s-vs-today/#respond</comments>
+		<wfw:commentRss>https://thisweekinstartups.com/e1002-wealthfront-ceo-co-founder-andy-rachleff-on-hitting-escape-velocity-at-wealthfront-pioneering-self-driving-money-for-consumers-shares-insights-on-product-building-in-1980s-vs-today/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Startups]]></category>
+		<description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://thisweekinstartups.com/e1002-wealthfront-ceo-co-founder-andy-rachleff-on-hitting-escape-velocity-at-wealthfront-pioneering-self-driving-money-for-consumers-shares-insights-on-product-building-in-1980s-vs-today/"&gt;E1002: Wealthfront CEO &amp; Co-founder Andy Rachleff on hitting escape velocity at Wealthfront, pioneering “self-driving money” for consumers, shares insights on product-building in 1980’s vs. today, best investor attributes, &amp; the future of NextGen banking&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://thisweekinstartups.com"&gt;This Week In Startups&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/twist-audio/~4/vrgVe4JyZHw" height="1" width="1" alt=""/&gt;</description>
+				
+		<itunes:summary>1:08 Jason intros Andy Rachleff&lt;br /&gt;
+2:20 Where is Wealthfront at currently?&lt;br /&gt;
+4:44 How are traditional money managers allowed to get away with so much?&lt;br /&gt;
+10:19 How has Andy dealt with becoming the elder statesmen at his company?&lt;br /&gt;
+14:15 What are Wealthfront Cash Accounts?&lt;br /&gt;
+18:27 Wealthfront's long term vision&lt;br /&gt;
+23:49 What is high-revenue retention? How does Wealthfront maintain it?&lt;br /&gt;
+27:44 How has Silicon Valley changed since Andy started at Benchmark?&lt;br /&gt;
+32:10 Andy describes his greatest skill as an investor&lt;br /&gt;
+35:30 What were the 1980's like in Venture Capital?&lt;br /&gt;
+40:05 What do you call a VC who's never lost money?&lt;br /&gt;
+55:01 Jason &amp; Andy discuss how Silicon Valley is viewed in the present day</itunes:summary>
+		<itunes:author>ThisWeekInStartups.com</itunes:author>
+		<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+		<itunes:duration>1:25:20</itunes:duration>
+		<feedburner:origLink>https://thisweekinstartups.com/e1002-wealthfront-ceo-co-founder-andy-rachleff-on-hitting-escape-velocity-at-wealthfront-pioneering-self-driving-money-for-consumers-shares-insights-on-product-building-in-1980s-vs-today/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/twist-audio/~5/TgtY3mAHbPE/TWiST-E1002.mp3" length="71346746" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E1002.mp3</feedburner:origEnclosureLink></item>
+	<item>
+		<title>E1001: Eight Sleep CEO &amp; Co-founder Matteo Franceschetti pioneered “sleep-fitness” with smart heating &amp; cooling technology; shares insights on product iteration, delighting customers, innovating in D2C, raising $40M from LAUNCH, Founders Fund, Craft &amp; more</title>
+		<link>http://feedproxy.google.com/~r/twist-audio/~3/9kqxJz-Mrl8/</link>
+		<pubDate>Fri, 15 Nov 2019 21:00:22 +0000</pubDate>
+		<guid isPermaLink="false">https://thisweekinstartups.com/?p=39832</guid>
+		<comments>https://thisweekinstartups.com/e1001-eight-sleep-ceo-shares-insights-on-product-iteration-delighting-customers-innovating-in/#respond</comments>
+		<wfw:commentRss>https://thisweekinstartups.com/e1001-eight-sleep-ceo-shares-insights-on-product-iteration-delighting-customers-innovating-in/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Startups]]></category>
+		<description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://thisweekinstartups.com/e1001-eight-sleep-ceo-shares-insights-on-product-iteration-delighting-customers-innovating-in/"&gt;E1001: Eight Sleep CEO &amp; Co-founder Matteo Franceschetti pioneered “sleep-fitness” with smart heating &amp; cooling technology; shares insights on product iteration, delighting customers, innovating in D2C, raising $40M from LAUNCH, Founders Fund, Craft &amp; more&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://thisweekinstartups.com"&gt;This Week In Startups&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/twist-audio/~4/9kqxJz-Mrl8" height="1" width="1" alt=""/&gt;</description>
+				
+		<itunes:summary>1:03 Jason's thoughts on the exploding DTC movement&lt;br /&gt;
+4:10 How Jason discovered Eight Sleep&lt;br /&gt;
+7:15 Jason intros Matteo Franceschetti&lt;br /&gt;
+8:18 Matteo describes starting Eight Sleep and The Pod&lt;br /&gt;
+15:48 What was Matteo's history before Eight Sleep&lt;br /&gt;
+16:27 What did Matteo learn from his prior career in Solar Energy?&lt;br /&gt;
+20:11 What has Matteo learned about users' sleep through data analysis&lt;br /&gt;
+22:54 How does the thermo alarm work?&lt;br /&gt;
+26:52 What is Eight Sleep doing with their sleep data?&lt;br /&gt;
+29:36 What does the future look like for Eight Sleep?&lt;br /&gt;
+36:50 What has Matteo learned about DTC marketing?&lt;br /&gt;
+40:20 Dealing with returns&lt;br /&gt;
+42:46 Which marketing channels does Matteo capitalize on?&lt;br /&gt;
+46:30 What were Jason's instructions for reading Eight Sleep ads?&lt;br /&gt;
+46:55 Are pop-up locations a possibility?&lt;br /&gt;
+49:03 What is the endgame for smart-fitness products like Peloton &amp; Tonal?&lt;br /&gt;
+56:04 Eight Sleep's $40M raise</itunes:summary>
+		<itunes:author>ThisWeekInStartups.com</itunes:author>
+		<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+		<itunes:duration>1:00:10</itunes:duration>
+		<feedburner:origLink>https://thisweekinstartups.com/e1001-eight-sleep-ceo-shares-insights-on-product-iteration-delighting-customers-innovating-in/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/twist-audio/~5/cbfielncriA/TWiST-E1001.mp3" length="43327747" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E1001.mp3</feedburner:origEnclosureLink></item>
+	<item>
+		<title>E1000: 1000th Episode Retrospective! Jason &amp; TWiST lifers Lon Harris, Brian Alvey, &amp; Tyler Crowley re-live favorite moments &amp; guests, highlighting innovations in podcasting &amp; tech over the last decade, hitting global trends &amp; what’s in store for the next 1000</title>
+		<link>http://feedproxy.google.com/~r/twist-audio/~3/r3AWvsAMtnI/</link>
+		<pubDate>Tue, 12 Nov 2019 22:55:43 +0000</pubDate>
+		<guid isPermaLink="false">https://thisweekinstartups.com/?p=39822</guid>
+		<comments>https://thisweekinstartups.com/e1000-1000th-episode-retrospective-jason-twist-lifers-lon-harris-brian-alvey-tyler-crowley-re-live-favorite-moments-guests-highlighting-innovations-in-podcasting-tech-over-the-last-decade/#respond</comments>
+		<wfw:commentRss>https://thisweekinstartups.com/e1000-1000th-episode-retrospective-jason-twist-lifers-lon-harris-brian-alvey-tyler-crowley-re-live-favorite-moments-guests-highlighting-innovations-in-podcasting-tech-over-the-last-decade/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Startups]]></category>
+		<description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://thisweekinstartups.com/e1000-1000th-episode-retrospective-jason-twist-lifers-lon-harris-brian-alvey-tyler-crowley-re-live-favorite-moments-guests-highlighting-innovations-in-podcasting-tech-over-the-last-decade/"&gt;E1000: 1000th Episode Retrospective! Jason &amp; TWiST lifers Lon Harris, Brian Alvey, &amp; Tyler Crowley re-live favorite moments &amp; guests, highlighting innovations in podcasting &amp; tech over the last decade, hitting global trends &amp; what’s in store for the next 1000&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://thisweekinstartups.com"&gt;This Week In Startups&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/twist-audio/~4/r3AWvsAMtnI" height="1" width="1" alt=""/&gt;</description>
+				
+		<itunes:summary>1:10 Jason intros episode 1000 + Brian Alvey &amp; Lon Harris&lt;br /&gt;
+3:58 "Money is the Root of All Evil" theme song&lt;br /&gt;
+5:22 What were the first few episodes of TWiST like?&lt;br /&gt;
+6:27 What is working with Jason like?&lt;br /&gt;
+7:49 Tyler joins the show from Thailand and shares his history with TWiST&lt;br /&gt;
+10:55 Brian gives his experience being the first guest on TWiST&lt;br /&gt;
+11:59 Historic Clip: Gary Vaynerchuk on E24&lt;br /&gt;
+18:12 History of podcasting as an industry&lt;br /&gt;
+26:30 Historic Clip: Travis Kalanick on E180&lt;br /&gt;
+29:54 What led to podcasting becoming a global phenomenon?&lt;br /&gt;
+38:54 Historic Clip: Naval Ravikant on E244&lt;br /&gt;
+42:31 How crazy was Jason in the early days of the show?&lt;br /&gt;
+46:35 Historic Clip: Dave Goldberg on E251&lt;br /&gt;
+47:55 Cultural shift in the general understanding of early-stage investing&lt;br /&gt;
+53:44 Historic Clip: Chris Sacca on E291&lt;br /&gt;
+58:36 Historic Clip: Chuck Johnson from a deleted episode&lt;br /&gt;
+1:02:16 Historic Clip: Ed Catmull on E665/6&lt;br /&gt;
+1:05:07 Jacqui explains how she booked Ed Catmull&lt;br /&gt;
+1:11:24 Historic Clip: Aileen Lee on E988&lt;br /&gt;
+1:14:52 Historic Clip: Jimmy Chamberlain on E491&lt;br /&gt;
+1:21:43 What were "Insights from Tyler"?&lt;br /&gt;
+1:22:47 Historic Clip: Greatest Insight from Tyler&lt;br /&gt;
+1:25:51 Historic Clip: Peter Thiel on E525&lt;br /&gt;
+1:27:27 Was the Peter Thiel/Gawker situation the greatest example of pettiness ever?&lt;br /&gt;
+1:30:25 Historic Clip: Daniel Ek on E580&lt;br /&gt;
+1:33:58 How has the perception of TWiST changed since the early days?&lt;br /&gt;
+1:35:15 Historic Clip: Niklas Zennstrom &amp; Sebastian Siemiatkowski on E583&lt;br /&gt;
+1:39:57 Historic Clip: Peter Sunde on E765&lt;br /&gt;
+1:43:23 What will the future of streaming &amp; IP look like?&lt;br /&gt;
+1:49:32 Historic Clip: Molly Wood on E969&lt;br /&gt;
+1:51:05 What were the biggest changes from the last decade?&lt;br /&gt;
+2:05:32 How has Jason changed as an interviewer?&lt;br /&gt;
+2:09:50 Historic Clip: John Carreyrou on E828&lt;br /&gt;
+2:11:55 Who should play Elizabeth Holmes in the upcoming movie?&lt;br /&gt;
+2:13:02 Jason unveils the TWiST 1000 Cake and signs off and thanks everyone</itunes:summary>
+		<itunes:author>ThisWeekInStartups.com</itunes:author>
+		<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+		<itunes:duration>2:14:54</itunes:duration>
+		<feedburner:origLink>https://thisweekinstartups.com/e1000-1000th-episode-retrospective-jason-twist-lifers-lon-harris-brian-alvey-tyler-crowley-re-live-favorite-moments-guests-highlighting-innovations-in-podcasting-tech-over-the-last-decade/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/twist-audio/~5/sMum2i8b528/TWiST-E1000.mp3" length="97136988" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E1000.mp3</feedburner:origEnclosureLink></item>
+	<item>
+		<title>E999: ROOM CEO &amp; Co-founder Brian Chen is building phone booths for the modern office, shares insights on maximizing open floor plans, partnering with Calm to reduce stress at work, maintaining capital efficiency as a hardware startup</title>
+		<link>http://feedproxy.google.com/~r/twist-audio/~3/Dr9TH76z_lw/</link>
+		<pubDate>Fri, 08 Nov 2019 18:39:05 +0000</pubDate>
+		<guid isPermaLink="false">https://thisweekinstartups.com/?p=39793</guid>
+		<comments>https://thisweekinstartups.com/e999-room-ceo-co-founder-brian-chen-is-building-phone-booths-for-the-modern-office-shares-insights-on-maximizing-open-floor-plans-partnering-with-calm-to-reduce-stress-at-work-maintaining-capita/#respond</comments>
+		<wfw:commentRss>https://thisweekinstartups.com/e999-room-ceo-co-founder-brian-chen-is-building-phone-booths-for-the-modern-office-shares-insights-on-maximizing-open-floor-plans-partnering-with-calm-to-reduce-stress-at-work-maintaining-capita/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Startups]]></category>
+		<description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://thisweekinstartups.com/e999-room-ceo-co-founder-brian-chen-is-building-phone-booths-for-the-modern-office-shares-insights-on-maximizing-open-floor-plans-partnering-with-calm-to-reduce-stress-at-work-maintaining-capita/"&gt;E999: ROOM CEO &amp; Co-founder Brian Chen is building phone booths for the modern office, shares insights on maximizing open floor plans, partnering with Calm to reduce stress at work, maintaining capital efficiency as a hardware startup&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://thisweekinstartups.com"&gt;This Week In Startups&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/twist-audio/~4/Dr9TH76z_lw" height="1" width="1" alt=""/&gt;</description>
+				
+		<itunes:summary>0:53 Jason intros Brian Chen&lt;br /&gt;
+1:15 Brian demos ROOM’s collaboration with Calm&lt;br /&gt;
+2:42 How did ROOM get their room.com domain name?&lt;br /&gt;
+3:49 Upside &amp; downside of open floor plans&lt;br /&gt;
+5:52 Why ROOM manufactures the product in Indiana (for US distribution) &amp; Portugal (for European distribution) as opposed to China&lt;br /&gt;
+13:47 How did Brian convince VCs to invest in his DTC furniture business&lt;br /&gt;
+18:13 What Brian thinks about ROOM’s defensibility&lt;br /&gt;
+21:20 ROOM’s case studies with Density&lt;br /&gt;
+26:20 How does Brian keep ROOM so capital efficient?&lt;br /&gt;
+31:28 How does ROOM ventilate their booths?&lt;br /&gt;
+34:58 Will ROOM raise another round or continue building off profitability?&lt;br /&gt;
+36:49 What will ROOM’s next products be?&lt;br /&gt;
+40:05 What would a Jason themed booth look like?&lt;br /&gt;
+44:01 Alternative solutions for manipulating open floor plans</itunes:summary>
+		<itunes:author>ThisWeekInStartups.com</itunes:author>
+		<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+		<itunes:duration>51:34</itunes:duration>
+		<feedburner:origLink>https://thisweekinstartups.com/e999-room-ceo-co-founder-brian-chen-is-building-phone-booths-for-the-modern-office-shares-insights-on-maximizing-open-floor-plans-partnering-with-calm-to-reduce-stress-at-work-maintaining-capita/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/twist-audio/~5/ol6ugkCPZOE/TWiST-E999.mp3" length="37131382" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E999.mp3</feedburner:origEnclosureLink></item>
+	<item>
+		<title>E998: The Next Unicorns: Benchling CEO &amp; Co-founder Sajith Wickramasekara is increasing efficiency for scientists with a cloud-based platform, gives insights on recent life-science innovations, ethics of gene therapy &amp; defining the line between quackery &amp; brilliance – E10 of 10-ep miniseries</title>
+		<link>http://feedproxy.google.com/~r/twist-audio/~3/TaXNVHxrCWo/</link>
+		<pubDate>Wed, 06 Nov 2019 18:45:49 +0000</pubDate>
+		<guid isPermaLink="false">https://thisweekinstartups.com/?p=39760</guid>
+		<comments>https://thisweekinstartups.com/e998-the-next-unicorns-benchling-ceo-co-founder-sajith-wickramasekara-is-increasing-efficiency-for-scientists-with-a-cloud-based-platform-gives-insights-on-recent-life-science-innovations-ethics/#respond</comments>
+		<wfw:commentRss>https://thisweekinstartups.com/e998-the-next-unicorns-benchling-ceo-co-founder-sajith-wickramasekara-is-increasing-efficiency-for-scientists-with-a-cloud-based-platform-gives-insights-on-recent-life-science-innovations-ethics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Startups]]></category>
+		<description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://thisweekinstartups.com/e998-the-next-unicorns-benchling-ceo-co-founder-sajith-wickramasekara-is-increasing-efficiency-for-scientists-with-a-cloud-based-platform-gives-insights-on-recent-life-science-innovations-ethics/"&gt;E998: The Next Unicorns: Benchling CEO &amp; Co-founder Sajith Wickramasekara is increasing efficiency for scientists with a cloud-based platform, gives insights on recent life-science innovations, ethics of gene therapy &amp; defining the line between quackery &amp; brilliance – E10 of 10-ep miniseries&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://thisweekinstartups.com"&gt;This Week In Startups&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/twist-audio/~4/TaXNVHxrCWo" height="1" width="1" alt=""/&gt;</description>
+				
+		<itunes:summary>0:53 Jason intros Sajith Wickramasekara&lt;br /&gt;
+1:40 What does Benchling do?&lt;br /&gt;
+2:24 How did Sajith get into life science?&lt;br /&gt;
+6:55 Benchling's value proposition for scientists&lt;br /&gt;
+9:04 How do they charge?&lt;br /&gt;
+10:43 Is Chamath Palihapitiya the most famous Sri Lankan in the US?&lt;br /&gt;
+13:25 Why immunotherapy is the most exciting development in life science&lt;br /&gt;
+19:00 3D Printing &amp; harvesting organs in other species&lt;br /&gt;
+20:50 Ethics of editing a human embryo&lt;br /&gt;
+28:19 How did the scientific community respond to the embryo controversy&lt;br /&gt;
+29:52 Breakthroughs in gene therapy&lt;br /&gt;
+34:09 Defining the line between quackery &amp; brilliance&lt;br /&gt;
+42:37 Upside &amp; downside of genetically modified crops&lt;br /&gt;
+47:54 What is the best approach for breakthroughs in life science?</itunes:summary>
+		<itunes:author>ThisWeekInStartups.com</itunes:author>
+		<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+		<itunes:duration>54:30</itunes:duration>
+		<feedburner:origLink>https://thisweekinstartups.com/e998-the-next-unicorns-benchling-ceo-co-founder-sajith-wickramasekara-is-increasing-efficiency-for-scientists-with-a-cloud-based-platform-gives-insights-on-recent-life-science-innovations-ethics/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/twist-audio/~5/BoijsV15J68/TWiST-E998.mp3" length="39249112" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E998.mp3</feedburner:origEnclosureLink></item>
+	<item>
+		<title>E997: HubSpot CEO &amp; Co-founder Brian Halligan shares insights on the origin of inbound marketing, how The Grateful Dead inspired HubSpot, importance of customer experience, managing employees in the Glassdoor Era &amp; more</title>
+		<link>http://feedproxy.google.com/~r/twist-audio/~3/Xbb0W1qgkRU/</link>
+		<pubDate>Tue, 05 Nov 2019 18:34:34 +0000</pubDate>
+		<guid isPermaLink="false">https://thisweekinstartups.com/?p=39751</guid>
+		<comments>https://thisweekinstartups.com/e997-hubspot-ceo-co-founder-brian-halligan-shares-insights-on-the-origin-of-inbound-marketing-how-the-grateful-dead-inspired-hubspot-importance-of-customer-experience-managing/#respond</comments>
+		<wfw:commentRss>https://thisweekinstartups.com/e997-hubspot-ceo-co-founder-brian-halligan-shares-insights-on-the-origin-of-inbound-marketing-how-the-grateful-dead-inspired-hubspot-importance-of-customer-experience-managing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Startups]]></category>
+		<description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://thisweekinstartups.com/e997-hubspot-ceo-co-founder-brian-halligan-shares-insights-on-the-origin-of-inbound-marketing-how-the-grateful-dead-inspired-hubspot-importance-of-customer-experience-managing/"&gt;E997: HubSpot CEO &amp; Co-founder Brian Halligan shares insights on the origin of inbound marketing, how The Grateful Dead inspired HubSpot, importance of customer experience, managing employees in the Glassdoor Era &amp; more&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://thisweekinstartups.com"&gt;This Week In Startups&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/twist-audio/~4/Xbb0W1qgkRU" height="1" width="1" alt=""/&gt;</description>
+				
+		<itunes:summary>0:52 Jason intros Brian Halligan&lt;br /&gt;
+1:35 Brian describes how his job has changed as HubSpot has scaled&lt;br /&gt;
+3:33 Jason asks Brian about buying Jerry Garcia's guitar "Wolf"&lt;br /&gt;
+4:42 Jason &amp; Brian reminisce over Grateful Dead shows at Giants Stadium&lt;br /&gt;
+6:36 How the Grateful Dead pioneered "Inbound Marketing" &amp; inspired HubSpot&lt;br /&gt;
+15:24 How Brian met his Co-founder Dharmesh Shah&lt;br /&gt;
+17:04 The original idea behind HubSpot&lt;br /&gt;
+19:18 Ray Ozzie's impact on HubSpot &amp; Brian&lt;br /&gt;
+25:34 Benefits of introversion&lt;br /&gt;
+30:06 Succession planning in tech&lt;br /&gt;
+33:24 Avoiding pot-holes as CEO&lt;br /&gt;
+35:18 Importance of customer experience in 2019&lt;br /&gt;
+38:45 Examples of creating a great end-to-end customer experience&lt;br /&gt;
+49:43 How Brian keeps himself sharp &amp; motivated&lt;br /&gt;
+52:45 Managing employees from different generations in the "Glassdoor Era"</itunes:summary>
+		<itunes:author>ThisWeekInStartups.com</itunes:author>
+		<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+		<itunes:duration>1:05:39</itunes:duration>
+		<feedburner:origLink>https://thisweekinstartups.com/e997-hubspot-ceo-co-founder-brian-halligan-shares-insights-on-the-origin-of-inbound-marketing-how-the-grateful-dead-inspired-hubspot-importance-of-customer-experience-managing/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/twist-audio/~5/gGQtQl5nOEo/TWiST-E997.mp3" length="47746145" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E997.mp3</feedburner:origEnclosureLink></item>
+	<item>
+		<title>E996: Clearbit CEO &amp; Co-founder Alex MacCaw is creating god-mode for marketers with Clearbit X, gives insights on dynamic customer targeting, prioritizing profitability over valuation, GDPR’s adverse effect on Facebook &amp; Google, value of aggregated data &amp; benefits of CEO coaching</title>
+		<link>http://feedproxy.google.com/~r/twist-audio/~3/gM9nU0qeKOM/</link>
+		<pubDate>Fri, 01 Nov 2019 18:47:16 +0000</pubDate>
+		<guid isPermaLink="false">https://thisweekinstartups.com/?p=39744</guid>
+		<comments>https://thisweekinstartups.com/e996-clearbit-ceo-co-founder-alex-maccaw-is-creating-god-mode-for-marketers-with-clearbit-x-gives-insights-on-dynamic-customer-targeting-prioritizing-profitability-over-valuation-gdprs/#respond</comments>
+		<wfw:commentRss>https://thisweekinstartups.com/e996-clearbit-ceo-co-founder-alex-maccaw-is-creating-god-mode-for-marketers-with-clearbit-x-gives-insights-on-dynamic-customer-targeting-prioritizing-profitability-over-valuation-gdprs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Startups]]></category>
+		<description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://thisweekinstartups.com/e996-clearbit-ceo-co-founder-alex-maccaw-is-creating-god-mode-for-marketers-with-clearbit-x-gives-insights-on-dynamic-customer-targeting-prioritizing-profitability-over-valuation-gdprs/"&gt;E996: Clearbit CEO &amp; Co-founder Alex MacCaw is creating god-mode for marketers with Clearbit X, gives insights on dynamic customer targeting, prioritizing profitability over valuation, GDPR’s adverse effect on Facebook &amp; Google, value of aggregated data &amp; benefits of CEO coaching&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://thisweekinstartups.com"&gt;This Week In Startups&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/twist-audio/~4/gM9nU0qeKOM" height="1" width="1" alt=""/&gt;</description>
+				
+		<itunes:summary>0:58 Jason intros Alex MacCaw&lt;br /&gt;
+2:26 What is Clearbit?&lt;br /&gt;
+8:53 What are some Clearbit use cases?&lt;br /&gt;
+12:48 Benefits of cashflow positivity in terms of fundraising&lt;br /&gt;
+15:39 How Jason felt about Alex Tew’s Calm investor updates&lt;br /&gt;
+18:59 GDPRs effect on Clearbit and the industry as a whole&lt;br /&gt;
+27:37 How did Alex go from anti-coaching to benefitting from a CEO coach?&lt;br /&gt;
+32:49 Alex’s experience finding a CEO coach from Naval Ravikant&lt;br /&gt;
+34:22 What did Alex learn about company building from his coach?&lt;br /&gt;
+38:39 Clearbit’s therapy policy&lt;br /&gt;
+44:10 Alex’s history before Clearbit&lt;br /&gt;
+47:16 Jason describes his first business, “Jason’s Hot Tapes”&lt;br /&gt;
+49:37 What is Clearbit X?&lt;br /&gt;
+53:26 Alex gives advice to his younger self</itunes:summary>
+		<itunes:author>ThisWeekInStartups.com</itunes:author>
+		<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+		<itunes:duration>1:01:53</itunes:duration>
+		<feedburner:origLink>https://thisweekinstartups.com/e996-clearbit-ceo-co-founder-alex-maccaw-is-creating-god-mode-for-marketers-with-clearbit-x-gives-insights-on-dynamic-customer-targeting-prioritizing-profitability-over-valuation-gdprs/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/twist-audio/~5/fAaA0Ju4yIg/TWiST-E996.mp3" length="44562532" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E996.mp3</feedburner:origEnclosureLink></item>
+	<item>
+		<title>E995: The Next Unicorns: NEXT Trucking CEO &amp; Co-founder Lidia Yan brings trucking into the digital age with her two-sided marketplace, shares insights on finding &amp; focusing on an untapped market, owning &amp; innovating drayage, navigating the trucking industry as a woman &amp; scaling the right team for success – E9 of 10-ep miniseries</title>
+		<link>http://feedproxy.google.com/~r/twist-audio/~3/KwuKvvmfEIw/</link>
+		<pubDate>Wed, 30 Oct 2019 17:32:00 +0000</pubDate>
+		<guid isPermaLink="false">https://thisweekinstartups.com/?p=39726</guid>
+		<comments>https://thisweekinstartups.com/e995-the-next-unicorns-next-trucking-ceo-co-founder-lidia-yan-brings-trucking-into-the-digital-age-with-her-two-sided-marketplace-shares-insights-on-finding-focusing-on-an-untapped-market-owni/#respond</comments>
+		<wfw:commentRss>https://thisweekinstartups.com/e995-the-next-unicorns-next-trucking-ceo-co-founder-lidia-yan-brings-trucking-into-the-digital-age-with-her-two-sided-marketplace-shares-insights-on-finding-focusing-on-an-untapped-market-owni/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Startups]]></category>
+		<description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://thisweekinstartups.com/e995-the-next-unicorns-next-trucking-ceo-co-founder-lidia-yan-brings-trucking-into-the-digital-age-with-her-two-sided-marketplace-shares-insights-on-finding-focusing-on-an-untapped-market-owni/"&gt;E995: The Next Unicorns: NEXT Trucking CEO &amp; Co-founder Lidia Yan brings trucking into the digital age with her two-sided marketplace, shares insights on finding &amp; focusing on an untapped market, owning &amp; innovating drayage, navigating the trucking industry as a woman &amp; scaling the right team for success – E9 of 10-ep miniseries&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://thisweekinstartups.com"&gt;This Week In Startups&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/twist-audio/~4/KwuKvvmfEIw" height="1" width="1" alt=""/&gt;</description>
+				
+		<itunes:summary>0:55 Jason intros Lidia Yan&lt;br /&gt;
+5:03 Lidia describes getting into the trucking industry and why NEXT focuses on "drayage"&lt;br /&gt;
+13:29 How NEXT has revolutionized drayage shipping&lt;br /&gt;
+18:22 What is a typical shipping broker's take rate&lt;br /&gt;
+20:54 How does pricing work in the trucking industry?&lt;br /&gt;
+27:28 How do trucking companies measure their driver's hours?&lt;br /&gt;
+29:41 Issues within the trucking industry?&lt;br /&gt;
+35:14 Did trucking lose employees to ride-sharing?&lt;br /&gt;
+39:20 How NEXT compares to Uber Freight&lt;br /&gt;
+44:50 Amazon's impact on the trucking industry&lt;br /&gt;
+46:22 Trade war bringing inconsistency to trucking&lt;br /&gt;
+48:41 How Lidia dealt with the challenges of being a woman starting a trucking company&lt;br /&gt;
+50:47 Importance of getting to profitability early on</itunes:summary>
+		<itunes:author>ThisWeekInStartups.com</itunes:author>
+		<itunes:image href="http://thisweekinstartups.com/wp-content/uploads/powerpress/TWIS_Logo_photo4_nologo-827.png" />
+		<itunes:duration>1:01:04</itunes:duration>
+		<feedburner:origLink>https://thisweekinstartups.com/e995-the-next-unicorns-next-trucking-ceo-co-founder-lidia-yan-brings-trucking-into-the-digital-age-with-her-two-sided-marketplace-shares-insights-on-finding-focusing-on-an-untapped-market-owni/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/twist-audio/~5/OkcTHD6WOt8/TWiST-E995.mp3" length="43976605" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E995.mp3</feedburner:origEnclosureLink></item>
+	</channel>
+</rss>
