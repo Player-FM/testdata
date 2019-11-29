@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+      <channel>
+        
+        <atom:link rel="monetization" href="$pay.stronghold.co/1a130178ee442354a019a70b4dc5f327b26" />
+        <atom:link rel="payment" href="https://www.patreon.com/swordandlaser" />
+
+        <!-- podlove alternate examples -->
+        <atom:link rel="alternate" href="http://example.com/feed/mp3-low" type="application/atom+xml" title="MP3 audio low-bandwidth"/>
+        <atom:link rel="alternate" href="http://example.com/feed/mp4" type="application/atom+xml" title="MP4 audio"/>
+        <atom:link rel="alternate" href="http://example.com/feed/video" type="application/atom+xml" title="MP4 video"/>
+
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:4887292/sounds.rss?before=123145579" rel="next" type="application/rss+xml" />
+
+        <title>The Sword and Laser</title>
+
+        <link>http://www.swordandlaser.com</link>
+
+        <pubDate>Thu, 21 Nov 2019 16:45:40 +0000</pubDate>
+
+        <lastBuildDate>Thu, 21 Nov 2019 16:45:40 +0000</lastBuildDate>
+
+        <ttl>60</ttl>
+
+        <language>en</language>
+
+        <copyright>Attribution-NonCommercial-ShareAlike 3.0 Unported License</copyright>
+
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+
+        <description>Read along with the Sword and Laser book club! From classic science fiction to the latest gritty fantasy, we cover it. Subscribe for book discussions, author interviews, hot releases, and news from the genre fiction world!</description>
+
+        <itunes:subtitle>Different worlds, different discussions!</itunes:subtitle>
+
+        
+
+        <itunes:author>Tom Merritt and Veronica Belmont</itunes:author>
+
+        <itunes:explicit>no</itunes:explicit>
+
+        <itunes:image href="https://static1.squarespace.com/static/50468d91c4aae834ae644e29/t/54f7a299e4b05ad03a5fb99b/1425515164210/big-version.jpg" />
+
+        <image><link>http://www.swordandlaser.com</link><url>https://static1.squarespace.com/static/50468d91c4aae834ae644e29/t/54f7a299e4b05ad03a5fb99b/1425515164210/big-version.jpg</url><title>iTunes Art</title></image>
+
+        
+
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/TheSwordAndLaser" /><feedburner:info uri="theswordandlaser" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Attribution-NonCommercial-ShareAlike 3.0 Unported License</media:copyright><media:thumbnail url="https://static1.squarespace.com/static/50468d91c4aae834ae644e29/t/54f7a299e4b05ad03a5fb99b/1425515164210/big-version.jpg" /><media:keywords>science,fiction,fantasy,book,club,novel,reading</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts/Literature</media:category><itunes:owner><itunes:email>feedback@swordandlaser.com</itunes:email><itunes:name>Tom Merritt and Veronica Belmont</itunes:name></itunes:owner><itunes:keywords>science,fiction,fantasy,book,club,novel,reading</itunes:keywords><itunes:summary>Read along with the Sword and Laser book club! From classic science fiction to the latest gritty fantasy, we cover it. Subscribe for book discussions, author interviews, hot releases, and news from the genre fiction world!</itunes:summary><itunes:category text="Arts"><itunes:category text="Literature" /></itunes:category><item>
+
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/716414029</guid>
+
+      <title>#369 - Jeffety Jeff Jeffers of Planet Jeff</title>
+
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+
+      <link>http://feedproxy.google.com/~r/TheSwordAndLaser/~3/d9kBQPbJKPM/369-jeffety-jeff-jeffers-of-planet-jeff</link>
+
+      <itunes:duration>00:38:17</itunes:duration>
+
+      <itunes:author>swordandlaser</itunes:author>
+
+      <itunes:explicit>no</itunes:explicit>
+
+      <itunes:summary>How we’re feeling about the Snow Queen, and where it’s world-building might have drawn from. Plus two alternative pronunciation guides for the character names. Plus, a treasure trove of awesome articles about SciFi-type things!</itunes:summary>
+
+      <itunes:subtitle>How we’re feeling about the Snow Queen, and where…</itunes:subtitle>
+
+      <description>How we’re feeling about the Snow Queen, and where it’s world-building might have drawn from. Plus two alternative pronunciation guides for the character names. Plus, a treasure trove of awesome articles about SciFi-type things!&lt;img src="http://feeds.feedburner.com/~r/TheSwordAndLaser/~4/d9kBQPbJKPM" height="1" width="1" alt=""/&gt;</description>
+
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/716414029-swordandlaser-369-jeffety-jeff-jeffers-of-planet-jeff.mp3" length="0" />
+
+      <itunes:image href="http://i1.sndcdn.com/artworks-000641060236-aszvgs-original.png" />
+
+    <author>feedback@swordandlaser.com (Tom Merritt and Veronica Belmont)</author><media:content url="http://feeds.soundcloud.com/stream/716414029-swordandlaser-369-jeffety-jeff-jeffers-of-planet-jeff.mp3" type="audio/mpeg" /><itunes:keywords>science,fiction,fantasy,book,club,novel,reading</itunes:keywords><feedburner:origLink>https://soundcloud.com/swordandlaser/369-jeffety-jeff-jeffers-of-planet-jeff</feedburner:origLink></item><item>
+
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/711170725</guid>
+
+      <title>#368 - But is it Art?</title>
+
+      <pubDate>Mon, 11 Nov 2019 17:09:45 +0000</pubDate>
+
+      <link>http://feedproxy.google.com/~r/TheSwordAndLaser/~3/B3XP2lR5JRI/368-but-is-it-art</link>
+
+      <itunes:duration>00:30:58</itunes:duration>
+
+      <itunes:author>swordandlaser</itunes:author>
+
+      <itunes:explicit>no</itunes:explicit>
+
+      <itunes:summary>So many awards! You have no excuse for not finding something awesome and new to read right now. Not that you ever do with us on the job, we hope. Also, our first impressions on reading The Snow Queen.</itunes:summary>
+
+      <itunes:subtitle>So many awards! You have no excuse for not findin…</itunes:subtitle>
+
+      <description>So many awards! You have no excuse for not finding something awesome and new to read right now. Not that you ever do with us on the job, we hope. Also, our first impressions on reading The Snow Queen.&lt;img src="http://feeds.feedburner.com/~r/TheSwordAndLaser/~4/B3XP2lR5JRI" height="1" width="1" alt=""/&gt;</description>
+
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/711170725-swordandlaser-368-but-is-it-art.mp3" length="0" />
+
+      <itunes:image href="http://i1.sndcdn.com/artworks-000635523046-v9z7a9-original.png" />
+
+    <author>feedback@swordandlaser.com (Tom Merritt and Veronica Belmont)</author><media:content url="http://feeds.soundcloud.com/stream/711170725-swordandlaser-368-but-is-it-art.mp3" type="audio/mpeg" /><itunes:keywords>science,fiction,fantasy,book,club,novel,reading</itunes:keywords><feedburner:origLink>https://soundcloud.com/swordandlaser/368-but-is-it-art</feedburner:origLink></item>
+</channel>
+</rss>
