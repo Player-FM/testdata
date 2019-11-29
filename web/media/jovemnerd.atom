@@ -17,6 +17,10 @@
   <itunes:block>no</itunes:block>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://jovemnerd.com.br/wp-content/themes/jovemnerd/assets/images/nc-feed.jpg"/>
+
+  <link rel="monetization" href="$pay.stronghold.co/123" />
+  <link rel="payment" href="https://example.com/jove" />
+
   <image>
     <url>https://jovemnerd.com.br/wp-content/themes/jovemnerd/assets/images/nc-feed.jpg</url>
     <title>NerdCast</title>
