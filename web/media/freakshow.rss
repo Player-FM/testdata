@@ -5,7 +5,16 @@
     <feedpress:locale>en</feedpress:locale>
     <title>Freak Show</title>
     <link>https://freakshow.fm</link>
-    <description>Menschen! Technik! Sensationen!</description>
+    <description>Menschen! Technik! Sensationen!
+      <![CDATA[<podboost:experiment name="freak long titles test">
+        <podboost:variant title="Hi there, we are Freakoholics" image="http://www.google.com/image/image.png"> </podboost:variant>
+        <podboost:variant title="Hurray, we are Freaky holics" image="http://www.google.com/image/xyz.png"> </podboost:variant>
+      </podboost:experiment>
+      <podboost:experiment name="freak short titles test">
+        <podboost:variant title="Freakoholics" image="http://www.google.com/image/image.png"> </podboost:variant>
+        <podboost:variant title="Freaky holics"> </podboost:variant>
+      </podboost:experiment>]]
+    </description>
     <lastBuildDate>Fri, 08 Mar 2019 15:12:07 +0000</lastBuildDate>
     <image>
       <url>https://meta.metaebene.me/media/mm/freakshow-logo-1.0.jpg</url>
