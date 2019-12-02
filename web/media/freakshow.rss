@@ -13,7 +13,7 @@
       <podboost:experiment name="freak short titles test">
         <podboost:variant title="Freakoholics" image="http://www.google.com/image/image.png"> </podboost:variant>
         <podboost:variant title="Freaky holics"> </podboost:variant>
-      </podboost:experiment>]]
+      </podboost:experiment>]]>
     </description>
     <lastBuildDate>Fri, 08 Mar 2019 15:12:07 +0000</lastBuildDate>
     <image>
