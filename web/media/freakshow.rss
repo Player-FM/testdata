@@ -62,12 +62,16 @@
     <itunes:explicit>no</itunes:explicit>
     <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=g4llz4&amp;language=de_DE&amp;url=https%3A%2F%2Ffreakshow.fm&amp;title=Freak+Show&amp;description=Menschen%21+Technik%21+Sensationen%21" type="text/html"/>
     <podboost:experiment name="freak long titles test">
-      <podboost:variant title="Hi there, we are Freakoholics" image="http://www.google.com/image/image.png"> </podboost:variant>
-      <podboost:variant title="Hurray, we are Freaky holics" image="http://www.google.com/image/xyz.png"> </podboost:variant>
+      <podboost:variant title="Hi there, we are Freakoholics"> </podboost:variant>
+      <podboost:variant title="Hurray, we are Freaky holics"> </podboost:variant>
     </podboost:experiment>
-    <podboost:experiment name="freak short titles test">
-      <podboost:variant title="Freakoholics" image="http://www.google.com/image/image.png"> </podboost:variant>
-      <podboost:variant title="Freaky holics" > </podboost:variant>
+    <podboost:experiment name="freak image test">
+      <podboost:variant image="http://www.google.com/image/image.png"> </podboost:variant>
+      <podboost:variant image="http://www.google.com/image/image.png"> </podboost:variant>
+    </podboost:experiment>
+    <podboost:experiment name="freak image and title test">
+      <podboost:variant  title="Sick Freakoholics" image="http://www.google.com/image/image.png"> </podboost:variant>
+      <podboost:variant title="Freaky holics" image="http://www.google.com/image/image.png"> </podboost:variant>
     </podboost:experiment>
     <claim>playerfm-claim-1-abcdfefff</claim>
     <item>
