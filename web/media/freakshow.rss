@@ -67,7 +67,7 @@
     </podboost:experiment>
     <podboost:experiment name="freak image test">
       <podboost:variant image="http://www.google.com/image/image.png"> </podboost:variant>
-      <podboost:variant image="http://www.google.com/image/image.png"> </podboost:variant>
+      <podboost:variant image="http://www.google.com/image/image2.png"> </podboost:variant>
     </podboost:experiment>
     <claim>playerfm-claim-1-abcdfefff</claim>
     <item>
