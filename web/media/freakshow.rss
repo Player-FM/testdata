@@ -69,10 +69,6 @@
       <podboost:variant image="http://www.google.com/image/image.png"> </podboost:variant>
       <podboost:variant image="http://www.google.com/image/image.png"> </podboost:variant>
     </podboost:experiment>
-    <podboost:experiment name="freak image and title test">
-      <podboost:variant  title="Sick Freakoholics" image="http://www.google.com/image/image.png"> </podboost:variant>
-      <podboost:variant title="Freaky holics" image="http://www.google.com/image/image.png"> </podboost:variant>
-    </podboost:experiment>
     <claim>playerfm-claim-1-abcdfefff</claim>
     <item>
       <title>FS233 API für Opi</title>
