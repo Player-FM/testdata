@@ -62,19 +62,27 @@
     <itunes:explicit>no</itunes:explicit>
     <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=g4llz4&amp;language=de_DE&amp;url=https%3A%2F%2Ffreakshow.fm&amp;title=Freak+Show&amp;description=Menschen%21+Technik%21+Sensationen%21" type="text/html"/>
     <podboost:experiment name="freak long titles test">
-      <podboost:variant title="Hi there, we are Freakoholics" image="http://www.google.com/image/image.png"> </podboost:variant>
-      <podboost:variant title="Hurray, we are Freaky holics" image="http://www.google.com/image/xyz.png"> </podboost:variant>
+      <podboost:variant title="Hi there, we are Freakoholics"> </podboost:variant>
+      <podboost:variant title="Hurray, we are Freaky holics"> </podboost:variant>
     </podboost:experiment>
-    <podboost:experiment name="freak short titles test">
-      <podboost:variant title="Freakoholics" image="http://www.google.com/image/image.png"> </podboost:variant>
-      <podboost:variant title="Freaky holics" > </podboost:variant>
+    <podboost:experiment name="freak image test">
+      <podboost:variant image="http://www.google.com/image/image.png"> </podboost:variant>
+      <podboost:variant image="http://www.google.com/image/image2.png"> </podboost:variant>
     </podboost:experiment>
+    <claim>playerfm-claim-1-abcdfefff</claim>
     <item>
       <title>FS233 API für Opi</title>
       <link>https://freakshow.fm/fs233-api-fuer-opi</link>
       <pubDate>Fri, 08 Mar 2019 15:12:07 +0000</pubDate>
       <guid isPermaLink="false">podlove-2019-03-07t00:24:20+00:00-5780e031cbb775e</guid>
-      <description><![CDATA[Heute rekrutiert sich das Team ausnahmsweise ohne neuen Gast aus der Stammbesetzung und wir quatschen wie immer daher, wie es uns passt.]]></description>
+      <description><![CDATA[Heute rekrutiert sich das Team ausnahmsweise ohne neuen Gast aus der Stammbesetzung und wir quatschen wie immer daher, wie es uns passt.<podboost:experiment name="different codes in title">
+        <podboost:variant title="FS234 API für Opi"> </podboost:variant>
+        <podboost:variant title="FS235 API für Opi" image="http://www.google.com/image/xyz.png"> </podboost:variant>
+      </podboost:experiment>
+      <podboost:experiment name="short titles">
+        <podboost:variant title="FS234 API" image="http://www.google.com/image/image.png"> </podboost:variant>
+        <podboost:variant title="FS235 API" > </podboost:variant>
+      </podboost:experiment>]]></description>
       <atom:link rel="http://podlove.org/deep-link" href="https://freakshow.fm/fs233-api-fuer-opi#"/>
       <enclosure url="https://freakshow.fm/podlove/file/5914/s/feed/c/mp3/fs233-api-fuer-opi.mp3" length="148200360" type="audio/mpeg" bitlove:guid="https://freakshow.fm/podlove/file/5914"/>
       <itunes:duration>04:06:15</itunes:duration>
@@ -83,14 +91,6 @@
       <itunes:episode>233</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:summary>Heute rekrutiert sich das Team ausnahmsweise ohne neuen Gast aus der Stammbesetzung und wir quatschen wie immer daher, wie es uns passt.</itunes:summary>
-      <podboost:experiment name="different codes in title">
-        <podboost:variant title="FS234 API für Opi"> </podboost:variant>
-        <podboost:variant title="FS235 API für Opi" image="http://www.google.com/image/xyz.png"> </podboost:variant>
-      </podboost:experiment>
-      <podboost:experiment name="short titles">
-        <podboost:variant title="FS234 API" image="http://www.google.com/image/image.png"> </podboost:variant>
-        <podboost:variant title="FS235 API" > </podboost:variant>
-      </podboost:experiment>
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
