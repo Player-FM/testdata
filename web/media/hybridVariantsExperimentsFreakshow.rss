@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~files/feed-premium.xsl"?>
+<rss xmlns:podboost="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:bitlove="http://bitlove.org" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:feedpress="https://feed.press/xmlns" version="2.0">
+  <channel>
+    <feedpress:locale>en</feedpress:locale>
+    <title>Freak Show</title>
+    <link>https://freakshow.fm</link>
+    <description>Menschen! Technik! Sensationen!</description>
+    <lastBuildDate>Fri, 08 Mar 2019 15:12:07 +0000</lastBuildDate>
+    <image>
+      <url>https://meta.metaebene.me/media/mm/freakshow-logo-1.0.jpg</url>
+      <title>Freak Show</title>
+      <link>https://freakshow.fm</link>
+    </image>
+    <atom:link rel="self" type="application/rss+xml" title="Freak Show (MP3 Audio)" href="https://feeds.metaebene.me/freakshow/mp3"/>
+    <atom:link rel="alternate" type="application/rss+xml" title="Freak Show (MPEG-4 AAC Audio)" href="https://freakshow.fm/feed/m4a"/>
+    <atom:link rel="alternate" type="application/rss+xml" title="Freak Show (Ogg Vorbis Audio)" href="https://freakshow.fm/feed/oga"/>
+    <atom:link rel="alternate" type="application/rss+xml" title="Freak Show (Ogg Opus Audio)" href="https://freakshow.fm/feed/opus"/>
+    <atom:link rel="next" href="https://freakshow.fm/feed/mp3?paged=2"/>
+    <atom:link rel="first" href="https://freakshow.fm/feed/mp3"/>
+    <atom:link rel="last" href="https://freakshow.fm/feed/mp3?paged=8"/>
+    <language>de-DE</language>
+    <atom:link rel="hub" href="http://metaebene.superfeedr.com"/>
+    <fyyd:verify xmlns:fyyd="https://fyyd.de/fyyd-ns/">nb7iw45eqiWaHwbkg1ncdT3b2ynd86i5v4wlfZp2</fyyd:verify>
+    <atom:contributor>
+      <atom:name>Tim Pritlove</atom:name>
+      <atom:uri>http://tim.pritlove.org/</atom:uri>
+    </atom:contributor>
+    <atom:contributor>
+      <atom:name>Clemens Schrimpe</atom:name>
+    </atom:contributor>
+    <atom:contributor>
+      <atom:name>hukl</atom:name>
+    </atom:contributor>
+    <atom:contributor>
+      <atom:name>Denis Ahrens</atom:name>
+    </atom:contributor>
+    <atom:contributor>
+      <atom:name>roddi</atom:name>
+    </atom:contributor>
+    <atom:contributor>
+      <atom:name>Letty</atom:name>
+    </atom:contributor>
+    <generator>Podlove Podcast Publisher v2.8.0.build650</generator>
+    <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Die muntere Talk Show um Leben mit Technik, das Netz und Technikkultur. Wir leben und lieben Technologie und reden darüber.</itunes:summary>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Gadgets"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Tim Pritlove</itunes:name>
+      <itunes:email>freakshow@metaebene.me</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://meta.metaebene.me/media/mm/freakshow-logo-1.0.jpg"/>
+    <itunes:subtitle>Menschen! Technik! Sensationen!</itunes:subtitle>
+    <itunes:block>no</itunes:block>
+    <itunes:explicit>no</itunes:explicit>
+    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=g4llz4&amp;language=de_DE&amp;url=https%3A%2F%2Ffreakshow.fm&amp;title=Freak+Show&amp;description=Menschen%21+Technik%21+Sensationen%21" type="text/html"/>
+    <podboost:experiment name="Verbose Title and saturated images">
+      <podboost:variant title="Hi there, we are Freakoholics" image="http://www.example.com/image/high-contrast.png"> </podboost:variant>
+      <podboost:variant title="Hurray, we are Freakoholics" image="http://www.example.com/image/med-contrast.png"> </podboost:variant>
+    </podboost:experiment>
+    <item>
+      <title>FS233 API für Opi</title>
+      <link>https://freakshow.fm/fs233-api-fuer-opi</link>
+      <pubDate>Fri, 08 Mar 2019 15:12:07 +0000</pubDate>
+      <guid isPermaLink="false">podlove-2019-03-07t00:24:20+00:00-5780e031cbb775e</guid>
+      <description><![CDATA[Heute rekrutiert sich das Team ausnahmsweise ohne neuen Gast aus der Stammbesetzung und wir quatschen wie immer daher, wie es uns passt.]]></description>
+      <atom:link rel="http://podlove.org/deep-link" href="https://freakshow.fm/fs233-api-fuer-opi#"/>
+      <enclosure url="https://freakshow.fm/podlove/file/5914/s/feed/c/mp3/fs233-api-fuer-opi.mp3" length="148200360" type="audio/mpeg" bitlove:guid="https://freakshow.fm/podlove/file/5914"/>
+      <itunes:duration>04:06:15</itunes:duration>
+      <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+      <itunes:subtitle>CO2-Kompensation — Tageslängen und Zeitzonen — Demos — Barcelona — Elektroscooter — Pimp My Mac — Macs und ARM — Transkriptionen — Online Banking — USB4</itunes:subtitle>
+      <itunes:episode>233</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Heute rekrutiert sich das Team ausnahmsweise ohne neuen Gast aus der Stammbesetzung und wir quatschen wie immer daher, wie es uns passt.</itunes:summary>
+      <podboost:experiment name="Code titles and sharpy images">
+        <podboost:variant title="FS234" image="http://www.example.com/image/sharp.png"> </podboost:variant>
+        <podboost:variant title="FS235" image="http://www.example.com/image/sharp.png"> </podboost:variant>
+      </podboost:experiment>
+      <content:encoded><![CDATA[
+
+<p>Feedback zur Sendung?<br/>
+<strong><a href="https://freakshow.fm/fs233-api-fuer-opi#comments">Schreibe uns einen Kommentar</a></strong></p>
+
+
+
+<p><strong>CO2-Kompensation — Tageslängen und Zeitzonen — Demos — Barcelona — Elektroscooter — Pimp My Mac — Macs und ARM — Transkriptionen — Online Banking — USB4</strong></p>
+
+<p>Heute rekrutiert sich das Team ausnahmsweise ohne neuen Gast aus der Stammbesetzung und wir quatschen wie immer daher, wie es uns passt.</p>
+
+<p><strong>Dauer:</strong> 4:06:15</p>
+
+
+
+<table class="podlove-contributors-table">
+<tbody>
+<tr>
+<th colspan="2" class="contributor-group">
+On Air
+</th>
+</tr>
+<tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Tim Pritlove
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/timpritlove">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Website" href="http://metaebene.me">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Bitcoin" href="bitcoin:19unDNWVNsChMpjfhDYYBsrCi2SmBgyKRV">
+
+<img class="podlove-contributor-button" alt="Bitcoin Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Amazon Wishlist" href="http://amzn.to/2jYADm2">
+
+<img class="podlove-contributor-button" alt="Amazon Wishlist Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Liberapay" href="https://liberapay.com/timpritlove">
+
+<img class="podlove-contributor-button" alt="Liberapay Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="SEPA-Überweisung via Online-Banking-Software" href="bank://singlepaymentsepa?name=TIM%20PRITLOVE&reason=Spende%20Metaebene%20BZ&iban=DE56250501800142003698&bic=SPKHDE2H&amount=23%2C00">
+
+<img class="podlove-contributor-button" alt="SEPA-&#xDC;berweisung via Online-Banking-Software Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3QGDYX8LFLX4L">
+
+<img class="podlove-contributor-button" alt="Paypal Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/c1/21cff53f4e515d323d48f5dc96cda6/letty_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/c1/21cff53f4e515d323d48f5dc96cda6/letty_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/c1/21cff53f4e515d323d48f5dc96cda6/letty_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/c1/21cff53f4e515d323d48f5dc96cda6/letty_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Letty
+</td>
+<td class="social_cell">
+<a target="_blank" title="GitHub" href="https://github.com/letty">
+
+<img class="podlove-contributor-button" alt="GitHub Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Website" href="http://letty.io">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Twitter" href="https://twitter.com/lettebowskie">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Lettys Wunschliste" href="http://amzn.to/2jVc3lM">
+
+<img class="podlove-contributor-button" alt="Lettys Wunschliste Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/b2/425e5c8f180ddf548c95be1c2d7bcf/denis-ahrens_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/b2/425e5c8f180ddf548c95be1c2d7bcf/denis-ahrens_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/b2/425e5c8f180ddf548c95be1c2d7bcf/denis-ahrens_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/b2/425e5c8f180ddf548c95be1c2d7bcf/denis-ahrens_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Denis Ahrens
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/denis2342">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Amazon Wishlist" href="http://amzn.to/2i2QY8B">
+
+<img class="podlove-contributor-button" alt="Amazon Wishlist Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Bitcoin" href="bitcoin:1AF3itzDnBS2ks7KLnsLrSV32NxCWiEtvZ">
+
+<img class="podlove-contributor-button" alt="Bitcoin Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/9a/e990dd5df5a7252185e40a217cc858/roddi_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/9a/e990dd5df5a7252185e40a217cc858/roddi_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/9a/e990dd5df5a7252185e40a217cc858/roddi_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/9a/e990dd5df5a7252185e40a217cc858/roddi_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+roddi
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/roddi">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="GitHub" href="https://github.com/roddi">
+
+<img class="podlove-contributor-button" alt="GitHub Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Website" href="http://winkenschuerfel.de">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Amazon Wishlist" href="http://amzn.to/2q6je82">
+
+<img class="podlove-contributor-button" alt="Amazon Wishlist Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Bitcoin" href="bitcoin:1Jqtu8fgruJt3NAm15K7WSfRKsN8vXoCND">
+
+<img class="podlove-contributor-button" alt="Bitcoin Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<th colspan="2" class="contributor-group">
+Support
+</th>
+</tr>
+<tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/86/a5d95a6536f0648145221905ef79c2/janis-prefect_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/86/a5d95a6536f0648145221905ef79c2/janis-prefect_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/86/a5d95a6536f0648145221905ef79c2/janis-prefect_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/86/a5d95a6536f0648145221905ef79c2/janis-prefect_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Janis Prefect
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/janvondan">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Soundcloud" href="https://soundcloud.com/janvondan">
+
+<img class="podlove-contributor-button" alt="Soundcloud Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Studio Link On Air
+</td>
+<td class="social_cell">
+<a target="_blank" title="Website" href="https://studio-link.de">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Twitter" href="https://twitter.com/studio_link">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+</td>
+</tr></tbody>
+</table>
+
+
+
+
+
+<strong>Shownotes:</strong>
+
+<div id="osf_usnid_9427_blockstyle">
+<div class="osf_chapterbox">  <h2></h2> <span class="osf_chaptertime" data-time=""></span><p class="osf_items"> 
+<a href="https://www.klimatarier.com/de/CO2_Rechner">klimatarier.com: CO2 Rechner  |  Klimatarier.com</a>&nbsp;—&#32;<a href="https://bit.ly/2XIczTT">ptaff.ca: Sunrise, sunset, daylight in a graph</a>&nbsp;—&#32;<a href="https://www.zeit.de/wissen/2018-09/eu-kommission-jean-claude-juncker-zeitumstellung-abschaffung">ZEIT ONLINE: EU-Kommission: EU-Staaten sollen selbst &uuml;ber Zeitumstellung entscheiden</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/Time_in_Spain">Time in Spain</a>&nbsp;—&#32;<a href="https://www.riffreporter.de/erbe-umwelt-peter-spork/sommerzeit//?ref=oembed">RiffReporter: Warum die ganzj&auml;hrige Sommerzeit ein gro&szlig;er Fehler w&auml;re</a>&nbsp;—&#32;<a href="https://www.sueddeutsche.de/politik/urheberrechtsreform-eu-uploadfilter-1.4357372">S&uuml;ddeutsche.de: Die Zahl der Zweifler w&auml;chst</a>&nbsp;—&#32;<a href="https://twitter.com/asta_fish/status/1102551306525384704">twitter: &Aacute;sta Helgad&oacute;ttir on Twitter</a>&nbsp;—&#32;<a href="https://www.ted.com/talks/greta_thunberg_the_disarming_case_to_act_right_now_on_climate?language=en">TED: Greta Thunberg: The disarming case to act right now on climate change</a>&nbsp;—&#32;<a href="https://forschergeist.de/podcast/fg066-klimaneutralitaet/">forschergeist.de: FG066 Klimaneutralit&auml;t</a>&nbsp;—&#32;<a href="https://youtu.be/-s5SSD3OuqE">YouTube: ZDF Hitparade Abspann Dieter Thomas Heck</a> (<a href="https://www.youtube.com/watch?v=mOympMtG5Dk">YouTube: Mike Kr&uuml;ger - Der Nippel 1980</a>) &nbsp;—&#32;<a href="https://www.tomsguide.com/us/South-Korea-Sausages-iPhone-Stylus,news-5815.html">Tom&#039;s Guide: South Koreans Use Sausages as iPhone Stylus</a>&nbsp;—&#32;<a href="https://twitter.com/CaschysBlog/status/1103381674946121728">twitter: CaschysBlog on Twitter</a>&nbsp;—&#32;<a href="https://youtu.be/kutL9Rs8WXU">YouTube: Business Kasper</a>&nbsp;—&#32;<a href="https://www.presseportal.de/pm/7840/4077339">presseportal.de: ZDF und X Filme verfilmen H&ouml;rbuchbestseller &quot;Die K&auml;nguru-Chroniken&quot;</a>&nbsp;—&#32;<a href="https://www.amazon.de/gp/product/B077QHRLPB/?ie=UTF8&amp;linkCode=as2&amp;tag=mobilemacs-21">amzn.to: Xiaomi Unisex Youth Mi Scooter Elektro, mit 30 km Reichweite, Schwarz: Amazon.de: Sport &amp; Freizeit</a>&nbsp;—&#32;<a href="https://www.amazon.de/gp/product/B07MPCR5F9/?ie=UTF8&amp;linkCode=as2&amp;tag=mobilemacs-21">amazon.de: Elektromobil VITA CARE 2000 Seniorenmobil Senioren-Scooter mit Stra&szlig;enzulassung E-Scooter E-Roller Produktvideo, Schwarz: Amazon.de: Auto</a>&nbsp;—&#32;<a href="https://www.volkswagen-newsroom.com/de/streetmate-3560">Volkswagen Newsroom: Streetmate</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/M-Bahn">M-Bahn</a> (<a href="https://www.chinahandys.net/xiaomi-qicycle/">Chinahandys.net: Xiaomi QiCycle E-Bike Testbericht - Chinas bestes E-Bike im Test!</a>) &nbsp;—&#32;<a href="https://stadt-bremerhaven.de/skoda-klement-autohersteller-liebaeugelt-mit-smartem-e-bike/">stadt-bremerhaven.de: Skoda Klement: Autohersteller lieb&auml;ugelt mit smartem E-Bike</a>&nbsp;—&#32;<a href="http://www.spiegel.de/auto/aktuell/elektro-roller-der-e-scooter-ist-das-iphone-der-mobilitaet-a-1233559.html">SPIEGEL ONLINE: Roller bedrohen Autokonzerne: &quot;Der E-Scooter ist das iPhone der Mobilit&auml;t&quot;</a>&nbsp;—&#32;<a href="http://dosdude1.com/mojave/">dosdude1.com: macOS Mojave Patcher</a>&nbsp;—&#32;<a href="https://www.youtube.com/watch?v=ZLVvP3WCCI0">YouTube: Hackintosh a... REAL Mac?!</a>&nbsp;—&#32;<a href="https://amzn.to/2SMVV1B">amazon.de: Inateck Expresskarte 2 USB3.0 extern Ports und 1 20Pin USB3.0 intern Controller mit Low Profile, Keine Stromanbindung mehr erforderlich, Versorgung &uuml;ber den PCI-E Einschub</a>&nbsp;—&#32;<a href="https://amzn.to/2TlcN4x">amazon.de: Inateck USB 3.0 Karte 4 Port Pci Expresskarte f&uuml;r Mac Pro</a>&nbsp;—&#32;<a href="https://www.heise.de/newsticker/meldung/USB-4-bekommt-Hub-Topologie-4327190.html">heise online: USB 4 bekommt Hub-Topologie</a>&nbsp;—&#32;<a href="https://www.whitewall.com/de/foto-leinwand/textil">whitewall.com: Textildruck auf Tr&auml;gerrahmen bestellen | WhiteWall</a> (<a href="https://www.schaumstofflager.de/basotect/">Basotect &amp; Melaminharzschaumstoff online ab Lager bestellen - gro&szlig;e Auswahl und g&uuml;nstige Preise. Basotect f
+  2 1211k    2 31282    0     0  41653      0  0:00:29 --:--:--  0:00:29 41598&uuml;r Privat Gewerbe und Staat.: Basotect und Melaminharzschaumstoff kaufen</a>) &nbsp;—&#32;<a href="https://github.com/sbohmann/photobackup-server">GitHub: sbohmann/photobackup-server</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/Crab_Nebula">Crab Nebula</a>&nbsp;—&#32;<a href="https://www.wired.com/2014/02/mars-sand-panorama-curiosity/">WIRED: Curiosity Rover&#039;s Epic New Panorama of the Sands of Mars</a>&nbsp;—&#32;<a href="https://i.redd.it/3rkb1hit03qy.jpg">https://i.redd.it/3rkb1hit03qy.jpg</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/Hubble_Deep_Field">Hubble Deep Field</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/Pale_Blue_Dot">Pale Blue Dot</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Vantablack">Vantablack</a> (<a href="http://stuartsemple.com/project/black-v1-0-beta-worlds-mattest-flattest-black-art-material/">stuartsemple.com: BLACK 2.0 &ndash; The world&rsquo;s mattest, flattest, black art material | Stuart Semple: Official Homepage</a>) &nbsp;—&#32;<a href="https://www.kickstarter.com/projects/culturehustle/the-blackest-black-paint-in-the-world-black-30">Kickstarter: The blackest black paint in the world! Black 3.0</a>&nbsp;—&#32;<a href="https://www.geo.de/wissen/16043-rtkl-kein-photoshop-schwaerzestes-schwarz-laesst-objekte-verschwinden">geo: Vantablack-Nachfolger: Schw&auml;rzestes Schwarz l&auml;sst Objekte &quot;verschwinden&quot;</a>&nbsp;—&#32;<a href="https://apod.nasa.gov">apod.nasa.gov: Astronomy Picture of the Day</a>&nbsp;—&#32;<a href="https://unsplash.com/">Unsplash: Beautiful Free Images &amp; Pictures | Unsplash</a> (<a href="https://512pixels.net/projects/default-mac-wallpapers-in-5k/">512 Pixels: Every Default macOS Wallpaper &ndash; in Glorious 5K Resolution</a>) &nbsp;—&#32;<a href="https://www.kickstarter.com/projects/culturehustle/the-blackest-black-paint-in-the-world-black-30">kickstarter.com: The blackest black paint in the world! Black 3.0</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/P.A._Semi">P.A. Semi</a>&nbsp;—&#32;<a href="https://github.com/castvoid/xserve-frontpanel">GitHub: castvoid/xserve-frontpanel</a>&nbsp;—&#32;<a href="https://github.com/warpling/Macmoji">GitHub: warpling/Macmoji</a>&nbsp;—&#32;<a href="https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2017/meldung_170601_SEPA_Diskriminierung.html">BaFin: IBAN-Diskriminierung: Neue Beschwerdestelle bei der Wettbewerbszentrale</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Electronic_Banking_Internet_Communication_Standard">Electronic Banking Internet Communication Standard</a>&nbsp;—&#32;<a href="https://www.berlin-group.org/">berlin-group.org: the-berlin-group</a> (<a href="https://www.klarna.com/de/verkaeufer/produkte/klarna-open-banking/">klarna.com: Klarna Open banking - Klarna Deutschland</a>) &nbsp;—&#32;<a href="https://www.heise.de/newsticker/meldung/Aus-Thunderbolt-3-wird-USB-4-4324403.html">heise online: Aus Thunderbolt 3 wird USB 4</a>&nbsp;—&#32;<a href="https://www.heise.de/newsticker/meldung/USB-4-bekommt-Hub-Topologie-4327190.html">heise online: USB 4 bekommt Hub-Topologie</a>&nbsp;—&#32;<a href="https://www.macrumors.com/2019/02/26/usb-3-2-branding-changes/">macrumors.com: USB-IF Confusingly Merges USB 3.0 and USB 3.1 Under New USB 3.2 Branding</a> (<a href="https://sonomotors.com/de/sion/">Sono Motors: Elektroauto Sion &ndash; Sono Motors</a>) &nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Freie_Energie_(Parawissenschaft)">Freie Energie (Parawissenschaft)</a> (<a href="https://www.golem.de/news/e-home-coco-dethleffs-stellt-campinganhaenger-fuer-elektroautos-vor-1808-136251.html">Golem.de: E-Home Coco: Dethleffs stellt Campinganh&auml;nger f&uuml;r Elektroautos vor - Golem.de</a>) &nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Microchip_AVR">Microchip AVR</a>&nbsp;—&#32;<a href="https://github.com/osx-cross/homebrew-avr/commits/master">GitHub: osx-cross/homebrew-avr</a>.</p></div></div>
+
+
+<hr/>
+
+<hr />
+<img src="https://ir-de.amazon-adsystem.com/e/ir?t=mobilemacs-21&l=alb&o=3&a=B077QHRLPB" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /> <!--Section tag for iterating through the list of items-->
+<!-- Single product Ad Template Layout. Position of the Ad can be configured by specifying pull-left or pull-right class below-->
+<div class="aalb-pa-ad-unit pull-left" id="aalb-B077QHRLPB-DE-mobilemacs-21-ProductAd">
+   <div class="aalb-pa-product-container">
+           <!-- Section tag for beginning of information on one item -->
+             <!-- Section tag for picking up information on attributes for the item -->
+                <div class="aalb-pa-product-image">
+                  <div class="aalb-pa-product-image-wrapper">
+                    <a class="aalb-pa-product-image-link" href="https://www.amazon.de/Xiaomi-Scooter-Elektro-Reichweite-Schwarz/dp/B077QHRLPB?psc=1&amp;SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B077QHRLPB" title="Xiaomi Unisex Youth Mi Scooter Elektro, mit 30 km Reichweite, Schwarz" target="_blank" rel="nofollow"> <!--Individual attributes are provided as variable tags as . Check documentation for list of supported variable tags.-->
+                      <img class="aalb-pa-product-image-source" src="https://images-eu.ssl-images-amazon.com/images/I/41ZMSjFr2AL._SL160_.jpg" srcset="https://images-eu.ssl-images-amazon.com/images/I/41ZMSjFr2AL.jpg" alt="Xiaomi Unisex Youth Mi Scooter Elektro, mit 30 km Reichweite, Schwarz" />
+                                            </a>
+                  </div>
+                </div>
+                <div class="aalb-pa-product-details">
+                  <div class="aalb-pa-product-title">
+                    <a href="https://www.amazon.de/Xiaomi-Scooter-Elektro-Reichweite-Schwarz/dp/B077QHRLPB?psc=1&amp;SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B077QHRLPB" title="Xiaomi Unisex Youth Mi Scooter Elektro, mit 30 km Reichweite, Schwarz" target="_blank" rel="nofollow">
+                      Xiaomi Unisex Youth Mi Scooter Elektro, mit 30 km Reichweite, Schwarz
+                    </a>
+                  </div>
+                  <div class="aalb-pa-product-offer-price">
+                    <!-- The section tag for different marketplaces ensures localization of static text.  -->
+                    Preis: <span class="aalb-pa-product-offer-price-value">EUR 399,00</span>
+                  </div>
+                                     <!-- The section tag ensures that prime icon is displayed only if it is available -->
+                    <div class="aalb-pa-product-prime-icon">
+                        <i class="icon-prime-all"></i>
+                    </div>
+                </div>
+      </div>
+   </div>
+
+
+ <img src="https://ir-de.amazon-adsystem.com/e/ir?t=mobilemacs-21&l=alb&o=3&a=B07MPCR5F9" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /> <!--Section tag for iterating through the list of items-->
+<!-- Single product Ad Template Layout. Position of the Ad can be configured by specifying pull-left or pull-right class below-->
+<div class="aalb-pa-ad-unit pull-left" id="aalb-B07MPCR5F9-DE-mobilemacs-21-ProductAd">
+   <div class="aalb-pa-product-container">
+           <!-- Section tag for beginning of information on one item -->
+             <!-- Section tag for picking up information on attributes for the item -->
+                <div class="aalb-pa-product-image">
+                  <div class="aalb-pa-product-image-wrapper">
+                    <a class="aalb-pa-product-image-link" href="https://www.amazon.de/2000-Seniorenmobil-Senioren-Scooter-Stra%C3%9Fenzulassung-Schwarz/dp/B07MPCR5F9?psc=1&amp;SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B07MPCR5F9" title="Elektromobil VITA CARE 2000 Seniorenmobil Senioren-Scooter mit Straßenzulassung E-Scooter E-Roller Produktvideo, Schwarz" target="_blank" rel="nofollow"> <!--Individual attributes are provided as variable tags as . Check documentation for list of supported variable tags.-->
+                      <img class="aalb-pa-product-image-source" src="https://images-eu.ssl-images-amazon.com/images/I/41OT2OanZ0L._SL160_.jpg" srcset="https://images-eu.ssl-images-amazon.com/images/I/41OT2OanZ0L.jpg" alt="Elektromobil VITA CARE 2000 Seniorenmobil Senioren-Scooter mit Straßenzulassung E-Scooter E-Roller Produktvideo, Schwarz" />
+                                            </a>
+                  </div>
+                </div>
+                <div class="aalb-pa-product-details">
+                  <div class="aalb-pa-product-title">
+                    <a href="https://www.amazon.de/2000-Seniorenmobil-Senioren-Scooter-Stra%C3%9Fenzulassung-Schwarz/dp/B07MPCR5F9?psc=1&amp;SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B07MPCR5F9" title="Elektromobil VITA CARE 2000 Seniorenmobil Senioren-Scooter mit Straßenzulassung E-Scooter E-Roller Produktvideo, Schwarz" target="_blank" rel="nofollow">
+                      Elektromobil VITA CARE 2000 Seniorenmobil Senioren-Scooter mit Straßenzulassung E-Scooter E-Roller Produktvideo, Schwarz
+                    </a>
+                  </div>
+                  <div class="aalb-pa-product-offer-price">
+                    <!-- The section tag for different marketplaces ensures localization of static text.  -->
+                    Preis: <span class="aalb-pa-product-offer-price-value">EUR 1.799,00</span>
+                  </div>
+                                                    </div>
+      </div>
+   </div>
+
+
+ <img src="https://ir-de.amazon-adsystem.com/e/ir?t=mobilemacs-21&l=alb&o=3&a=B00JEVLEFQ" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /> <!--Section tag for iterating through the list of items-->
+<!-- Single product Ad Template Layout. Position of the Ad can be configured by specifying pull-left or pull-right class below-->
+<div class="aalb-pa-ad-unit pull-left" id="aalb-B00JEVLEFQ-DE-mobilemacs-21-ProductAd">
+   <div class="aalb-pa-product-container">
+           <!-- Section tag for beginning of information on one item -->
+             <!-- Section tag for picking up information on attributes for the item -->
+                <div class="aalb-pa-product-image">
+                  <div class="aalb-pa-product-image-wrapper">
+                    <a class="aalb-pa-product-image-link" href="https://www.amazon.de/Inateck-Expresskarte-Controller-Stromanbindung-erforderlich/dp/B00JEVLEFQ?SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00JEVLEFQ" title="Inateck Expresskarte 2 USB3.0 extern Ports und 1 20Pin USB3.0 intern Controller mit Low Profile, Keine Stromanbindung mehr erforderlich, Versorgung über den PCI-E Einschub" target="_blank" rel="nofollow"> <!--Individual attributes are provided as variable tags as . Check documentation for list of supported variable tags.-->
+                      <img class="aalb-pa-product-image-source" src="https://images-eu.ssl-images-amazon.com/images/I/51xsxZq5XxL._SL160_.jpg" srcset="https://images-eu.ssl-images-amazon.com/images/I/51xsxZq5XxL.jpg" alt="Inateck Expresskarte 2 USB3.0 extern Ports und 1 20Pin USB3.0 intern Controller mit Low Profile, Keine Stromanbindung mehr erforderlich, Versorgung über den PCI-E Einschub" />
+                                            </a>
+                  </div>
+                </div>
+                <div class="aalb-pa-product-details">
+                  <div class="aalb-pa-product-title">
+                    <a href="https://www.amazon.de/Inateck-Expresskarte-Controller-Stromanbindung-erforderlich/dp/B00JEVLEFQ?SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00JEVLEFQ" title="Inateck Expresskarte 2 USB3.0 extern Ports und 1 20Pin USB3.0 intern Controller mit Low Profile, Keine Stromanbindung mehr erforderlich, Versorgung über den PCI-E Einschub" target="_blank" rel="nofollow">
+                      Inateck Expresskarte 2 USB3.0 extern Ports und 1 20Pin USB3.0 intern Controller mit Low Profile, Keine Stromanbindung mehr erforderlich, Versorgung über den PCI-E Einschub
+                    </a>
+                  </div>
+                  <div class="aalb-pa-product-offer-price">
+                    <!-- The section tag for different marketplaces ensures localization of static text.  -->
+                    Preis: <span class="aalb-pa-product-offer-price-value">EUR 19,99</span>
+                  </div>
+                                     <!-- The section tag ensures that prime icon is displayed only if it is available -->
+                    <div class="aalb-pa-product-prime-icon">
+                        <i class="icon-prime-all"></i>
+                    </div>
+                </div>
+      </div>
+   </div>
+
+
+ <img src="https://ir-de.amazon-adsystem.com/e/ir?t=mobilemacs-21&l=alb&o=3&a=B00HJ1DULE" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /> <!--Section tag for iterating through the list of items-->
+<!-- Single product Ad Template Layout. Position of the Ad can be configured by specifying pull-left or pull-right class below-->
+<div class="aalb-pa-ad-unit pull-left" id="aalb-B00HJ1DULE-DE-mobilemacs-21-ProductAd">
+   <div class="aalb-pa-product-container">
+           <!-- Section tag for beginning of information on one item -->
+             <!-- Section tag for picking up information on attributes for the item -->
+                <div class="aalb-pa-product-image">
+                  <div class="aalb-pa-product-image-wrapper">
+                    <a class="aalb-pa-product-image-link" href="https://www.amazon.de/Inateck-USB-Karte-Port-Expresskarte/dp/B00HJ1DULE?SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00HJ1DULE" title="Inateck USB 3.0 Karte 4 Port Pci Expresskarte für Mac Pro" target="_blank" rel="nofollow"> <!--Individual attributes are provided as variable tags as . Check documentation for list of supported variable tags.-->
+                      <img class="aalb-pa-product-image-source" src="https://images-eu.ssl-images-amazon.com/images/I/412xHK2EzxL._SL160_.jpg" srcset="https://images-eu.ssl-images-amazon.com/images/I/412xHK2EzxL.jpg" alt="Inateck USB 3.0 Karte 4 Port Pci Expresskarte für Mac Pro" />
+                                            </a>
+                  </div>
+                </div>
+                <div class="aalb-pa-product-details">
+                  <div class="aalb-pa-product-title">
+                    <a href="https://www.amazon.de/Inateck-USB-Karte-Port-Expresskarte/dp/B00HJ1DULE?SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00HJ1DULE" title="Inateck USB 3.0 Karte 4 Port Pci Expresskarte für Mac Pro" target="_blank" rel="nofollow">
+                      Inateck USB 3.0 Karte 4 Port Pci Expresskarte für Mac Pro
+                    </a>
+                  </div>
+                  <div class="aalb-pa-product-offer-price">
+                    <!-- The section tag for different marketplaces ensures localization of static text.  -->
+                    Preis: <span class="aalb-pa-product-offer-price-value">EUR 25,99</span>
+                  </div>
+                                     <!-- The section tag ensures that prime icon is displayed only if it is available -->
+                    <div class="aalb-pa-product-prime-icon">
+                        <i class="icon-prime-all"></i>
+                    </div>
+                </div>
+      </div>
+   </div>
+
+
+ </p>
+]]></content:encoded>
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+        <psc:chapter start="00:00:00.000" title="Intro"/>
+        <psc:chapter start="00:02:35.004" title="Begrüßung"/>
+        <psc:chapter start="00:04:28.227" title="CO2-Kompensation"/>
+        <psc:chapter start="00:12:57.091" title="Tageslängen und Zeitzonen"/>
+        <psc:chapter start="00:25:58.674" title="Demos gegen Artikel 13"/>
+        <psc:chapter start="00:33:55.615" title="Demos gegen Klimawandel"/>
+        <psc:chapter start="00:45:47.163" title="Verpackungswahn"/>
+        <psc:chapter start="00:56:30.385" title="Artikel 13: Protestbrief"/>
+        <psc:chapter start="00:57:48.530" title="Barcelona"/>
+        <psc:chapter start="01:12:18.855" title="Elektroscooter"/>
+        <psc:chapter start="01:34:00.767" title="Pimp My Mac"/>
+        <psc:chapter start="01:46:48.941" title="Bilderrahmen"/>
+        <psc:chapter start="02:15:16.775" title="Über Macs reden"/>
+        <psc:chapter start="02:20:39.999" title="ARM Macs"/>
+        <psc:chapter start="02:58:58.603" title="Podcast-Transkription"/>
+        <psc:chapter start="03:16:08.213" title="Xserve"/>
+        <psc:chapter start="03:23:06.900" title="Macmoji"/>
+        <psc:chapter start="03:27:09.098" title="Banking im Ausland"/>
+        <psc:chapter start="03:43:43.423" title="USB 4"/>
+        <psc:chapter start="03:48:11.640" title="E-Auto Ladebuchsen"/>
+        <psc:chapter start="03:59:17.116" title="AVR Development"/>
+        <psc:chapter start="04:03:36.967" title="Ausklang"/>
+      </psc:chapters>
+      <atom:contributor>
+        <atom:name>Tim Pritlove</atom:name>
+        <atom:uri>http://tim.pritlove.org/</atom:uri>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Letty</atom:name>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Denis Ahrens</atom:name>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>roddi</atom:name>
+      </atom:contributor>
+      <itunes:season>2</itunes:season>
+      <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=g4llz4&amp;language=de_DE&amp;url=https%3A%2F%2Ffreakshow.fm%2Ffs233-api-fuer-opi&amp;title=FS233+API+f%C3%BCr+Opi&amp;description=Heute+rekrutiert+sich+das+Team+ausnahmsweise+ohne+neuen+Gast+aus+der+Stammbesetzung+und+wir+quatschen+wie+immer+daher%2C+wie+es+uns+passt." type="text/html"/>
+    </item>
+    <item>
+      <title>FS232 Wurstkatastrophe im Bällebad</title>
+      <link>https://freakshow.fm/fs232-wurstkatastrophe-im-baellebad</link>
+      <pubDate>Thu, 21 Feb 2019 01:24:45 +0000</pubDate>
+      <guid isPermaLink="false">podlove-2019-02-20t23:47:22+00:00-49f701b4777fbe1</guid>
+      <description><![CDATA[Zum dritten Mal hintereinander begrüßen wir einen Gast in unserer Sendung: der Künstler Niklas Roy berichtet von seinem Kunstverständnis und wie er an seine vielfältigen Projekte herangeht, sie dokumentiert und Kunst durch Dokumentation und Workshops zugänglich macht. Außerdem rätseln wir noch ein wenig darüber, warum es wo wie schnell und wie lange hell oder dunkel wird oder bleibt und beweisen unser tiefgreifendes astronomisches Grundverständnis. Gegen Ende berichtet Tim von ersten Erlebnissen und Supermärkten und Shopping Malls in Barcelona und rätseln, wie man mit sprechenden Zylindern Sprachen lernen kann.]]></description>
+      <atom:link rel="http://podlove.org/deep-link" href="https://freakshow.fm/fs232-wurstkatastrophe-im-baellebad#"/>
+      <enclosure url="https://freakshow.fm/podlove/file/5666/s/feed/c/mp3/fs232-wurstkatastrophe-im-baellebad.mp3" length="139776894" type="audio/mpeg" bitlove:guid="https://freakshow.fm/podlove/file/5666"/>
+      <itunes:duration>03:52:57</itunes:duration>
+      <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+      <itunes:subtitle>Heimcomputer — Kunst — Grafiksoftware — Workshops — Kunst und offene Lizenzen — E-Roller Security</itunes:subtitle>
+      <itunes:episode>232</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Zum dritten Mal hintereinander begrüßen wir einen Gast in unserer Sendung: der Künstler Niklas Roy berichtet von seinem Kunstverständnis und wie er an seine vielfältigen Projekte herangeht, sie dokumentiert und Kunst durch Dokumentation und Workshops zugänglich macht. Außerdem rätseln wir noch ein wenig darüber, warum es wo wie schnell und wie lange hell oder dunkel wird oder bleibt und beweisen unser tiefgreifendes astronomisches Grundverständnis. Gegen Ende berichtet Tim von ersten Erlebnissen und Supermärkten und Shopping Malls in Barcelona und rätseln, wie man mit sprechenden Zylindern Sprachen lernen kann.</itunes:summary>
+      <content:encoded><![CDATA[
+
+<p>Feedback zur Sendung?<br/>
+<strong><a href="https://freakshow.fm/fs232-wurstkatastrophe-im-baellebad#comments">Schreibe uns einen Kommentar</a></strong></p>
+
+
+
+<p><strong>Heimcomputer — Kunst — Grafiksoftware — Workshops — Kunst und offene Lizenzen — E-Roller Security</strong></p>
+
+<p>Zum dritten Mal hintereinander begrüßen wir einen Gast in unserer Sendung: der Künstler Niklas Roy berichtet von seinem Kunstverständnis und wie er an seine vielfältigen Projekte herangeht, sie dokumentiert und Kunst durch Dokumentation und Workshops zugänglich macht. Außerdem rätseln wir noch ein wenig darüber, warum es wo wie schnell und wie lange hell oder dunkel wird oder bleibt und beweisen unser tiefgreifendes astronomisches Grundverständnis. Gegen Ende berichtet Tim von ersten Erlebnissen und Supermärkten und Shopping Malls in Barcelona und rätseln, wie man mit sprechenden Zylindern Sprachen lernen kann.</p>
+
+<p><strong>Dauer:</strong> 3:52:57</p>
+
+
+
+<table class="podlove-contributors-table">
+<tbody>
+<tr>
+<th colspan="2" class="contributor-group">
+On Air
+</th>
+</tr>
+<tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Tim Pritlove
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/timpritlove">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Website" href="http://metaebene.me">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Bitcoin" href="bitcoin:19unDNWVNsChMpjfhDYYBsrCi2SmBgyKRV">
+
+<img class="podlove-contributor-button" alt="Bitcoin Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Amazon Wishlist" href="http://amzn.to/2jYADm2">
+
+<img class="podlove-contributor-button" alt="Amazon Wishlist Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Liberapay" href="https://liberapay.com/timpritlove">
+
+<img class="podlove-contributor-button" alt="Liberapay Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="SEPA-Überweisung via Online-Banking-Software" href="bank://singlepaymentsepa?name=TIM%20PRITLOVE&reason=Spende%20Metaebene%20BZ&iban=DE56250501800142003698&bic=SPKHDE2H&amount=23%2C00">
+
+<img class="podlove-contributor-button" alt="SEPA-&#xDC;berweisung via Online-Banking-Software Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3QGDYX8LFLX4L">
+
+<img class="podlove-contributor-button" alt="Paypal Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/b2/425e5c8f180ddf548c95be1c2d7bcf/denis-ahrens_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/b2/425e5c8f180ddf548c95be1c2d7bcf/denis-ahrens_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/b2/425e5c8f180ddf548c95be1c2d7bcf/denis-ahrens_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/b2/425e5c8f180ddf548c95be1c2d7bcf/denis-ahrens_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Denis Ahrens
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/denis2342">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Amazon Wishlist" href="http://amzn.to/2i2QY8B">
+
+<img class="podlove-contributor-button" alt="Amazon Wishlist Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Bitcoin" href="bitcoin:1AF3itzDnBS2ks7KLnsLrSV32NxCWiEtvZ">
+
+<img class="podlove-contributor-button" alt="Bitcoin Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/8e/f30cbe274c3f5e43dc4a7219676f50/hukl_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/8e/f30cbe274c3f5e43dc4a7219676f50/hukl_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/8e/f30cbe274c3f5e43dc4a7219676f50/hukl_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/8e/f30cbe274c3f5e43dc4a7219676f50/hukl_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+hukl
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/hukl">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="GitHub" href="https://github.com/hukl">
+
+<img class="podlove-contributor-button" alt="GitHub Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="SMYCK" href="http://smyck.net">
+
+<img class="podlove-contributor-button" alt="SMYCK Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Thomann Wishlist" href="http://www.thomann.de/de/wishlist_4u_0af163b22f6e.html">
+
+<img class="podlove-contributor-button" alt="Thomann Wishlist Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/e6/bf74ef5988ef9e60faa18904a2acd5/thomann-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/e6/bf74ef5988ef9e60faa18904a2acd5/thomann-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/e6/bf74ef5988ef9e60faa18904a2acd5/thomann-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/e6/bf74ef5988ef9e60faa18904a2acd5/thomann-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Amazon Wishlist" href="http://amzn.to/2rC5wLw">
+
+<img class="podlove-contributor-button" alt="Amazon Wishlist Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Bitcoin" href="bitcoin:1PcuTtgeoeqCAw4ys1krihUmFWqfSsThjJ">
+
+<img class="podlove-contributor-button" alt="Bitcoin Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/80/fee35f53ee3645f9891d8f4575ded1/niklas-roy_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/80/fee35f53ee3645f9891d8f4575ded1/niklas-roy_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/80/fee35f53ee3645f9891d8f4575ded1/niklas-roy_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/80/fee35f53ee3645f9891d8f4575ded1/niklas-roy_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Niklas Roy
+</td>
+<td class="social_cell">
+<a target="_blank" title="Website" href="http://niklasroy.com">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Twitter" href="https://twitter.com/royrobotiks">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+</td>
+</tr><tr>
+<th colspan="2" class="contributor-group">
+Support
+</th>
+</tr>
+<tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/e3/0e1625d65c32720b76624262bfdc59/rainer_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/e3/0e1625d65c32720b76624262bfdc59/rainer_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/e3/0e1625d65c32720b76624262bfdc59/rainer_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/e3/0e1625d65c32720b76624262bfdc59/rainer_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Rainer
+</td>
+<td class="social_cell">
+<a target="_blank" title="Soundcloud" href="https://soundcloud.com/abcdev">
+
+<img class="podlove-contributor-button" alt="Soundcloud Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Twitter" href="https://twitter.com/MrSingularity">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Bitcoin" href="bitcoin:1GnBs3GJsF1Cj6g1dKU6sq6G8bTPELsQYn">
+
+<img class="podlove-contributor-button" alt="Bitcoin Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Studio Link On Air
+</td>
+<td class="social_cell">
+<a target="_blank" title="Website" href="https://studio-link.de">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Twitter" href="https://twitter.com/studio_link">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+</td>
+</tr></tbody>
+</table>
+
+
+
+
+
+<strong>Shownotes:</strong>
+
+<div id="osf_usnid_9418_blockstyle">
+<div class="osf_chapterbox">  <h2></h2> <span class="osf_chaptertime" data-time=""></span><p class="osf_items"> 
+<a href="https://de.wikipedia.org/wiki/Texas_Instruments_TI-99/4A">Wikipedia: Texas Instruments TI-99/4A</a>&nbsp;—&#32;<a href="https://www.youtube.com/watch?v=kUPkCNcT1Yw">1983 ti99 computer with voice synthesizer telling it&#039;s story.</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Mario_Kart">Wikipedia: Mario Kart</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Nintendo_Switch">Wikipedia: Nintendo Switch</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Amiga_2000">Wikipedia: Amiga 2000</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Adobe_Flash">Wikipedia: Adobe Flash</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/FreeHand">Wikipedia: FreeHand</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Affinity_Designer">Wikipedia: Affinity Designer</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Affinity_Photo">Wikipedia: Affinity Photo</a>&nbsp;—&#32;<a href="https://www.blackmagicdesign.com/products/davinciresolve/">blackmagicdesign.com: DaVinci Resolve</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Transmediale">Wikipedia: Transmediale</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Museum_of_Modern_Art">Wikipedia: Museum of Modern Art</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Ólafur_El%C3%ADasson">Wikipedia: &Oacute;lafur El&iacute;asson</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Verhüllter_Reichstag">Wikipedia: Verh&uuml;llter Reichstag</a>&nbsp;—&#32;<a href="https://www.niklasroy.com/project/88/my-little-piece-of-privacy">Niklas Roy: My Little Piece of Privacy</a>&nbsp;—&#32;<a href="https://www.niklasroy.com/project/31/pongmechanik">Niklas Roy: Pongmechanik</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Allan_Alcorn">Wikipedia: Allan Alcorn</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Painstation">Wikipedia: Painstation</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Computerspielemuseum_Berlin">Wikipedia: Computerspielemuseum Berlin</a>&nbsp;—&#32;<a href="https://arambartholl.com/map/">Aram Bartholl: Map</a>&nbsp;—&#32;<a href="https://niklasroy.com/wasserorgelvonwinnenden/">Niklas Roy: Wasserorgel von Winnenden</a>&nbsp;—&#32;<a href="https://www.pjrc.com/teensy/">Teensy</a>&nbsp;—&#32;<a href="https://niklasroy.com/bubbleblast/">Niklas Roy: Bubbleblast</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/Ultimaker">Wikipedia: Ultimaker</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Allseitenrad">Wikipedia: Allseitenrad</a>&nbsp;—&#32;<a href="https://www.niklasroy.com/workshop/148/">Niklas Roy: Cardboard Computer</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Finnpappe">Wikipedia: Finnpappe</a>&nbsp;—&#32;<a href="https://www.niklasroy.com/project/149/cardboard_plotter">Niklas Roy: Cardboard Plotter</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Tischtennisball">Wikipedia: Tischtennisball</a>&nbsp;—&#32;<a href="https://www.youtube.com/watch?v=99N9SU8ItXk">2538 Tischtennisb&auml;lle anz&uuml;nden</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Theorie_der_endlichen_Kugelpackungen">Wikipedia: Theorie der endlichen Kugelpackungen</a>&nbsp;—&#32;<a href="https://www.niklasroy.com/project/170/suck-the-balls">Niklas Roy: Suck the balls</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Farbsortierer">Wikipedia: Farbsortierer</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Venturi-Durchflussmessung">Wikipedia: Venturi-Durchflussmessung</a>&nbsp;—&#32;<a href="https://www.atmosfair.de/de/">Atmosfair</a>&nbsp;—&#32;<a href="https://www.primaklima.org">Prima Klima</a>&nbsp;—&#32;<a href="https://de.myclimate.org/de/">myclimate</a>&nbsp;—&#32;<a href="https://forschergeist.de/podcast/fg066-klimaneutralitaet/">Forschergeist FG066 Klimaneutralit&auml;t</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Frühlingspunkt">Wikipedia: Fr&uuml;hlingspunkt</a>&nbsp;—&#32;<a href="https://bit.ly/2SiZA6U">Tageszeitenvergleich Barcelona vs. Berlin</a>&nbsp;—&#32;<a href="https://www.tagesspiegel.de/wissen/aha-warum-wird-es-am-aequator-schlagartig-dunkel/1094830.html">Warum wird es am &Auml;quator schlagartig dunkel?</a>&nbsp;—&#32;<a href="https://in-the-sky.org/twilightmap.php">Twilight Map</a>&nbsp;—&#32;<a href="https://m.youtube.com/watch?v=PAYiHp9QUwE">Monty Python: Ungar im Tabakwarenladen</a>&nbsp;—&#32;<a href="https://deepl.com">DeepL Translator</a>&nbsp;—&#32;<a href="https://www.heise.de/newsticker/meldung/Xiaomi-Scooter-laessst-sich-ueber-Bluetooth-kapern-4307588.html">heise online: Xiaomi-Scooter l&auml;sst sich &uuml;ber Bluetooth kapern</a> (<a href="https://blog.zimperium.com/dont-give-me-a-brake-xiaomi-scooter-hack-enables-dangerous-accelerations-and-stops-for-unsuspecting-riders/">Zimperium Mobile Security Blog: Don&#039;t Give Me a Brake - Xiaomi Scooter Hack Enables Dangerous</a>) &nbsp;—&#32;<a href="https://foxnomad.com/2016/04/26/map-wireless-passwords-airports-lounges-around-world-updated-regularly/">A Map Of Wireless Passwords From Airports And Lounges Around The World</a>.</p></div></div>
+
+
+<hr/>
+
+<hr />
+<img src="https://ir-de.amazon-adsystem.com/e/ir?t=mobilemacs-21&l=alb&o=3&a=B000LB7G00" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /> <!--Section tag for iterating through the list of items-->
+<!-- Single product Ad Template Layout. Position of the Ad can be configured by specifying pull-left or pull-right class below-->
+<div class="aalb-pa-ad-unit pull-left" id="aalb-B000LB7G00-DE-mobilemacs-21-ProductAd">
+   <div class="aalb-pa-product-container">
+           <!-- Section tag for beginning of information on one item -->
+             <!-- Section tag for picking up information on attributes for the item -->
+                <div class="aalb-pa-product-image">
+                  <div class="aalb-pa-product-image-wrapper">
+                    <a class="aalb-pa-product-image-link" href="https://www.amazon.de/3DConnexion-SpaceNavigator-3D-Maus-USB-schnurgebunden-schwarz/dp/B000LB7G00?SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000LB7G00" title="3DConnexion SpaceNavigator 3D-Maus, USB-schnurgebunden, schwarz" target="_blank" rel="nofollow"> <!--Individual attributes are provided as variable tags as . Check documentation for list of supported variable tags.-->
+                      <img class="aalb-pa-product-image-source" src="https://images-eu.ssl-images-amazon.com/images/I/417Vll2NOSL._SL160_.jpg" srcset="https://images-eu.ssl-images-amazon.com/images/I/417Vll2NOSL.jpg" alt="3DConnexion SpaceNavigator 3D-Maus, USB-schnurgebunden, schwarz" />
+                                            </a>
+                  </div>
+                </div>
+                <div class="aalb-pa-product-details">
+                  <div class="aalb-pa-product-title">
+                    <a href="https://www.amazon.de/3DConnexion-SpaceNavigator-3D-Maus-USB-schnurgebunden-schwarz/dp/B000LB7G00?SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000LB7G00" title="3DConnexion SpaceNavigator 3D-Maus, USB-schnurgebunden, schwarz" target="_blank" rel="nofollow">
+                      3DConnexion SpaceNavigator 3D-Maus, USB-schnurgebunden, schwarz
+                    </a>
+                  </div>
+                  <div class="aalb-pa-product-offer-price">
+                    <!-- The section tag for different marketplaces ensures localization of static text.  -->
+                    Preis: <span class="aalb-pa-product-offer-price-value">Hier auf Amazon.de</span>
+                  </div>
+                                                    </div>
+      </div>
+   </div>
+
+
+
+]]></content:encoded>
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+        <psc:chapter start="00:00:00.000" title="Intro"/>
+        <psc:chapter start="00:01:05.487" title="Begrüßung"/>
+        <psc:chapter start="00:02:49.929" title="Niklas Roy"/>
+        <psc:chapter start="00:06:37.296" title="Heimcomputer und Spielekonsolen"/>
+        <psc:chapter start="00:26:43.783" title="Grafiksoftware"/>
+        <psc:chapter start="00:52:53.700" title="Kunst"/>
+        <psc:chapter start="01:20:36.552" title="Niklas' Projekte"/>
+        <psc:chapter start="01:52:37.380" title="Steuerung und Workshops"/>
+        <psc:chapter start="02:18:36.623" title="Dokumentation und freie Lizenzen"/>
+        <psc:chapter start="02:51:01.220" title="Neues aus Barcelona"/>
+        <psc:chapter start="03:39:05.059" title="E-Roller Security"/>
+        <psc:chapter start="03:47:41.674" title="Free Wifi an Flughäfen"/>
+        <psc:chapter start="03:50:57.677" title="Ausklang"/>
+      </psc:chapters>
+      <atom:contributor>
+        <atom:name>Tim Pritlove</atom:name>
+        <atom:uri>http://tim.pritlove.org/</atom:uri>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Denis Ahrens</atom:name>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>hukl</atom:name>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Niklas Roy</atom:name>
+      </atom:contributor>
+      <itunes:season>2</itunes:season>
+      <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=g4llz4&amp;language=de_DE&amp;url=https%3A%2F%2Ffreakshow.fm%2Ffs232-wurstkatastrophe-im-baellebad&amp;title=FS232+Wurstkatastrophe+im+B%C3%A4llebad&amp;description=Zum+dritten+Mal+hintereinander+begr%C3%BC%C3%9Fen+wir+einen+Gast+in+unserer+Sendung%3A+der+K%C3%BCnstler+Niklas+Roy+berichtet+von+seinem+Kunstverst%C3%A4ndnis+und+wie+er+an+seine+vielf%C3%A4ltigen+Projekte+herangeht%2C+sie+dokumentiert+und+Kunst+durch+Dokumentation+und+Workshops+zug%C3%A4nglich+macht.+Au%C3%9Ferdem+r%C3%A4tseln+wir+noch+ein+wenig+dar%C3%BCber%2C+warum+es+wo+wie+schnell+und+wie+lange+hell+oder+dunkel+wird+oder+bleibt+und+beweisen+unser+tiefgreifendes+astronomisches+Grundverst%C3%A4ndnis.+Gegen+Ende+berichtet+Tim+von+ersten+Erlebnissen+und+Superm%C3%A4rkten+und+Shopping+Malls+in+Barcelona+und+r%C3%A4tseln%2C+wie+man+mit+sprechenden+Zylindern+Sprachen+lernen+kann." type="text/html"/>
+    </item>
+    <item>
+      <title>FS231 Marmorkuchenstadt Hommelbach</title>
+      <link>https://freakshow.fm/fs231-marmorkuchenstadt-hommelbach</link>
+      <pubDate>Thu, 07 Feb 2019 01:29:20 +0000</pubDate>
+      <guid isPermaLink="false">podlove-2019-02-03t00:45:23+00:00-59a09ef6d129943</guid>
+      <description><![CDATA[Die letzte Sendung vor Tims Abreise nach Barcelona bringt noch einen neuen Gast in die Runde: wir begrüßen Sabine aka. @bleeptrack und sprechen viel über ihre zahlreichen Hackereien und Erkläereien auf YouTube und ihr Engament bei Jugend hackt und anderen Initiativen und Hackerspaces. Dabei kommen wir gewohnt vom Hölzchen aufs Stöckchen und schaffen wieder unsere vier Stunden. Viel Spaß damit.]]></description>
+      <atom:link rel="http://podlove.org/deep-link" href="https://freakshow.fm/fs231-marmorkuchenstadt-hommelbach#"/>
+      <enclosure url="https://freakshow.fm/podlove/file/5634/s/feed/c/mp3/fs231-marmorkuchenstadt-hommelbach.mp3" length="148019306" type="audio/mpeg" bitlove:guid="https://freakshow.fm/podlove/file/5634"/>
+      <itunes:duration>04:05:57</itunes:duration>
+      <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+      <itunes:subtitle>Generative Art — Douglas Adams — Jugend hackt — Lernen durch Erklären — Japan — NFC — Lorawan — Wikidata — SUBSCRIBE 10 — WordPress — Static Website Generators — Ultrawide Monitore — iPhone Xs — Costa Rica</itunes:subtitle>
+      <itunes:episode>231</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Die letzte Sendung vor Tims Abreise nach Barcelona bringt noch einen neuen Gast in die Runde: wir begrüßen Sabine aka. @bleeptrack und sprechen viel über ihre zahlreichen Hackereien und Erkläereien auf YouTube und ihr Engament bei Jugend hackt und anderen Initiativen und Hackerspaces. Dabei kommen wir gewohnt vom Hölzchen aufs Stöckchen und schaffen wieder unsere vier Stunden. Viel Spaß damit.</itunes:summary>
+      <content:encoded><![CDATA[
+
+<p>Feedback zur Sendung?<br/>
+<strong><a href="https://freakshow.fm/fs231-marmorkuchenstadt-hommelbach#comments">Schreibe uns einen Kommentar</a></strong></p>
+
+
+
+<p><strong>Generative Art — Douglas Adams — Jugend hackt — Lernen durch Erklären — Japan — NFC — Lorawan — Wikidata — SUBSCRIBE 10 — WordPress — Static Website Generators — Ultrawide Monitore — iPhone Xs — Costa Rica</strong></p>
+
+<p>Die letzte Sendung vor Tims Abreise nach Barcelona bringt noch einen neuen Gast in die Runde: wir begrüßen Sabine aka. @bleeptrack und sprechen viel über ihre zahlreichen Hackereien und Erkläereien auf YouTube und ihr Engament bei Jugend hackt und anderen Initiativen und Hackerspaces. Dabei kommen wir gewohnt vom Hölzchen aufs Stöckchen und schaffen wieder unsere vier Stunden. Viel Spaß damit.</p>
+
+<p><strong>Dauer:</strong> 4:05:57</p>
+
+
+
+<table class="podlove-contributors-table">
+<tbody>
+<tr>
+<th colspan="2" class="contributor-group">
+On Air
+</th>
+</tr>
+<tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/47/08928e3c26dcb1141d67ad75869619/tim-pritlove_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Tim Pritlove
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/timpritlove">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Website" href="http://metaebene.me">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Bitcoin" href="bitcoin:19unDNWVNsChMpjfhDYYBsrCi2SmBgyKRV">
+
+<img class="podlove-contributor-button" alt="Bitcoin Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Amazon Wishlist" href="http://amzn.to/2jYADm2">
+
+<img class="podlove-contributor-button" alt="Amazon Wishlist Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Liberapay" href="https://liberapay.com/timpritlove">
+
+<img class="podlove-contributor-button" alt="Liberapay Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/eb/9a09741900fcc6eaaae72087e341f5/liberapay_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="SEPA-Überweisung via Online-Banking-Software" href="bank://singlepaymentsepa?name=TIM%20PRITLOVE&reason=Spende%20Metaebene%20BZ&iban=DE56250501800142003698&bic=SPKHDE2H&amount=23%2C00">
+
+<img class="podlove-contributor-button" alt="SEPA-&#xDC;berweisung via Online-Banking-Software Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/0b/a21cf92d6d7decb426dcf942258a00/generic-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3QGDYX8LFLX4L">
+
+<img class="podlove-contributor-button" alt="Paypal Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/1e/dda05a5c8e578ae1dadacb80f07b99/paypal_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/c1/21cff53f4e515d323d48f5dc96cda6/letty_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/c1/21cff53f4e515d323d48f5dc96cda6/letty_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/c1/21cff53f4e515d323d48f5dc96cda6/letty_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/c1/21cff53f4e515d323d48f5dc96cda6/letty_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Letty
+</td>
+<td class="social_cell">
+<a target="_blank" title="GitHub" href="https://github.com/letty">
+
+<img class="podlove-contributor-button" alt="GitHub Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Website" href="http://letty.io">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Twitter" href="https://twitter.com/lettebowskie">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Lettys Wunschliste" href="http://amzn.to/2jVc3lM">
+
+<img class="podlove-contributor-button" alt="Lettys Wunschliste Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/8e/f30cbe274c3f5e43dc4a7219676f50/hukl_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/8e/f30cbe274c3f5e43dc4a7219676f50/hukl_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/8e/f30cbe274c3f5e43dc4a7219676f50/hukl_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/8e/f30cbe274c3f5e43dc4a7219676f50/hukl_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+hukl
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/hukl">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="GitHub" href="https://github.com/hukl">
+
+<img class="podlove-contributor-button" alt="GitHub Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/57/4cc0bc8ace72e297dde73553815062/github_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="SMYCK" href="http://smyck.net">
+
+<img class="podlove-contributor-button" alt="SMYCK Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+<a target="_blank" title="Thomann Wishlist" href="http://www.thomann.de/de/wishlist_4u_0af163b22f6e.html">
+
+<img class="podlove-contributor-button" alt="Thomann Wishlist Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/e6/bf74ef5988ef9e60faa18904a2acd5/thomann-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/e6/bf74ef5988ef9e60faa18904a2acd5/thomann-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/e6/bf74ef5988ef9e60faa18904a2acd5/thomann-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/e6/bf74ef5988ef9e60faa18904a2acd5/thomann-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Amazon Wishlist" href="http://amzn.to/2rC5wLw">
+
+<img class="podlove-contributor-button" alt="Amazon Wishlist Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/f3/22c50122009b1c3e3bf3ad76b25db1/amazon-wishlist_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Bitcoin" href="bitcoin:1PcuTtgeoeqCAw4ys1krihUmFWqfSsThjJ">
+
+<img class="podlove-contributor-button" alt="Bitcoin Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a7/de42e214d031f5a10cb2dd670fb8cb/bitcoin_60x60.png 3x"/>
+
+</a>
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/0f/9c18f5e825496b9060337f92814142/clemens-schrimpe_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/0f/9c18f5e825496b9060337f92814142/clemens-schrimpe_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/0f/9c18f5e825496b9060337f92814142/clemens-schrimpe_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/0f/9c18f5e825496b9060337f92814142/clemens-schrimpe_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Clemens Schrimpe
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/csch42">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/1c/fad237eba06f6c3b2540366edd8323/bleeptrack_50x50.png" srcset="https://freakshow.fm/wp-content/cache/podlove/1c/fad237eba06f6c3b2540366edd8323/bleeptrack_50x50.png 1x, https://freakshow.fm/wp-content/cache/podlove/1c/fad237eba06f6c3b2540366edd8323/bleeptrack_100x100.png 2x, https://freakshow.fm/wp-content/cache/podlove/1c/fad237eba06f6c3b2540366edd8323/bleeptrack_150x150.png 3x"/>
+
+</td>
+<td class="title_cell">
+Bleeptrack
+</td>
+<td class="social_cell">
+<a target="_blank" title="Website" href="https://www.bleeptrack.de">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Twitter" href="https://twitter.com/bleeptrack">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="YouTube (User)" href="https://www.youtube.com/user/BleeptrackPodcast">
+
+<img class="podlove-contributor-button" alt="YouTube (User) Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/3e/fb27f7d8dc4d3dba732cbff1299810/youtube-user_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/3e/fb27f7d8dc4d3dba732cbff1299810/youtube-user_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/3e/fb27f7d8dc4d3dba732cbff1299810/youtube-user_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/3e/fb27f7d8dc4d3dba732cbff1299810/youtube-user_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+</td>
+</tr><tr>
+<th colspan="2" class="contributor-group">
+Support
+</th>
+</tr>
+<tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/86/a5d95a6536f0648145221905ef79c2/janis-prefect_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/86/a5d95a6536f0648145221905ef79c2/janis-prefect_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/86/a5d95a6536f0648145221905ef79c2/janis-prefect_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/86/a5d95a6536f0648145221905ef79c2/janis-prefect_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Janis Prefect
+<br><em>Previously: Ist besser als Schmatzen</em>
+</td>
+<td class="social_cell">
+<a target="_blank" title="Twitter" href="https://twitter.com/janvondan">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Soundcloud" href="https://soundcloud.com/janvondan">
+
+<img class="podlove-contributor-button" alt="Soundcloud Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/1f/5b4add9e8b9048e327eaf94ed39cfe/soundcloud_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+</td>
+</tr><tr>
+<td class="avatar_cell">
+
+<img class="avatar avatar-50 photo" alt="avatar" width="50" height="50" src="https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_50x50.jpg" srcset="https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_50x50.jpg 1x, https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_100x100.jpg 2x, https://freakshow.fm/wp-content/cache/podlove/e9/21020bd25a7237733dc4bca4e868ab/studio-link-on-air_150x150.jpg 3x"/>
+
+</td>
+<td class="title_cell">
+Studio Link On Air
+</td>
+<td class="social_cell">
+<a target="_blank" title="Website" href="https://studio-link.de">
+
+<img class="podlove-contributor-button" alt="Website Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/a4/26976e5d55fca60c010bdf4a44fcc4/website_60x60.png 3x"/>
+
+</a>
+<a target="_blank" title="Twitter" href="https://twitter.com/studio_link">
+
+<img class="podlove-contributor-button" alt="Twitter Icon" width="20" height="20" src="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png" srcset="https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_20x20.png 1x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_40x40.png 2x, https://freakshow.fm/wp-content/cache/podlove/06/98a8013f2dd0b64b31d9a37991d4dd/twitter_60x60.png 3x"/>
+
+</a>
+</td>
+<td class="donation_cell">
+</td>
+</tr></tbody>
+</table>
+
+
+
+
+
+<strong>Shownotes:</strong>
+
+<div id="osf_usnid_9410_blockstyle">
+<div class="osf_chapterbox">  <h2></h2> <span class="osf_chaptertime" data-time=""></span><p class="osf_items"> 
+<a href="https://www.youtube.com/user/BleeptrackPodcast">YouTube: Bleeptrack</a>&nbsp;—&#32;<a href="https://knityak.com">KnitYak: Custom mathematical knit scarves</a>&nbsp;—&#32;<a href="https://beetles.bleeptrack.de/">beetlesbot by bleeptrack</a>&nbsp;—&#32;<a href="https://p5js.org">p5js.org</a>&nbsp;—&#32;<a href="https://processing.org">Processing.org</a>&nbsp;—&#32;<a href="https://media.ccc.de/v/35c3-1-generative-art-with-paper-js">Generative Art with Paper.js</a>&nbsp;—&#32;<a href="https://heise.de/-4204793">heise online: KI druckt Kunst: Auktionshaus Christie&#039;s versteigert KI-Gem&auml;lde f&uuml;r 380.000 Euro</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Kunst">Wikipedia: Kunst</a> (<a href="https://www.kunstundhorst.de/2016/11/13/kuuho027-kometen-mfn-berlin/">kunst &amp; horst: kuuho027 Kometen - MfN Berlin</a>&nbsp;—&#32;<a href="https://www.golem.de/news/refrigerdating-samsung-praesentiert-kuehlschrank-tinder-1902-139226.html">Refrigerdating: Samsung pr&auml;sentiert K&uuml;hlschrank-Tinder - Golem.de</a>) &nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Der_elektrische_Mönch">Wikipedia: Der elektrische M&ouml;nch</a>&nbsp;—&#32;<a href="https://www.youtube.com/watch?v=_ZG8HBuDjgc">Douglas Adams: Parrots the Universe and Everything</a>&nbsp;—&#32;<a href="https://www.youtube.com/watch?v=8UNG3cQoOEc">PDC 1996 Keynote with Douglas Adams</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis_%28Fernsehserie%29">Wikipedia: Per Anhalter durch die Galaxis (Fernsehserie)</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Die_Letzten_ihrer_Art">Wikipedia: Die Letzten ihrer Art</a>&nbsp;—&#32;<a href="https://www.ted.com/talks/douglas_adams_parrots_the_universe_and_everything">Douglas Adams: Parrots, the universe and everything</a>&nbsp;—&#32;<a href="https://www.imdb.com/title/tt4047038/">Dirk Gently&#039;s Holistic Detective Agency (TV Series 2016&ndash;2017)</a> (<a href="https://www.youtube.com/watch?v=5eN939qPkZ0">Hitchhikers - Marvin Vs The Tank</a> (<a href="https://www.express.de/news/panorama/sprachassistent-mit-eigenleben-alexa-feiert-party---am-ende-ist-ein-loch-in-der-tuer-31998432">Sprachassistent mit Eigenleben: Alexa feiert Party &ndash; am Ende ist ein Loch in der T&uuml;r</a>) &nbsp;—&#32;<a href="https://media.ccc.de/v/34c3-9285-qualityland">34C3: QualityLand</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Der_tiefere_Sinn_des_Labenz">Wikipedia: Der tiefere Sinn des Labenz</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/The_Meaning_of_Liff">Wikipedia: The Meaning of Liff</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Jugend_hackt">Wikipedia: Jugend hackt</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Ulmer_Spatz">Wikipedia: Ulmer Spatz</a>&nbsp;—&#32;<a href="https://goo.gl/maps/PBu3Hm7fqg52">Sp&auml;tzlefenster</a>&nbsp;—&#32;<a href="https://www.japan.travel/en/spot/1524/">Japan National Tourism Organization: Metropolitan Area Outer Underground Discharge Channel</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/G-Cans">Wikipedia: G-Cans</a>&nbsp;—&#32;<a href="https://nextcity.org/daily/entry/how-blue-lights-on-train-platforms-combat-tokyos-suicide-epidemic">How Blue Lights on Train Platforms Combat Tokyo&rsquo;s Suicide Epidemic</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/The_Complete_Manual_of_Suicide">Wikipedia: The Complete Manual of Suicide</a>&nbsp;—&#32;<a href="https://www.atlasobscura.com/places/aokigahara-suicide-forest">Atlas Obscura: Aokigahara Suicide Forest</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Tageslichtlampe">Wikipedia: Tageslichtlampe</a>&nbsp;—&#32;<a href="https://www.mifare.net/en/products/chip-card-ics/mifare-ultralight/">MIFARE Ultralight Family</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/MIFARE">Wikipedia: MIFARE</a>&nbsp;—&#32;<a href="https://www.alibaba.com/product-detail/Promotional-updated-Rfid-Uhf-Glass-Tube_60518107734.html?spm=a2700.7724857.normalList.87.6bd02e3dQg2g3I">Promotional Updated Rfid Uhf Glass Tube Tag Rfid Glass Tag With Syringe</a> (<a href="https://99percentinvisible.org/episode/atomic-tattoos/">Atomic Tattoos - 99% Invisible</a>) &nbsp;—&#32;<a href="https://itunes.apple.com/de/app/nfc21-reader/id1293225257?mt=8">App Store: NFC21 Reader</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network">Wikipedia: Long Range Wide Area Network</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/LoRa">Wikipedia: LoRa</a>&nbsp;—&#32;<a href="https://www.heise.de/newsticker/meldung/nuSIM-Telekom-arbeitet-an-integrierter-SIM-fuer-IoT-Geraete-4298260.html">heise online: nuSIM: Telekom arbeitet an integrierter SIM f&uuml;r IoT-Ger&auml;te</a>&nbsp;—&#32;<a href="https://en.wikipedia.org/wiki/Narrowband_IoT">Wikipedia: Narrowband IoT</a>&nbsp;—&#32;<a href="https://radforschung.org/">Radforschung</a>&nbsp;—&#32;<a href="https://verschwoerhaus.de">Verschw&ouml;rhaus</a>&nbsp;—&#32;<a href="https://verschwoerhaus.de/meld-dich-an-zum-wikidata-workshop-2019/">Verschw&ouml;rhaus: Wikidata Workshop 2019</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Wikipedia:Wikidata-Workshop-Ulm-2019">Wikipedia:Wikidata-Workshop-Ulm-2019</a>&nbsp;—&#32;<a href="https://twitter.com/WikidataFacts">@WikidataFacts</a>&nbsp;—&#32;<a href="https://query.wikidata.org">query.wikidata.org</a>&nbsp;—&#32;<a href="https://botsin.space/@touritafel/">touritafel</a>&nbsp;—&#32;<a href="https://www.fontsquirrel.com/fonts/d-din">D-DIN Font Free</a>&nbsp;—&#32;<a href="https://wordpress.org/plugins/classic-editor/">WordPress.org: Classic Editor</a>&nbsp;—&#32;<a href="https://gohugo.io">gohugo.io</a>&nbsp;—&#32;<a href="https://themes.gohugo.io/">Hugo Themes</a>&nbsp;—&#32;<a href="https://www.gatsbyjs.org">GatsbyJS</a>&nbsp;—&#32;<a href="https://www.staticgen.com">StaticGen: leaderboard of the top open source static site generators</a>&nbsp;—&#32;<a href="https://www.amazon.de/gp/product/B073RL2NMC/?ie=UTF8&amp;linkCode=as2&amp;tag=mobilemacs-21">Dell U3818DW Ultrawide Monitor</a>&nbsp;—&#32;<a href="http://magnet.crowdcafe.com">Magnet</a>&nbsp;—&#32;<a href="https://mizage.com/divvy/">Divvy</a>&nbsp;—&#32;<a href="https://www.folivora.ai/bettersnaptool">BetterSnapTool</a>&nbsp;—&#32;<a href="https://bahoom.com/hyperdock">HyperDock</a>&nbsp;—&#32;<a href="https://twitter.com/csch42/status/1085990386147954688">Single-Mode mitten im Nebelwald von Costa Rica</a>&nbsp;—&#32;<a href="https://de.wikipedia.org/wiki/Quetzal_(Vogel)">Wikipedia: Quetzal (Vogel)</a>.</p></div></div>
+
+
+<hr/>
+
+<hr />
+<img src="https://ir-de.amazon-adsystem.com/e/ir?t=mobilemacs-21&l=alb&o=3&a=B073RL2NMC" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /> <!--Section tag for iterating through the list of items-->
+<!-- Single product Ad Template Layout. Position of the Ad can be configured by specifying pull-left or pull-right class below-->
+<div class="aalb-pa-ad-unit pull-left" id="aalb-B073RL2NMC-DE-mobilemacs-21-ProductAd">
+   <div class="aalb-pa-product-container">
+           <!-- Section tag for beginning of information on one item -->
+             <!-- Section tag for picking up information on attributes for the item -->
+                <div class="aalb-pa-product-image">
+                  <div class="aalb-pa-product-image-wrapper">
+                    <a class="aalb-pa-product-image-link" href="https://www.amazon.de/U3818DW-Monitor-DisplayPort-Reaktionszeit-schwarz/dp/B073RL2NMC?SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B073RL2NMC" title="DELL U3818DW 96,5 cm (38 Zoll) Monitor (HDMI, DisplayPort, LED, 5ms Reaktionszeit) silber/schwarz" target="_blank" rel="nofollow"> <!--Individual attributes are provided as variable tags as . Check documentation for list of supported variable tags.-->
+                      <img class="aalb-pa-product-image-source" src="https://images-eu.ssl-images-amazon.com/images/I/41EG%2BmIB2RL._SL160_.jpg" srcset="https://images-eu.ssl-images-amazon.com/images/I/41EG%2BmIB2RL.jpg" alt="DELL U3818DW 96,5 cm (38 Zoll) Monitor (HDMI, DisplayPort, LED, 5ms Reaktionszeit) silber/schwarz" />
+                                            </a>
+                  </div>
+                </div>
+                <div class="aalb-pa-product-details">
+                  <div class="aalb-pa-product-title">
+                    <a href="https://www.amazon.de/U3818DW-Monitor-DisplayPort-Reaktionszeit-schwarz/dp/B073RL2NMC?SubscriptionId=AKIAJUU6J4KBYEWQ3JBA&amp;tag=mobilemacs-21&amp;linkCode=alb&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B073RL2NMC" title="DELL U3818DW 96,5 cm (38 Zoll) Monitor (HDMI, DisplayPort, LED, 5ms Reaktionszeit) silber/schwarz" target="_blank" rel="nofollow">
+                      DELL U3818DW 96,5 cm (38 Zoll) Monitor (HDMI, DisplayPort, LED, 5ms Reaktionszeit) silber/schwarz
+                    </a>
+                  </div>
+                  <div class="aalb-pa-product-offer-price">
+                    <!-- The section tag for different marketplaces ensures localization of static text.  -->
+                    Preis: <span class="aalb-pa-product-offer-price-value">EUR 1.156,93</span>
+                  </div>
+                                     <!-- The section tag ensures that prime icon is displayed only if it is available -->
+                    <div class="aalb-pa-product-prime-icon">
+                        <i class="icon-prime-all"></i>
+                    </div>
+                </div>
+      </div>
+   </div>
+
+
+
+]]></content:encoded>
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+        <psc:chapter start="00:00:00.000" title="Intro"/>
+        <psc:chapter start="00:02:15.114" title="Prolog"/>
+        <psc:chapter start="00:06:41.406" title="@bleeptrack"/>
+        <psc:chapter start="00:15:08.745" title="beetlesbot"/>
+        <psc:chapter start="00:43:27.545" title="Douglas Adams"/>
+        <psc:chapter start="01:15:01.857" title="Jugend hackt"/>
+        <psc:chapter start="01:23:17.049" title="Lernen durch Erklären"/>
+        <psc:chapter start="01:50:49.092" title="Japan"/>
+        <psc:chapter start="01:59:12.237" title="NFC"/>
+        <psc:chapter start="02:34:37.472" title="Lorawan"/>
+        <psc:chapter start="02:48:16.029" title="Wikidata"/>
+        <psc:chapter start="02:59:48.824" title="SUBSCRIBE 10"/>
+        <psc:chapter start="03:04:55.574" title="WordPress"/>
+        <psc:chapter start="03:08:14.886" title="Static Website Generators"/>
+        <psc:chapter start="03:19:12.365" title="Ultrawide Monitore und Window Manager"/>
+        <psc:chapter start="03:38:07.337" title="Macs kaufen"/>
+        <psc:chapter start="03:41:56.162" title="iPhone Xs"/>
+        <psc:chapter start="03:47:59.097" title="Costa Rica"/>
+        <psc:chapter start="04:03:22.501" title="Ausklang"/>
+      </psc:chapters>
+      <atom:contributor>
+        <atom:name>Tim Pritlove</atom:name>
+        <atom:uri>http://tim.pritlove.org/</atom:uri>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Letty</atom:name>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>hukl</atom:name>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Clemens Schrimpe</atom:name>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Bleeptrack</atom:name>
+      </atom:contributor>
+      <itunes:season>2</itunes:season>
+      <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=g4llz4&amp;language=de_DE&amp;url=https%3A%2F%2Ffreakshow.fm%2Ffs231-marmorkuchenstadt-hommelbach&amp;title=FS231+Marmorkuchenstadt+Hommelbach&amp;description=Die+letzte+Sendung+vor+Tims+Abreise+nach+Barcelona+bringt+noch+einen+neuen+Gast+in+die+Runde%3A+wir+begr%C3%BC%C3%9Fen+Sabine+aka.+%40bleeptrack+und+sprechen+viel+%C3%BCber+ihre+zahlreichen+Hackereien+und+Erkl%C3%A4ereien+auf+YouTube+und+ihr+Engament+bei+Jugend+hackt+und+anderen+Initiativen+und+Hackerspaces.+Dabei+kommen+wir+gewohnt+vom+H%C3%B6lzchen+aufs+St%C3%B6ckchen+und+schaffen+wieder+unsere+vier+Stunden.+Viel+Spa%C3%9F+damit." type="text/html"/>
+    </item>
+  </channel>
+</rss>
