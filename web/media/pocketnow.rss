@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Pocketnow Weekly Podcast</title>
+
+				<link>http://pocketnow.com/tag/pocketnowweekly</link>
+
+			<atom:link href="https://feeds.acast.com/public/shows/5a6229bdd1a9c2d8128140d7" rel="self" type="application/rss+xml"/>
+				<language>en</language>
+
+				<copyright>Pocketnow</copyright>
+
+				<itunes:keywords>mobile,pocketnow,podcast,smartphone,tablet,technology,weekly</itunes:keywords>
+
+				<itunes:author>Pocketnow</itunes:author>
+
+				<itunes:subtitle>Tech news and opinion from the team at Pocketnow.com</itunes:subtitle>
+
+				<itunes:summary>Mobile-tech talk and lame jokes from the informative yet unrefined team at Pocketnow. Covering smartphones, tablets, wearables and other gadgets you dreamed of owning when you were young. Stitcher Award winner: Best Technology Podcast, 2013</itunes:summary>
+
+				<description>Mobile-tech talk and lame jokes from the informative yet unrefined team at Pocketnow. Covering smartphones, tablets, wearables and other gadgets you dreamed of owning when you were young. Stitcher Award winner: Best Technology Podcast, 2013 <a rel="monetization" href="https://www.patreon.com/pocketnow-monetization" >$pay.stronghold.co/gtcXHkN0ZsViO4ZpEFLATn5sq6WKCmpqrqmD9GrFToi</a> <a rel="payment" href="https://www.patreon.com/pocketnow"></a></description>
+
+				<itunes:explicit>yes</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Pocketnow</itunes:name>
+					<itunes:email>info+5a6229bdd1a9c2d8128140d7@mg.pippa.io</itunes:email>
+</itunes:owner>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://assets.pippa.io/shows/5a6229bdd1a9c2d8128140d7/show-cover.jpg"/>
+				<image>
+					<url>https://assets.pippa.io/shows/5a6229bdd1a9c2d8128140d7/show-cover.jpg</url>
+					<link>http://pocketnow.com/tag/pocketnowweekly</link>
+					<title>Pocketnow Weekly Podcast</title>
+</image>
+
+				<itunes:new-feed-url>https://feeds.acast.com/public/shows/5a6229bdd1a9c2d8128140d7</itunes:new-feed-url>
+
+				<item>
+						<title><![CDATA[Where is Nick's Galaxy S20? Also, an ode to MWC 2020.]]></title>
+
+						<itunes:title><![CDATA[Where is Nick's Galaxy S20? Also, an ode to MWC 2020.]]></itunes:title>
+
+						<pubDate>Tue, 25 Feb 2020 02:40:29 GMT</pubDate>
+
+						<itunes:duration>54:07</itunes:duration>
+
+					<enclosure url="https://dts.podtrac.com/redirect.mp3/feeds.acast.com/public/streams/5a6229bdd1a9c2d8128140d7/episodes/5e54891e6dd5ebdc4f146a24.mp3" length="77959193" type="audio/mp3"/>
+					<guid isPermaLink="false">5e54891e6dd5ebdc4f146a24</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5a6229bdd1a9c2d8128140d7/episodes/where-is-nicks-galaxy-s20-also-an-ode-to-mwc-2020</link>
+
+						<itunes:subtitle>JV shares some early thoughts on the Galaxy 20 Ultra and then shares some stories from past Mobile World Congress visits.</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>397</itunes:episode>
+
+						<description><![CDATA[<p>Nick Gray (editor-in-chief of Phandroid) returns to share some stories from our past years in Barcelona for Mobile World Congress, after lamenting a little bit about the fact that his Samsung devices haven't come in yet. In an ode to MWC 2020, the two symbolically pour one out for this year's show which is still kind of going thanks to a few companies who decided to still have their events. We hope our friends who are still in Barcelona are having a great time drinking wine without us.</p><br><p>Become part of the conversation on Twitter by mentioning @pocketnow and @jvtechtea with the hashtag #PNWeekly!</p><br><p>Follow our guests!</p><p>Nick Gray (Phandroid) ---</p><p><a href="http://youtube.com/phandroid" target="_blank">http://youtube.com/phandroid</a></p><p><a href="http://phandroid.com/" target="_blank">http://phandroid.com</a></p><p><a href="http://twitter.com/phandroid" target="_blank">http://twitter.com/phandroid</a></p><p><a href="http://twitter.com/nickmgray" target="_blank">http://twitter.com/nickmgray</a></p><br><p>Follow our host!</p><p>Joshua Vergara (JV) ---</p><p><a href="http://youtube.com/joshuavergara" target="_blank">http://youtube.com/joshuavergara</a></p><p><a href="http://twitter.com/jvtechtea" target="_blank">http://twitter.com/jvtechtea</a></p><p><a href="http://instagram.com/jvtechtea" target="_blank">http://instagram.com/jvtechtea</a></p><br><p>Subscribe:&nbsp;<a href="http://bit.ly/pocketnowsub" target="_blank">http://bit.ly/pocketnowsub</a></p><p><a href="http://pocketnow.com/" target="_blank">http://pocketnow.com</a></p><br><p>Follow us:</p><p><a href="http://flipboard.com/@Pocketnow" target="_blank">http://flipboard.com/@Pocketnow</a></p><p><a href="http://facebook.com/pocketnow" target="_blank">http://facebook.com/pocketnow</a></p><p><a href="http://twitter.com/pocketnow" target="_blank">http://twitter.com/pocketnow</a></p><p><a href="http://instagram.com/pocketnow" target="_blank">http://instagram.com/pocketnow</a></p><br><p>Graphics provided by:&nbsp;<a href="https://open.acast.com/shows/5a6229bdd1a9c2d8128140d7/episodes/Motionvfx.com" target="_blank">Motionvfx.com</a></p>]]></description>
+
+						<itunes:summary><![CDATA[<p>Nick Gray (editor-in-chief of Phandroid) returns to share some stories from our past years in Barcelona for Mobile World Congress, after lamenting a little bit about the fact that his Samsung devices haven't come in yet. In an ode to MWC 2020, the two symbolically pour one out for this year's show which is still kind of going thanks to a few companies who decided to still have their events. We hope our friends who are still in Barcelona are having a great time drinking wine without us.</p><br><p>Become part of the conversation on Twitter by mentioning @pocketnow and @jvtechtea with the hashtag #PNWeekly!</p><br><p>Follow our guests!</p><p>Nick Gray (Phandroid) ---</p><p><a href="http://youtube.com/phandroid" target="_blank">http://youtube.com/phandroid</a></p><p><a href="http://phandroid.com/" target="_blank">http://phandroid.com</a></p><p><a href="http://twitter.com/phandroid" target="_blank">http://twitter.com/phandroid</a></p><p><a href="http://twitter.com/nickmgray" target="_blank">http://twitter.com/nickmgray</a></p><br><p>Follow our host!</p><p>Joshua Vergara (JV) ---</p><p><a href="http://youtube.com/joshuavergara" target="_blank">http://youtube.com/joshuavergara</a></p><p><a href="http://twitter.com/jvtechtea" target="_blank">http://twitter.com/jvtechtea</a></p><p><a href="http://instagram.com/jvtechtea" target="_blank">http://instagram.com/jvtechtea</a></p><br><p>Subscribe:&nbsp;<a href="http://bit.ly/pocketnowsub" target="_blank">http://bit.ly/pocketnowsub</a></p><p><a href="http://pocketnow.com/" target="_blank">http://pocketnow.com</a></p><br><p>Follow us:</p><p><a href="http://flipboard.com/@Pocketnow" target="_blank">http://flipboard.com/@Pocketnow</a></p><p><a href="http://facebook.com/pocketnow" target="_blank">http://facebook.com/pocketnow</a></p><p><a href="http://twitter.com/pocketnow" target="_blank">http://twitter.com/pocketnow</a></p><p><a href="http://instagram.com/pocketnow" target="_blank">http://instagram.com/pocketnow</a></p><br><p>Graphics provided by:&nbsp;<a href="https://open.acast.com/shows/5a6229bdd1a9c2d8128140d7/episodes/Motionvfx.com" target="_blank">Motionvfx.com</a></p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Unpacking the Galaxy Z Flip and the MWC cancellation</title>
+
+						<itunes:title>Unpacking the Galaxy Z Flip and the MWC cancellation</itunes:title>
+
+						<pubDate>Mon, 17 Feb 2020 20:42:09 GMT</pubDate>
+
+						<itunes:duration>56:35</itunes:duration>
+
+					<enclosure url="https://dts.podtrac.com/redirect.mp3/feeds.acast.com/public/streams/5a6229bdd1a9c2d8128140d7/episodes/5e4afaa36275e97a142e8cf2.mp3" length="81501834" type="audio/mp3"/>
+					<guid isPermaLink="false">5e4afaa36275e97a142e8cf2</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5a6229bdd1a9c2d8128140d7/episodes/unpacking-the-galaxy-z-flip-and-the-mwc-cancellation</link>
+
+						<itunes:subtitle><![CDATA[A couple special guests bring their thoughts on Samsung's latest announcements and Mobile World Congress ending]]></itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>396</itunes:episode>
+
+						<description><![CDATA[<p>Unpacked was a very interesting event, with Samsung announcing not just their Galaxy S20 line but also their latest foldable, the Galaxy Z Flip. Thunder E of Booredatwork joined me at the Samsung Creator's Lounge after the event wrapped up to talk about the Z Flip and why it's an interesting follow up to the Galaxy Fold.</p><br><p>Our exit from Unpacked brought a major plot twist -- GSMA completely cancelling Mobile World Congress 2020. With the loss of one of the year's most important trade shows, Nick Gray of Phandroid shares his thoughts with JV. After years of MWC, its loss in 2020 automatically makes this one of the most unique and different times in the tech industry.</p><br><p>Become part of the conversation on Twitter by mentioning @pocketnow and @jvtechtea with the hashtag #PNWeekly! Give your thoughts on the questions regarding the Galaxy Z Flip and the implications of social media in our headline-sharing society.</p><br><p>Follow our guests!</p><p>Thunder E of Booredatwork ---</p><p><a href="http://youtube.com/booredatwork" target="_blank">http://youtube.com/booredatwork</a></p><p><a href="http://twitter.com/booredatwork." target="_blank">http://twitter.com/booredatwork</a></p><p><a href="http://instagram.com/booredatwork" target="_blank">http://instagram.com/booredatwork</a></p><br><p>Nick Gray (Phandroid) ---</p><p><a href="http://youtube.com/phandroid" target="_blank">http://youtube.com/phandroid</a></p><p><a href="http://phandroid.com" target="_blank">http://phandroid.com</a></p><p><a href="http://twitter.com/phandroid" target="_blank">http://twitter.com/phandroid</a></p><p><a href="http://twitter.com/nickmgray" target="_blank">http://twitter.com/nickmgray</a></p><br><p>Follow our host!</p><p>Joshua Vergara (JV) ---</p><p><a href="http://youtube.com/joshuavergara" target="_blank">http://youtube.com/joshuavergara</a></p><p><a href="http://twitter.com/jvtechtea" target="_blank">http://twitter.com/jvtechtea</a></p><p><a href="http://instagram.com/jvtechtea" target="_blank">http://instagram.com/jvtechtea</a></p><br><p>Subscribe:&nbsp;<a href="http://bit.ly/pocketnowsub" target="_blank">http://bit.ly/pocketnowsub</a></p><p><a href="http://pocketnow.com/" target="_blank">http://pocketnow.com</a></p><br><p>Follow us:</p><p><a href="http://flipboard.com/@Pocketnow" target="_blank">http://flipboard.com/@Pocketnow</a></p><p><a href="http://facebook.com/pocketnow" target="_blank">http://facebook.com/pocketnow</a></p><p><a href="http://twitter.com/pocketnow" target="_blank">http://twitter.com/pocketnow</a></p><p><a href="http://instagram.com/pocketnow" target="_blank">http://instagram.com/pocketnow</a></p><br><p>Graphics provided by:&nbsp;<a href="https://open.acast.com/shows/5a6229bdd1a9c2d8128140d7/episodes/Motionvfx.com" target="_blank">Motionvfx.com</a></p>]]></description>
+
+						<itunes:summary><![CDATA[<p>Unpacked was a very interesting event, with Samsung announcing not just their Galaxy S20 line but also their latest foldable, the Galaxy Z Flip. Thunder E of Booredatwork joined me at the Samsung Creator's Lounge after the event wrapped up to talk about the Z Flip and why it's an interesting follow up to the Galaxy Fold.</p><br><p>Our exit from Unpacked brought a major plot twist -- GSMA completely cancelling Mobile World Congress 2020. With the loss of one of the year's most important trade shows, Nick Gray of Phandroid shares his thoughts with JV. After years of MWC, its loss in 2020 automatically makes this one of the most unique and different times in the tech industry.</p><br><p>Become part of the conversation on Twitter by mentioning @pocketnow and @jvtechtea with the hashtag #PNWeekly! Give your thoughts on the questions regarding the Galaxy Z Flip and the implications of social media in our headline-sharing society.</p><br><p>Follow our guests!</p><p>Thunder E of Booredatwork ---</p><p><a href="http://youtube.com/booredatwork" target="_blank">http://youtube.com/booredatwork</a></p><p><a href="http://twitter.com/booredatwork." target="_blank">http://twitter.com/booredatwork</a></p><p><a href="http://instagram.com/booredatwork" target="_blank">http://instagram.com/booredatwork</a></p><br><p>Nick Gray (Phandroid) ---</p><p><a href="http://youtube.com/phandroid" target="_blank">http://youtube.com/phandroid</a></p><p><a href="http://phandroid.com" target="_blank">http://phandroid.com</a></p><p><a href="http://twitter.com/phandroid" target="_blank">http://twitter.com/phandroid</a></p><p><a href="http://twitter.com/nickmgray" target="_blank">http://twitter.com/nickmgray</a></p><br><p>Follow our host!</p><p>Joshua Vergara (JV) ---</p><p><a href="http://youtube.com/joshuavergara" target="_blank">http://youtube.com/joshuavergara</a></p><p><a href="http://twitter.com/jvtechtea" target="_blank">http://twitter.com/jvtechtea</a></p><p><a href="http://instagram.com/jvtechtea" target="_blank">http://instagram.com/jvtechtea</a></p><br><p>Subscribe:&nbsp;<a href="http://bit.ly/pocketnowsub" target="_blank">http://bit.ly/pocketnowsub</a></p><p><a href="http://pocketnow.com/" target="_blank">http://pocketnow.com</a></p><br><p>Follow us:</p><p><a href="http://flipboard.com/@Pocketnow" target="_blank">http://flipboard.com/@Pocketnow</a></p><p><a href="http://facebook.com/pocketnow" target="_blank">http://facebook.com/pocketnow</a></p><p><a href="http://twitter.com/pocketnow" target="_blank">http://twitter.com/pocketnow</a></p><p><a href="http://instagram.com/pocketnow" target="_blank">http://instagram.com/pocketnow</a></p><br><p>Graphics provided by:&nbsp;<a href="https://open.acast.com/shows/5a6229bdd1a9c2d8128140d7/episodes/Motionvfx.com" target="_blank">Motionvfx.com</a></p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>How Coronavirus is affecting MWC 2020</title>
+
+						<itunes:title>How Coronavirus is affecting MWC 2020</itunes:title>
+
+						<pubDate>Mon, 10 Feb 2020 19:32:07 GMT</pubDate>
+
+						<itunes:duration>15:57</itunes:duration>
+
+					<enclosure url="https://dts.podtrac.com/redirect.mp3/feeds.acast.com/public/streams/5a6229bdd1a9c2d8128140d7/episodes/5e41afb8824851b777448074.mp3" length="22991385" type="audio/mp3"/>
+					<guid isPermaLink="false">5e41afb8824851b777448074</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5a6229bdd1a9c2d8128140d7/episodes/how-coronavirus-is-affecting-mwc-2020</link>
+
+						<itunes:subtitle><![CDATA[The world emergency has many implications for the year's biggest mobile tech show.]]></itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>395</itunes:episode>
+
+						<description><![CDATA[<p>Today's episode is an exploration of the affects of the Coronavirus and how it has caused certain companies and vendors to pull out of Mobile World Congress 2020. Though Barcelona is deemed a generally safe zone in this particular crisis, the mass travel to and from Asia into Spain has many people contemplating their presence at the year's biggest tech show. GSMA, the organizers of the show, just recently sent an email to registered attendees that JV talks a bit through in this episode.</p><br><p>Become part of the conversation on Twitter by mentioning @pocketnow and @jvtechtea with the hashtag #PNWeekly! Give your thoughts on the questions regarding the Galaxy Z Flip and the implications of social media in our headline-sharing society.</p><br><p>Follow our host!</p><p>Joshua Vergara (JV) ---</p><p><a href="http://youtube.com/joshuavergara" target="_blank">http://youtube.com/joshuavergara</a></p><p><a href="http://twitter.com/jvtechtea" target="_blank">http://twitter.com/jvtechtea</a></p><p><a href="http://instagram.com/jvtechtea" target="_blank">http://instagram.com/jvtechtea</a></p><br><p>Subscribe:&nbsp;<a href="http://bit.ly/pocketnowsub" target="_blank">http://bit.ly/pocketnowsub</a></p><p><a href="http://pocketnow.com/" target="_blank">http://pocketnow.com</a></p><br><p>Follow us:</p><p><a href="http://flipboard.com/@Pocketnow" target="_blank">http://flipboard.com/@Pocketnow</a></p><p><a href="http://facebook.com/pocketnow" target="_blank">http://facebook.com/pocketnow</a></p><p><a href="http://twitter.com/pocketnow" target="_blank">http://twitter.com/pocketnow</a></p><p><a href="http://instagram.com/pocketnow" target="_blank">http://instagram.com/pocketnow</a></p><br><p>Graphics provided by:&nbsp;<a href="https://open.acast.com/shows/5a6229bdd1a9c2d8128140d7/episodes/Motionvfx.com" target="_blank">Motionvfx.com</a></p>]]></description>
+
+						<itunes:summary><![CDATA[<p>Today's episode is an exploration of the affects of the Coronavirus and how it has caused certain companies and vendors to pull out of Mobile World Congress 2020. Though Barcelona is deemed a generally safe zone in this particular crisis, the mass travel to and from Asia into Spain has many people contemplating their presence at the year's biggest tech show. GSMA, the organizers of the show, just recently sent an email to registered attendees that JV talks a bit through in this episode.</p><br><p>Become part of the conversation on Twitter by mentioning @pocketnow and @jvtechtea with the hashtag #PNWeekly! Give your thoughts on the questions regarding the Galaxy Z Flip and the implications of social media in our headline-sharing society.</p><br><p>Follow our host!</p><p>Joshua Vergara (JV) ---</p><p><a href="http://youtube.com/joshuavergara" target="_blank">http://youtube.com/joshuavergara</a></p><p><a href="http://twitter.com/jvtechtea" target="_blank">http://twitter.com/jvtechtea</a></p><p><a href="http://instagram.com/jvtechtea" target="_blank">http://instagram.com/jvtechtea</a></p><br><p>Subscribe:&nbsp;<a href="http://bit.ly/pocketnowsub" target="_blank">http://bit.ly/pocketnowsub</a></p><p><a href="http://pocketnow.com/" target="_blank">http://pocketnow.com</a></p><br><p>Follow us:</p><p><a href="http://flipboard.com/@Pocketnow" target="_blank">http://flipboard.com/@Pocketnow</a></p><p><a href="http://facebook.com/pocketnow" target="_blank">http://facebook.com/pocketnow</a></p><p><a href="http://twitter.com/pocketnow" target="_blank">http://twitter.com/pocketnow</a></p><p><a href="http://instagram.com/pocketnow" target="_blank">http://instagram.com/pocketnow</a></p><br><p>Graphics provided by:&nbsp;<a href="https://open.acast.com/shows/5a6229bdd1a9c2d8128140d7/episodes/Motionvfx.com" target="_blank">Motionvfx.com</a></p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Samsung is Z FLIPPING out (and so are we?)</title>
+
+						<itunes:title>Samsung is Z FLIPPING out (and so are we?)</itunes:title>
+
+						<pubDate>Tue, 04 Feb 2020 02:50:11 GMT</pubDate>
+
+						<itunes:duration>25:26</itunes:duration>
+
+					<enclosure url="https://dts.podtrac.com/redirect.mp3/feeds.acast.com/public/streams/5a6229bdd1a9c2d8128140d7/episodes/5e38dbe498cfc5f231918ebd.mp3" length="36635055" type="audio/mp3"/>
+					<guid isPermaLink="false">5e38dbe498cfc5f231918ebd</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5a6229bdd1a9c2d8128140d7/episodes/samsung-is-z-flipping-out-and-so-are-we</link>
+
+						<itunes:subtitle>How excited are you for the Galaxy Z Flip?</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>394</itunes:episode>
+
+						<description><![CDATA[<p>A week full of leaks ended with an actual look at Samsung's upcoming flip phone, the Galaxy Z Flip! After seeing what could be considered the spiritual successor to the Galaxy Fold, JV gives us some thoughts on why the smart flip phone form factor is equal parts exciting and problematic. Don't get him wrong, though -- he still wants some. After that, JV ponders the role of social media after tragedies and big news stories like the ones we experienced last week.</p><br><p>Become part of the conversation on Twitter by mentioning @pocketnow and @jvtechtea with the hashtag #PNWeekly! Give your thoughts on the questions regarding the Galaxy Z Flip and the implications of social media in our headline-sharing society.</p><br><p>Follow our host!</p><p>Joshua Vergara (JV) ---</p><p><a href="http://youtube.com/joshuavergara" target="_blank">http://youtube.com/joshuavergara</a></p><p><a href="http://twitter.com/jvtechtea" target="_blank">http://twitter.com/jvtechtea</a></p><p><a href="http://instagram.com/jvtechtea" target="_blank">http://instagram.com/jvtechtea</a></p><br><p>Subscribe:&nbsp;<a href="http://bit.ly/pocketnowsub" target="_blank">http://bit.ly/pocketnowsub</a></p><p><a href="http://pocketnow.com/" target="_blank">http://pocketnow.com</a></p><br><p>Follow us:</p><p><a href="http://flipboard.com/@Pocketnow" target="_blank">http://flipboard.com/@Pocketnow</a></p><p><a href="http://facebook.com/pocketnow" target="_blank">http://facebook.com/pocketnow</a></p><p><a href="http://twitter.com/pocketnow" target="_blank">http://twitter.com/pocketnow</a></p><p><a href="http://instagram.com/pocketnow" target="_blank">http://instagram.com/pocketnow</a></p><br><p>Graphics provided by:&nbsp;<a href="https://open.acast.com/shows/5a6229bdd1a9c2d8128140d7/episodes/Motionvfx.com" target="_blank">Motionvfx.com</a></p>]]></description>
+
+						<itunes:summary><![CDATA[<p>A week full of leaks ended with an actual look at Samsung's upcoming flip phone, the Galaxy Z Flip! After seeing what could be considered the spiritual successor to the Galaxy Fold, JV gives us some thoughts on why the smart flip phone form factor is equal parts exciting and problematic. Don't get him wrong, though -- he still wants some. After that, JV ponders the role of social media after tragedies and big news stories like the ones we experienced last week.</p><br><p>Become part of the conversation on Twitter by mentioning @pocketnow and @jvtechtea with the hashtag #PNWeekly! Give your thoughts on the questions regarding the Galaxy Z Flip and the implications of social media in our headline-sharing society.</p><br><p>Follow our host!</p><p>Joshua Vergara (JV) ---</p><p><a href="http://youtube.com/joshuavergara" target="_blank">http://youtube.com/joshuavergara</a></p><p><a href="http://twitter.com/jvtechtea" target="_blank">http://twitter.com/jvtechtea</a></p><p><a href="http://instagram.com/jvtechtea" target="_blank">http://instagram.com/jvtechtea</a></p><br><p>Subscribe:&nbsp;<a href="http://bit.ly/pocketnowsub" target="_blank">http://bit.ly/pocketnowsub</a></p><p><a href="http://pocketnow.com/" target="_blank">http://pocketnow.com</a></p><br><p>Follow us:</p><p><a href="http://flipboard.com/@Pocketnow" target="_blank">http://flipboard.com/@Pocketnow</a></p><p><a href="http://facebook.com/pocketnow" target="_blank">http://facebook.com/pocketnow</a></p><p><a href="http://twitter.com/pocketnow" target="_blank">http://twitter.com/pocketnow</a></p><p><a href="http://instagram.com/pocketnow" target="_blank">http://instagram.com/pocketnow</a></p><br><p>Graphics provided by:&nbsp;<a href="https://open.acast.com/shows/5a6229bdd1a9c2d8128140d7/episodes/Motionvfx.com" target="_blank">Motionvfx.com</a></p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>TK Bay takes a BYTE out of the Galaxy S20</title>
+
+						<itunes:title>TK Bay takes a BYTE out of the Galaxy S20</itunes:title>
+
+						<pubDate>Mon, 27 Jan 2020 19:54:03 GMT</pubDate>
+
+						<itunes:duration>39:49</itunes:duration>
+
+					<enclosure url="https://dts.podtrac.com/redirect.mp3/feeds.acast.com/public/streams/5a6229bdd1a9c2d8128140d7/episodes/5e2f3e5829099f8547f16d17.mp3" length="57344494" type="audio/mp3"/>
+					<guid isPermaLink="false">5e2f3e5829099f8547f16d17</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5a6229bdd1a9c2d8128140d7/episodes/tk-bay-takes-a-byte-out-of-the-galaxy-s20</link>
+
+						<itunes:subtitle><![CDATA[A new creative platform that replaces Vine goes right up against TK's fave, TikTok! Also, more talk about the Galaxy S20!]]></itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>393</itunes:episode>
+
+						<description><![CDATA[<p>TikTok addict TK Bay returns to the podcast to recount some stories from CES, from which JV has a long overdue rant regarding third party text-based travel services. TK and JV are both going to be at Unpacked soon, too, so they discuss the leaks and information we currently know about Samsung's latest device, the Galaxy S20/S20+/S20 Ultra!</p><br><p>Follow our guests and host!</p><p>TK Bay --</p><p><a href="https://www.youtube.com/channel/UCQN7NhtBqADmNaRA3yc_mAQ" rel="noopener noreferrer" target="_blank">https://www.youtube.com/channel/UCQN7NhtBqADmNaRA3yc_mAQ</a></p><p><a href="http://twitter.com/tkdsl8655" rel="noopener noreferrer" target="_blank">http://twitter.com/tkdsl8655</a></p><p><a href="http://instagram.com/tkdsl8655" rel="noopener noreferrer" target="_blank">http://instagram.com/tkdsl8655</a></p><p><a href="http://xdadevelopers.com" rel="noopener noreferrer" target="_blank">http://xdadevelopers.com</a></p><br><p>Joshua Vergara (JV) ---</p><p><a href="http://youtube.com/joshuavergara" rel="noopener noreferrer" target="_blank">http://youtube.com/joshuavergara</a></p><p><a href="http://twitter.com/jvtechtea" rel="noopener noreferrer" target="_blank">http://twitter.com/jvtechtea</a></p><p><a href="http://instagram.com/jvtechtea" rel="noopener noreferrer" target="_blank">http://instagram.com/jvtechtea</a></p><br><p>Subscribe: <a href="http://bit.ly/pocketnowsub" rel="noopener noreferrer" target="_blank">http://bit.ly/pocketnowsub</a></p><p><a href="http://pocketnow.com" rel="noopener noreferrer" target="_blank">http://pocketnow.com</a></p><br><p>Follow us:</p><p><a href="http://flipboard.com/@Pocketnow" rel="noopener noreferrer" target="_blank">http://flipboard.com/@Pocketnow</a></p><p><a href="http://facebook.com/pocketnow" rel="noopener noreferrer" target="_blank">http://facebook.com/pocketnow</a></p><p><a href="http://twitter.com/pocketnow" rel="noopener noreferrer" target="_blank">http://twitter.com/pocketnow</a></p><p><a href="http://instagram.com/pocketnow" rel="noopener noreferrer" target="_blank">http://instagram.com/pocketnow</a></p><br><p>Graphics provided by: <a href="Motionvfx.com" rel="noopener noreferrer" target="_blank">Motionvfx.com</a></p>]]></description>
+
+						<itunes:summary><![CDATA[<p>TikTok addict TK Bay returns to the podcast to recount some stories from CES, from which JV has a long overdue rant regarding third party text-based travel services. TK and JV are both going to be at Unpacked soon, too, so they discuss the leaks and information we currently know about Samsung's latest device, the Galaxy S20/S20+/S20 Ultra!</p><br><p>Follow our guests and host!</p><p>TK Bay --</p><p><a href="https://www.youtube.com/channel/UCQN7NhtBqADmNaRA3yc_mAQ" rel="noopener noreferrer" target="_blank">https://www.youtube.com/channel/UCQN7NhtBqADmNaRA3yc_mAQ</a></p><p><a href="http://twitter.com/tkdsl8655" rel="noopener noreferrer" target="_blank">http://twitter.com/tkdsl8655</a></p><p><a href="http://instagram.com/tkdsl8655" rel="noopener noreferrer" target="_blank">http://instagram.com/tkdsl8655</a></p><p><a href="http://xdadevelopers.com" rel="noopener noreferrer" target="_blank">http://xdadevelopers.com</a></p><br><p>Joshua Vergara (JV) ---</p><p><a href="http://youtube.com/joshuavergara" rel="noopener noreferrer" target="_blank">http://youtube.com/joshuavergara</a></p><p><a href="http://twitter.com/jvtechtea" rel="noopener noreferrer" target="_blank">http://twitter.com/jvtechtea</a></p><p><a href="http://instagram.com/jvtechtea" rel="noopener noreferrer" target="_blank">http://instagram.com/jvtechtea</a></p><br><p>Subscribe: <a href="http://bit.ly/pocketnowsub" rel="noopener noreferrer" target="_blank">http://bit.ly/pocketnowsub</a></p><p><a href="http://pocketnow.com" rel="noopener noreferrer" target="_blank">http://pocketnow.com</a></p><br><p>Follow us:</p><p><a href="http://flipboard.com/@Pocketnow" rel="noopener noreferrer" target="_blank">http://flipboard.com/@Pocketnow</a></p><p><a href="http://facebook.com/pocketnow" rel="noopener noreferrer" target="_blank">http://facebook.com/pocketnow</a></p><p><a href="http://twitter.com/pocketnow" rel="noopener noreferrer" target="_blank">http://twitter.com/pocketnow</a></p><p><a href="http://instagram.com/pocketnow" rel="noopener noreferrer" target="_blank">http://instagram.com/pocketnow</a></p><br><p>Graphics provided by: <a href="Motionvfx.com" rel="noopener noreferrer" target="_blank">Motionvfx.com</a></p>]]></itunes:summary>
+
+</item>
+
+
+			<itunes:category text="Technology"/>
+			<itunes:category text="Leisure"/>
+			<itunes:category text="Science"/>
+</channel>
+
+</rss>
