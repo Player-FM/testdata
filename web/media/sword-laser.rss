@@ -31,7 +31,8 @@
 
         <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
 
-        <description>Read along with the Sword and Laser book club! From classic science fiction to the latest gritty fantasy, we cover it. Subscribe for book discussions, author interviews, hot releases, and news from the genre fiction world!</description>
+        <description>Read along with the Sword and Laser book club! From classic science fiction to the latest gritty fantasy, we cover it. Subscribe for book discussions, author interviews, hot releases, and news from the genre fiction world! <atom:link rel="monetization" href="$pay.stronghold.co/a019a70b4dc5f327b261a130178ee442354" />
+        <atom:link rel="payment" href="https://www.patreon.com/sword-and-laser" /></description>
 
         <itunes:subtitle>Different worlds, different discussions!</itunes:subtitle>
 
