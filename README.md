@@ -16,7 +16,7 @@ Docker
 
 There's a Dockerfile here. If you have Docker installed, you can run the project with something like:
 
-docker build -t testdata . && docker run -p 8765:8765 -it testdata
+docker build -t testdata . && docker run -p 8765:8080 -it testdata
 
 Then point to http://0.0.0.0:8765
 
