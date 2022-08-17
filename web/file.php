@@ -1,7 +1,6 @@
 <?php
 
 require_once 'utils.php';
-
 global $filepath, $name, $need_body, $self_url;
 
 function bodyless_header($header_string, $response_code=null) {
