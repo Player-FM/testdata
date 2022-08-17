@@ -5,5 +5,5 @@ USER root
 RUN apk add php8-fileinfo
 
 USER nobody
-COPY nginx/testdata.conf /etc/nginx/conf.d
-COPY web /var/www/html/
+COPY nginx/testdata.conf /etc/nginx/nginx.conf
+COPY web /var/www/html
